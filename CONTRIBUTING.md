@@ -29,7 +29,7 @@ This translation is meant to read naturally for Spanish speakers everywhere, not
 
 **Only these characters are supported**, because the font only has glyphs for them:
 ```
-á é í ó ú ñ ü Á É Í Ó Ú Ñ Ü ¿ ¡
+á é í ó ú ñ ü Á É Í Ó Ú Ñ Ü ¿ ¡ º ª
 ```
 Any other accented or special character (curly quotes, em dashes, letters from other languages, etc.) will not render and may break the build. Use plain straight quotes (`"`) and a regular hyphen (`-`) instead of "smart" typographic punctuation.
 
