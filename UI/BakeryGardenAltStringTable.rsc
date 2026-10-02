@@ -123,7 +123,7 @@ StringTable resource
 
 		{ String _name = "BGWoodCutter";			String _text = "Lenador"; }
 		{ String _name = "BGWoodCutterLwr";			String _text = "lenador"; }
-		{ String _name = "BGWoodCutterTip";			String _text = "Lenador para obtener lena."; }
+		{ String _name = "BGWoodCutterTip";			String _text = "Leñador para obtener leña."; }
 
 		{ String _name = "BGGatherer";				String _text = "Recolector"; }
 		{ String _name = "BGGathererLwr";			String _text = "Recolector"; }
@@ -409,7 +409,7 @@ StringTable resource
 		{ String _name = "BGShedTomatoRequire";			String _text = "Tomate"; }
 		{ String _name = "BGShedPotatoRequire";			String _text = "Papa"; }
 		{ String _name = "BGShedOatRequire";			String _text = "Avena"; }
-		{ String _name = "BGShedCornRequire";			String _text = "Maiz"; }
+		{ String _name = "BGShedCornRequire";			String _text = "Maíz"; }
 		{ String _name = "BGShedBeanRequire";			String _text = "Frijol"; }
 		{ String _name = "BGShedBarleyRequire";			String _text = "Cebada"; }
 		{ String _name = "Carrots";				String _text = "Zanahorias"; }

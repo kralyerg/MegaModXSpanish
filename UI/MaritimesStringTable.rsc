@@ -399,8 +399,8 @@ Almacen general, 2000 unidades, basado en cabanas de pesca de PEI, Canada."; }
 		{ String _name = "Bread";					String _text = "Pan"; }
 		{ String _name = "Cider";					String _text = "Sidra"; }
 		{ String _name = "Clam";					String _text = "Almeja"; }
-		{ String _name = "Corn";					String _text = "Maiz"; }
-		{ String _name = "Cranberry";					String _text = "Arandano Rojo"; }
+		{ String _name = "Corn";					String _text = "Maíz"; }
+		{ String _name = "Cranberry";					String _text = "Arándano Rojo"; }
 		{ String _name = "Flour";					String _text = "Harina"; }
 		{ String _name = "Herring";					String _text = "Arenque"; }
 		{ String _name = "Lobster";					String _text = "Langosta"; }
@@ -461,7 +461,7 @@ Almacen general, 2000 unidades, basado en cabanas de pesca de PEI, Canada."; }
 		{ String _name = "Charcoal";					String _text = "Carbon"; }
 		{ String _name = "Dory";					String _text = "Bote"; }
 		{ String _name = "Lumber";					String _text = "Madera"; }
-		{ String _name = "Firewood";					String _text = "Lena"; }
+		{ String _name = "Firewood";					String _text = "Leña"; }
 		{ String _name = "Rope";					String _text = "Cuerda"; }
 		{ String _name = "PineResin";					String _text = "Resina de Pino"; }
 		{ String _name = "PinePitch";					String _text = "Brea de Pino"; }

@@ -244,11 +244,11 @@ StringTable resource
 		// This is the very MAIN Toolbar ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 		{ String _name = "OrchardLodgesToolbar";		String _text = "Barra de Cabanas de Huerto"; }
 		{ String _name = "OrchardLodgesToolbarLwr";		String _text = "barra de cabanas de huerto"; }
-		{ String _name = "OrchardLodgesToolbarTip";		String _text = "Orchard Lodges Toolbar. Open this toolbar to get Orchard Lodges options. (Se usa para define an area to selectively cut down trees and plant new fruit trees seedlings. Cost: 32 madera, 12 piedra. Radius: 24 casillas. Employment: 1-2 guardabosques.)"; }
+		{ String _name = "OrchardLodgesToolbarTip";		String _text = "Barra de Cabanas de Huerto. Abre esta barra para obtener las opciones de las Cabanas de Huerto. (Se usa para definir un area donde talar arboles selectivamente y plantar nuevos plantones de arboles frutales. Costo: 32 madera, 12 piedra. Radio: 24 casillas. Empleo: 1-2 guardabosques.)"; }
 
 		{ String _name = "OrchardLodges2Toolbar";		String _text = "Barra de Cabanas Tropicales"; }
 		{ String _name = "OrchardLodges2ToolbarLwr";		String _text = "barra de cabanas tropicales"; }
-		{ String _name = "OrchardLodges2ToolbarTip";		String _text = "Tropical Lodges Toolbar. Open this toolbar to get Tropical Orchard Lodges options. (Se usa para define an area to selectively cut down trees and plant new tropical fruit trees seedlings. Cost: 32 madera, 12 piedra. Radius: 24 casillas. Employment: 1-2 guardabosques.)"; }
+		{ String _name = "OrchardLodges2ToolbarTip";		String _text = "Barra de Cabanas Tropicales. Abre esta barra para obtener las opciones de las Cabanas de Huerto Tropical. (Se usa para definir un area donde talar arboles selectivamente y plantar nuevos plantones de arboles frutales tropicales. Costo: 32 madera, 12 piedra. Radio: 24 casillas. Empleo: 1-2 guardabosques.)"; }
 
 		{ String _name = "OrchardLodgeAppleTree";		String _text = "Cabana de Manzana"; }
 		{ String _name = "OrchardLodgeAppleTreeLwr";		String _text = "cabana de manzana"; }
@@ -342,36 +342,36 @@ StringTable resource
 
 		{ String _name = "NMT20AleStand";			String _text = "Puesto de Cerveza Ligera"; }
 		{ String _name = "NMT20AleStandLwr";			String _text = "puesto de cerveza ligera"; }
-		{ String _name = "NMT20AleStandTip";			String _text = "Ale Stand toma all your alcohols and offer those to your ciudadanos. Tamano: 4x3. Cost: 16 troncos. Capacity: 3000 de peso. Radius: 20 casillas. Employment: 1-2 cerveceros. Tips: The cerveceros will go around and grab all alcohols in the town and fill their stand. Citizens can pickup alcohols and get (0.05%) happiness from it."; }
+		{ String _name = "NMT20AleStandTip";			String _text = "El Puesto de Cerveza Ligera toma todos tus licores y se los ofrece a tus ciudadanos. Tamano: 4x3. Costo: 16 troncos. Capacidad: 3000 de peso. Radio: 20 casillas. Empleo: 1-2 cerveceros. Consejos: Los cerveceros recorreran la ciudad para recoger todos los licores y llenar su puesto. Los ciudadanos pueden recoger licores y obtener (0.05%) de felicidad por ello."; }
 
 		{ String _name = "NMT30CharcoalKiln";			String _text = "Horno de Carbon Vegetal"; }
 		{ String _name = "NMT30CharcoalKilnLwr";		String _text = "horno de carbon vegetal"; }
-		{ String _name = "NMT30CharcoalKilnTip";		String _text = "Charcoal Kiln toma lena and do charcoal with those. Tamano: 6x6. Cost: 12 troncos, 32 piedra. Can make: 18-24 charcoal from 12 lena. Employment: 1-2 trabajadores. Tips: Double your amount of fuel and provide enough fuel for double housing to compare with lena."; }
+		{ String _name = "NMT30CharcoalKilnTip";		String _text = "El Horno de Carbon Vegetal toma lena y hace carbon con ella. Tamano: 6x6. Costo: 12 troncos, 32 piedra. Puede hacer: 18-24 de carbon a partir de 12 de lena. Empleo: 1-2 trabajadores. Consejos: Duplica tu cantidad de combustible y proporciona suficiente combustible para el doble de viviendas en comparacion con la lena."; }
 
 		{ String _name = "NMT30FurnitureMaker";			String _text = "Fabricante de Muebles"; }
 		{ String _name = "NMT30FurnitureMakerLwr";		String _text = "fabricante de muebles"; }
-		{ String _name = "NMT30FurnitureMakerTip";		String _text = "Furniture Maker toma madera, madera, and some expensive metals and do nice furnitures. Tamano: 8x9. Cost: 34 troncos, 48 madera, 32 piedras, 24 hierro, 8 vidrio. Can make: furniture, fine furniture, silvered furniture, gilded furniture. Employment: 1-2 trabajadores. Tips: Makes some of the best endgame selling resources."; }
+		{ String _name = "NMT30FurnitureMakerTip";		String _text = "El Fabricante de Muebles toma madera y algunos metales costosos para hacer bellos muebles. Tamano: 8x9. Costo: 34 troncos, 48 madera, 32 piedras, 24 hierro, 8 vidrio. Puede hacer: mueble, mueble fino, mueble plateado, mueble dorado. Empleo: 1-2 trabajadores. Consejos: Produce algunos de los mejores recursos para vender en el final del juego."; }
 
 		{ String _name = "NMT30WeaponMaker";			String _text = "Fabricante de Armas"; }
 		{ String _name = "NMT30WeaponMakerLwr";			String _text = "fabricante de armas"; }
-		{ String _name = "NMT30WeaponMakerTip";			String _text = "Weapon Maker toma hierro, madera, and some expensive metal and do deadly weapons. Tamano: 7x9. Cost: 28 troncos, 42 madera, 38 piedras, 36 hierro, 4 vidrio. Can make: weapon, fine weapon, noble weapon, royal weapon. Employment: 1-2 herreros. Tips: Makes some of the best endgame selling resources."; }
+		{ String _name = "NMT30WeaponMakerTip";			String _text = "El Fabricante de Armas toma hierro, madera y algunos metales costosos para hacer armas mortales. Tamano: 7x9. Costo: 28 troncos, 42 madera, 38 piedras, 36 hierro, 4 vidrio. Puede hacer: arma, arma fina, arma noble, arma real. Empleo: 1-2 herreros. Consejos: Produce algunos de los mejores recursos para vender en el final del juego."; }
 
 		{ String _name = "NMT30ArmorMaker";			String _text = "Fabricante de Armaduras"; }
 		{ String _name = "NMT30ArmorMakerLwr";			String _text = "fabricante de armaduras"; }
-		{ String _name = "NMT30ArmorMakerTip";			String _text = "Armor Maker toma hierro, madera, and some expensive metal and do sheilds and armor pieces. Tamano: 8x9. Cost: 32 troncos, 40 madera, 32 piedras, 36 hierro, 6 vidrio. Can make: shield, fine armor, noble armor, royal armor. Employment: 1-2 herreros. Tips: Makes some of the best endgame selling resources."; }
+		{ String _name = "NMT30ArmorMakerTip";			String _text = "El Fabricante de Armaduras toma hierro, madera y algunos metales costosos para hacer escudos y piezas de armadura. Tamano: 8x9. Costo: 32 troncos, 40 madera, 32 piedras, 36 hierro, 6 vidrio. Puede hacer: escudo, armadura fina, armadura noble, armadura real. Empleo: 1-2 herreros. Consejos: Produce algunos de los mejores recursos para vender en el final del juego."; }
 
 
 		{ String _name = "ForesterLodge2";		String _text = "Cabana de Guardabosques 2"; }
 		{ String _name = "ForesterLodge2Lwr";		String _text = "cabana de guardabosques 2"; }
-		{ String _name = "ForesterLodge2Tip";		String _text = "Se usa para define an area to selectively cut down trees and plant new seedlings. This one will plant only the new set of trees. Tamano: 5x6. Cost: 32 troncos, 12 piedras. Radius: 30 casillas. Employment: 1-4 guardabosques."; }
+		{ String _name = "ForesterLodge2Tip";		String _text = "Se usa para definir un area donde talar arboles selectivamente y plantar nuevos plantones. Este solo plantara el nuevo conjunto de arboles. Tamano: 5x6. Costo: 32 troncos, 12 piedras. Radio: 30 casillas. Empleo: 1-4 guardabosques."; }
 
 		{ String _name = "RKEBChapelwood";		String _text = "Pequena Capilla de Madera"; }
 		{ String _name = "RKEBChapelwoodLwr";		String _text = "pequena capilla de madera"; }
-		{ String _name = "RKEBChapelwoodTip";		String _text = "Provides happiness for the devout y un lugar para reunirse y rendir culto. Tamano: 4x7. Cost: 24 troncos, 54 madera. Capacity: 100 Ciudadano. Radius: 24 casillas. Employment: 1 clerigo. Tips: Presiona F para cambiar el color."; }
+		{ String _name = "RKEBChapelwoodTip";		String _text = "Proporciona felicidad a los devotos y un lugar para reunirse y rendir culto. Tamano: 4x7. Costo: 24 troncos, 54 madera. Capacidad: 100 Ciudadanos. Radio: 24 casillas. Empleo: 1 clerigo. Consejos: Presiona F para cambiar el color."; }
 
 		{ String _name = "RKEBChapelstone";		String _text = "Pequena Capilla de Piedra"; }
 		{ String _name = "RKEBChapelstoneLwr";		String _text = "pequena capilla de piedra"; }
-		{ String _name = "RKEBChapelstoneTip";		String _text = "Provides happiness for the devout y un lugar para reunirse y rendir culto. Tamano: 4x7. Cost: 24 troncos, 54 piedra. Capacity: 100 Ciudadano. Radius: 24 casillas. Employment: 1 clerigo. Tips: Presiona F para cambiar el color."; }
+		{ String _name = "RKEBChapelstoneTip";		String _text = "Proporciona felicidad a los devotos y un lugar para reunirse y rendir culto. Tamano: 4x7. Costo: 24 troncos, 54 piedra. Capacidad: 100 Ciudadanos. Radio: 24 casillas. Empleo: 1 clerigo. Consejos: Presiona F para cambiar el color."; }
 
 
 		{ String _name = "CountryLittleHouseToolbar";			String _text = "Barra de Casita Rural 1"; }
@@ -380,23 +380,23 @@ StringTable resource
 
 		{ String _name = "CountryLittleStock";			String _text = "Almacen Rural Pequeno"; }
 		{ String _name = "CountryLittleStockLwr";		String _text = "almacen rural pequeno"; }
-		{ String _name = "CountryLittleStockTip";		String _text = "Country Little Stockage can be use for a little storage. Tamano: 2x4. Cost: 16 madera. Capacity: 2000 de peso. Accept: Fuel, Minerals, Tool, Herbs, Clothing, Textile, Crafted, Forged, Fabrics, Industrial, Materials, Construction, Precious, Misc. Tips: The stockage goes to the left of the house and make sure to align those back walls. Presiona F para cambiar el color."; }
+		{ String _name = "CountryLittleStockTip";		String _text = "El Almacen Rural Pequeno se puede usar para un pequeno almacenamiento. Tamano: 2x4. Costo: 16 madera. Capacidad: 2000 de peso. Acepta: Combustible, Minerales, Herramientas, Hierbas, Ropa, Textiles, Artesanias, Forjados, Telas, Industriales, Materiales, Construccion, Objetos Preciosos, Varios. Consejos: El almacen va a la izquierda de la casa; asegurate de alinear esas paredes traseras. Presiona F para cambiar el color."; }
 
 		{ String _name = "CountryLittleFood";			String _text = "Despensa Rural Pequena"; }
 		{ String _name = "CountryLittleFoodLwr";		String _text = "despensa rural pequena"; }
-		{ String _name = "CountryLittleFoodTip";		String _text = "Country Little Pantry can be use as extra comida storage. Tamano: 2x3. Cost: 16 madera. Capacity: 1600 de peso. Accept: Edibles. Tips: The pantry goes to the right of the house and make sure to align those back walls. Presiona F para cambiar el color."; }
+		{ String _name = "CountryLittleFoodTip";		String _text = "La Despensa Rural Pequena se puede usar como almacenamiento extra de comida. Tamano: 2x3. Costo: 16 madera. Capacidad: 1600 de peso. Acepta: Comestibles. Consejos: La despensa va a la derecha de la casa; asegurate de alinear esas paredes traseras. Presiona F para cambiar el color."; }
 
 		{ String _name = "CountryLittleStockB";			String _text = "Almacen Rural Pequeno"; }
 		{ String _name = "CountryLittleStockBLwr";		String _text = "almacen rural pequeno"; }
-		{ String _name = "CountryLittleStockBTip";		String _text = "Country Little Stockage can be use for a little storage. Tamano: 2x4. Cost: 16 madera. Capacity: 2000 de peso. Accept: Fuel, Minerals, Tool, Herbs, Clothing, Textile, Crafted, Forged, Fabrics, Industrial, Materials, Construction, Precious, Misc. Tips: The stockage goes to the left of the house and make sure to align those back walls. Presiona F para cambiar el color."; }
+		{ String _name = "CountryLittleStockBTip";		String _text = "El Almacen Rural Pequeno se puede usar para un pequeno almacenamiento. Tamano: 2x4. Costo: 16 madera. Capacidad: 2000 de peso. Acepta: Combustible, Minerales, Herramientas, Hierbas, Ropa, Textiles, Artesanias, Forjados, Telas, Industriales, Materiales, Construccion, Objetos Preciosos, Varios. Consejos: El almacen va a la izquierda de la casa; asegurate de alinear esas paredes traseras. Presiona F para cambiar el color."; }
 
 		{ String _name = "CountryLittleFoodB";			String _text = "Despensa Rural Pequena"; }
 		{ String _name = "CountryLittleFoodBLwr";		String _text = "despensa rural pequena"; }
-		{ String _name = "CountryLittleFoodBTip";		String _text = "Country Little Pantry can be use as extra comida storage. Tamano: 2x3. Cost: 16 madera. Capacity: 1600 de peso. Accept: Edibles. Tips: The pantry goes to the right of the house and make sure to align those back walls. Presiona F para cambiar el color."; }
+		{ String _name = "CountryLittleFoodBTip";		String _text = "La Despensa Rural Pequena se puede usar como almacenamiento extra de comida. Tamano: 2x3. Costo: 16 madera. Capacidad: 1600 de peso. Acepta: Comestibles. Consejos: La despensa va a la derecha de la casa; asegurate de alinear esas paredes traseras. Presiona F para cambiar el color."; }
 
 		{ String _name = "CountryLittleHouse";			String _text = "Casita Rural"; }
 		{ String _name = "CountryLittleHouseLwr";		String _text = "casita rural"; }
-		{ String _name = "CountryLittleHouseTip";		String _text = "Country Little House is housing your country ciudadanos. Tamano: 4x5. Cost: 48 madera. Residence: 6 ciudadanos. Heat EFF%: 90. Models: 1. Colors: 5 alternates. Tips: Presiona F para cambiar el color."; }
+		{ String _name = "CountryLittleHouseTip";		String _text = "La Casita Rural alberga a tus ciudadanos rurales. Tamano: 4x5. Costo: 48 madera. Residencia: 6 ciudadanos. Efic. de Calor%: 90. Modelos: 1. Colores: 5 alternativas. Consejos: Presiona F para cambiar el color."; }
 
 		{ String _name = "CountryLittleHouse2Toolbar";			String _text = "Barra de Casita Rural 2"; }
 		{ String _name = "CountryLittleHouse2ToolbarLwr";		String _text = "barra de casita rural 2"; }
@@ -404,179 +404,179 @@ StringTable resource
 
 		{ String _name = "CountryLittleStock2";			String _text = "Almacen Rural Pequeno"; }
 		{ String _name = "CountryLittleStock2Lwr";		String _text = "almacen rural pequeno"; }
-		{ String _name = "CountryLittleStock2Tip";		String _text = "Country Little Stockage can be use for a little storage. Tamano: 2x4. Cost: 16 madera. Capacity: 2000 de peso. Accept: Fuel, Minerals, Tool, Health, Clothing, Textile, Crafted, Forged, Fabrics, Industrial, Materials, Construction, Precious, Misc. Tips: The stockage goes to the left of the house and make sure to align those back walls. Presiona F para cambiar el color."; }
+		{ String _name = "CountryLittleStock2Tip";		String _text = "El Almacen Rural Pequeno se puede usar para un pequeno almacenamiento. Tamano: 2x4. Costo: 16 madera. Capacidad: 2000 de peso. Acepta: Combustible, Minerales, Herramientas, Salud, Ropa, Textiles, Artesanias, Forjados, Telas, Industriales, Materiales, Construccion, Objetos Preciosos, Varios. Consejos: El almacen va a la izquierda de la casa; asegurate de alinear esas paredes traseras. Presiona F para cambiar el color."; }
 
 		{ String _name = "CountryLittleFood2";			String _text = "Despensa Rural Pequena"; }
 		{ String _name = "CountryLittleFood2Lwr";		String _text = "despensa rural pequena"; }
-		{ String _name = "CountryLittleFood2Tip";		String _text = "Country Little Pantry can be use as extra comida storage. Tamano: 2x3. Cost: 16 madera. Capacity: 1600 de peso. Accept: Edibles. Tips: The pantry goes to the right of the house and make sure to align those back walls. Presiona F para cambiar el color."; }
+		{ String _name = "CountryLittleFood2Tip";		String _text = "La Despensa Rural Pequena se puede usar como almacenamiento extra de comida. Tamano: 2x3. Costo: 16 madera. Capacidad: 1600 de peso. Acepta: Comestibles. Consejos: La despensa va a la derecha de la casa; asegurate de alinear esas paredes traseras. Presiona F para cambiar el color."; }
 
 		{ String _name = "CountryLittleStock2B";			String _text = "Almacen Rural Pequeno"; }
 		{ String _name = "CountryLittleStock2BLwr";		String _text = "almacen rural pequeno"; }
-		{ String _name = "CountryLittleStock2BTip";		String _text = "Country Little Stockage can be use for a little storage. Tamano: 2x4. Cost: 16 madera. Capacity: 2000 de peso. Accept: Fuel, Minerals, Tool, Health, Clothing, Textile, Crafted, Forged, Fabrics, Industrial, Materials, Construction, Precious, Misc. Tips: The stockage goes to the left of the house and make sure to align those back walls. Presiona F para cambiar el color."; }
+		{ String _name = "CountryLittleStock2BTip";		String _text = "El Almacen Rural Pequeno se puede usar para un pequeno almacenamiento. Tamano: 2x4. Costo: 16 madera. Capacidad: 2000 de peso. Acepta: Combustible, Minerales, Herramientas, Salud, Ropa, Textiles, Artesanias, Forjados, Telas, Industriales, Materiales, Construccion, Objetos Preciosos, Varios. Consejos: El almacen va a la izquierda de la casa; asegurate de alinear esas paredes traseras. Presiona F para cambiar el color."; }
 
 		{ String _name = "CountryLittleFood2B";			String _text = "Despensa Rural Pequena"; }
 		{ String _name = "CountryLittleFood2BLwr";		String _text = "despensa rural pequena"; }
-		{ String _name = "CountryLittleFood2BTip";		String _text = "Country Little Pantry can be use as extra comida storage. Tamano: 2x3. Cost: 16 madera. Capacity: 1600 de peso. Accept: Edibles. Tips: The pantry goes to the right of the house and make sure to align those back walls. Presiona F para cambiar el color."; }
+		{ String _name = "CountryLittleFood2BTip";		String _text = "La Despensa Rural Pequena se puede usar como almacenamiento extra de comida. Tamano: 2x3. Costo: 16 madera. Capacidad: 1600 de peso. Acepta: Comestibles. Consejos: La despensa va a la derecha de la casa; asegurate de alinear esas paredes traseras. Presiona F para cambiar el color."; }
 
 		{ String _name = "CountryLittleHouse2";			String _text = "Casita Rural"; }
 		{ String _name = "CountryLittleHouse2Lwr";		String _text = "casita rural"; }
-		{ String _name = "CountryLittleHouse2Tip";		String _text = "Country Little House is housing your country ciudadanos. Tamano: 4x5. Cost: 48 madera. Residence: 6 ciudadanos. Heat EFF%: 90. Models: 1. Colors: 5 alternates. Tips: Presiona F para cambiar el color."; }
+		{ String _name = "CountryLittleHouse2Tip";		String _text = "La Casita Rural alberga a tus ciudadanos rurales. Tamano: 4x5. Costo: 48 madera. Residencia: 6 ciudadanos. Efic. de Calor%: 90. Modelos: 1. Colores: 5 alternativas. Consejos: Presiona F para cambiar el color."; }
 
 		{ String _name = "PastureFenceless";			String _text = "Pastura Sin Cerca"; }
 		{ String _name = "PastureFencelessLwr";			String _text = "pastura sin cerca"; }
-		{ String _name = "PastureFencelessTip";			String _text = "A Pasture Fenceless proporciona un area para que el ganado paste. Tamano: from 7x7 to 30x30. Cost: 1 Fodder-Thatch per casilla. Employment: 1-4 pastores. Tips: Use R or T to rotate the pasture for making sure the animal shelter is closest to barns and in a mountain slope."; }
+		{ String _name = "PastureFencelessTip";			String _text = "Un Pastizal Sin Cercar proporciona un area para que el ganado paste. Tamano: de 7x7 a 30x30. Costo: 1 Forraje-Paja por casilla. Empleo: 1-4 pastores. Consejos: Usa R o T para rotar el pastizal y asegurarte de que el refugio de animales quede lo mas cerca posible de los graneros y en una ladera de montana."; }
 
 		{ String _name = "MarketMed";				String _text = "Mercado"; }
 		{ String _name = "MarketMedLwr";			String _text = "mercado"; }
-		{ String _name = "MarketMedTip";			String _text = "Se usa para provide a localized area for ciudadanos to collect comida, tools, and fuel. Tamano: 10x10. Cost: 32 madera, 30 piedra, 22 hierro. Capacity: 12000 de peso. Radius: 36 casillas. Storage: Edible, Fuel, Tool, Health, Clothing. Employment: 1-8 vendedores. Tips: One of the best to provide goods to citizen homes. Smaller than big one."; }
+		{ String _name = "MarketMedTip";			String _text = "Se usa para proporcionar un area localizada donde los ciudadanos puedan recolectar comida, herramientas y combustible. Tamano: 10x10. Costo: 32 madera, 30 piedra, 22 hierro. Capacidad: 12000 de peso. Radio: 36 casillas. Almacena: Comestibles, Combustible, Herramientas, Salud, Ropa. Empleo: 1-8 vendedores. Consejos: Uno de los mejores para proveer bienes a las casas de los ciudadanos. Mas pequeno que el grande."; }
 
 		{ String _name = "RKFCLumbermill";			String _text = "Aserradero"; }
 		{ String _name = "RKFCLumbermillLwr";			String _text = "aserradero"; }
-		{ String _name = "RKFCLumbermillTip";			String _text = "Lumbermill se usa para make Lumber from Logs. Tamano: 5x6. Cost: 48 troncos, 6 piedra. Can make : Lumber, lena. Employment: 1-3 lenadores. Tips: The Lumbermill is an early settlement building, all tier 2+ buildings will require madera. It can also make lena if needed. Presiona F para colores de techo alternos."; }
+		{ String _name = "RKFCLumbermillTip";			String _text = "El Aserradero se usa para fabricar Madera a partir de Troncos. Tamano: 5x6. Costo: 48 troncos, 6 piedra. Puede hacer: Madera, lena. Empleo: 1-3 lenadores. Consejos: El Aserradero es un edificio de asentamiento temprano, todos los edificios de nivel 2 o superior requeriran madera. Tambien puede hacer lena si es necesario. Presiona F para colores de techo alternos."; }
 
 		{ String _name = "RKFCForestBarn";			String _text = "Granero Forestal"; }
 		{ String _name = "RKFCForestBarnLwr";			String _text = "granero forestal"; }
-		{ String _name = "RKFCForestBarnTip";			String _text = "A Forest Barn can store everything that can come from forest outposts. Tamano: 5x6. Cost: 48 troncos, 12 piedra. Capacity: 12000 de peso. Accept: Edibles, Tool, Health, Fuel, Wood, Textile, Grain, Vegetable, Fruit, Protein. Tips: Very usefull to store simple goods coming from forest outposts."; }
+		{ String _name = "RKFCForestBarnTip";			String _text = "Un Granero Forestal puede almacenar todo lo que proviene de los puestos forestales. Tamano: 5x6. Costo: 48 troncos, 12 piedra. Capacidad: 12000 de peso. Acepta: Comestibles, Herramientas, Salud, Combustible, Madera, Textiles, Granos, Vegetales, Frutas, Proteinas. Consejos: Muy util para almacenar bienes simples provenientes de los puestos forestales."; }
 
 		{ String _name = "TradingPostSeeds";			String _text = "Pc Semillas y Ganado"; }
 		{ String _name = "TradingPostSeedsLwr";			String _text = "pc semillas y ganado"; }
-		{ String _name = "TradingPostSeedsTip";			String _text = "Allows for the trade of resources with only seeds/livestock merchants. Tamano: 8x11. Cost: 48 troncos, 32 piedra, 12 hierro. Capacity: 30000 de peso. Accept: Wood, Stone, Iron, Fuel, Tool, Textile, Clothing, Minerals, Crafted, Forged, Fabrics, Industrial, Materials, Construction, Precious, Misc.  Employment: 1-10 comerciantes. Tips: Livestocks and Seeds merchants doesnt accept herbs and comida."; }
+		{ String _name = "TradingPostSeedsTip";			String _text = "Permite comerciar recursos solo con mercaderes de semillas/ganado. Tamano: 8x11. Costo: 48 troncos, 32 piedra, 12 hierro. Capacidad: 30000 de peso. Acepta: Madera, Piedra, Hierro, Combustible, Herramientas, Textiles, Ropa, Minerales, Artesanias, Forjados, Telas, Industrial, Materiales, Construccion, Objetos Preciosos, Varios. Empleo: 1-10 comerciantes. Consejos: Los mercaderes de ganado y semillas no aceptan hierbas ni comida."; }
 
 		{ String _name = "RKWoodBakery";				String _text = "Panaderia"; }
 		{ String _name = "RKWoodBakeryLwr";				String _text = "panaderia"; }
-		{ String _name = "RKWoodBakeryTip";				String _text = "Medieval bakery takes flour and makes bread, cakes and pies. Tamano: 5x6. Cost: 32 madera, 16 piedra, 24 charcoal, 6 vidrio. Can make: bread, cake, pies, quiche, omelette.  Employment: 1-2 panaderos. Tips: Great for making tier 2 comida. Bakeries will take some various amount of comida, of flour and will try to give you (+100% educated +50% uneducated) more comida overall. And some comida have more than 1 diet."; }
+		{ String _name = "RKWoodBakeryTip";				String _text = "La panaderia medieval toma harina y hace pan, pasteles y tartas. Tamano: 5x6. Costo: 32 madera, 16 piedra, 24 carbon vegetal, 6 vidrio. Puede hacer: pan, pastel, tartas, quiche, tortilla. Empleo: 1-2 panaderos. Consejos: Excelente para fabricar comida de nivel 2. Las panaderias tomaran distintas cantidades de comida y de harina, e intentaran darte (+100% educados, +50% no educados) mas comida en total. Y algunas comidas tienen mas de 1 dieta."; }
 
 		{ String _name = "NMT30Windmill";				String _text = "Molino de viento"; }
 		{ String _name = "NMT30WindmillLwr";				String _text = "molino de viento"; }
-		{ String _name = "NMT30WindmillTip";				String _text = "Medieval windmill makes flour from grain. Tamano: 6x6. Cost: 48 madera, 42 piedra, 32 hierro. Can make: flour from wheat, corn, barley, sorghum, oat, rye, rice. Employment: 1-2 molineros. Tips: Presiona F para modelos alternos. They take 16 grains and make 24-32 flour. +100% educ. , +50% uneduc."; }
+		{ String _name = "NMT30WindmillTip";				String _text = "El Molino de viento Medieval hace harina a partir del grano. Tamano: 6x6. Costo: 48 madera, 42 piedra, 32 hierro. Puede hacer: harina a partir de trigo, maiz, cebada, sorgo, avena, centeno, arroz. Empleo: 1-2 molineros. Consejos: Presiona F para modelos alternos. Toman 16 de grano y producen 24-32 de harina. +100% educ., +50% sin educ."; }
 
 		{ String _name = "NMT30Watermill";				String _text = "Molino de agua"; }
 		{ String _name = "NMT30WatermillLwr";				String _text = "molino de agua"; }
-		{ String _name = "NMT30WatermillTip";				String _text = "Medieval watermill makes flour from grain. Tamano: 9x7. Cost: 48 madera, 42 piedra, 32 hierro. Can make: flour from wheat, corn, barley, sorghum, oat, rye, rice. Employment: 1-3 molineros. Tips: This building require some water casillas. Work faster than windmill. They take 16 grains and make 24-32 flour. +100% educ. , +50% uneduc."; }
+		{ String _name = "NMT30WatermillTip";				String _text = "El Molino de agua Medieval hace harina a partir del grano. Tamano: 9x7. Costo: 48 madera, 42 piedra, 32 hierro. Puede hacer: harina a partir de trigo, maiz, cebada, sorgo, avena, centeno, arroz. Empleo: 1-3 molineros. Consejos: Este edificio requiere algunas casillas de agua. Trabaja mas rapido que el molino de viento. Toman 16 de grano y producen 24-32 de harina. +100% educ., +50% sin educ."; }
 
 		{ String _name = "NMT30Apiary";					String _text = "Apiario"; }
 		{ String _name = "NMT30ApiaryLwr";				String _text = "apiario"; }
-		{ String _name = "NMT30ApiaryTip";				String _text = "Medieval Apiary se usa para keep bees and generate honey and beewax. Tamano: 6x6. Cost: 16 troncos, 24 fodder-thatch. Can make: honey (comida), beeswax (candles). Employment: 1-2 apicultores. Tips: This comida building provide early in the game, a very good steady source of comida. You will also need it for beeswax to make candle to upgrade your deplecated mines and quarries."; }
+		{ String _name = "NMT30ApiaryTip";				String _text = "El Apiario Medieval se usa para mantener abejas y generar miel y cera de abeja. Tamano: 6x6. Costo: 16 troncos, 24 forraje-paja. Puede hacer: miel (comida), cera de abeja (velas). Empleo: 1-2 apicultores. Consejos: Este edificio de comida ofrece, desde el inicio del juego, una fuente constante y muy buena de comida. Tambien la necesitaras para hacer velas con la cera de abeja y asi mejorar tus minas y canteras agotadas."; }
 
 		{ String _name = "WoodButcher";					String _text = "Carnicero"; }
 		{ String _name = "WoodButcherLwr";				String _text = "carnicero"; }
-		{ String _name = "WoodButcherTip";				String _text = "Butcher cuts carnes and makes tier 2 comida. Tamano: 4x6. Cost: 48 madera, 42 piedra, 32 hierro. Can make: Tier 2 prepared carnes (steaks roasts chops and poultries). Employment: 1-2 carniceros. Tips: Very good building to take your raw carnes and raw aves carnes and process them to double your protein quantities. From 12 carne you get 18-24 steak (educated = +100%) (Uneducated = +50% only)."; }
+		{ String _name = "WoodButcherTip";				String _text = "La Carniceria corta carnes y fabrica comida de nivel 2. Tamano: 4x6. Costo: 48 madera, 42 piedra, 32 hierro. Puede hacer: carnes preparadas de nivel 2 (filetes, asados, chuletas y aves). Empleo: 1-2 carniceros. Consejos: Muy buen edificio para tomar tus carnes crudas y tus carnes de ave crudas y procesarlas para duplicar tus cantidades de proteina. De 12 carne obtienes 18-24 filete (educados = +100%) (no educados = solo +50%)."; }
 
 		{ String _name = "NMT30LightHouse";				String _text = "Faro"; }
 		{ String _name = "NMT30LightHouseLwr";				String _text = "faro"; }
-		{ String _name = "NMT30LightHouseTip";				String _text = "A LightHouse will offer town statistics and will attract nomads from far away. Tamano: 11x8. Cost: 58 madera, 98 piedra, 14 hierro, 16 cobre, 24 vidrio, 32 lena. Employment: 1 encargado del fuego. Tips: The encargado del fuego will take care of the fire at top so you can attract nomads. The Lighthouse offer all the services a townhall can provide."; }
+		{ String _name = "NMT30LightHouseTip";				String _text = "Un Faro ofrecera estadisticas de la ciudad y atraera nomadas desde lejos. Tamano: 11x8. Costo: 58 madera, 98 piedra, 14 hierro, 16 cobre, 24 vidrio, 32 de lena. Empleo: 1 encargado del fuego. Consejos: El encargado del fuego se ocupara del fuego en la parte superior para que puedas atraer nomadas. El Faro ofrece todos los servicios que puede brindar un ayuntamiento."; }
 
 		{ String _name = "NMT30Watertower";				String _text = "Torre de agua"; }
 		{ String _name = "NMT30WatertowerLwr";				String _text = "torre de agua"; }
-		{ String _name = "NMT30WatertowerTip";				String _text = "A Watertower provide fresh water to your ciudadanos. Tamano: 4x5. Cost: 34 troncos, 8 hierro. Can make: 12-15 water from the watertower.  Employment: 1-2 trabajadores. Tips: The water serves as comida but has no nutrients. Some buildings needs Water over time (like the greenhouses) as input."; }
+		{ String _name = "NMT30WatertowerTip";				String _text = "Una Torre de agua proporciona agua fresca a tus ciudadanos. Tamano: 4x5. Costo: 34 troncos, 8 hierro. Puede hacer: 12-15 de agua desde la torre de agua. Empleo: 1-2 trabajadores. Consejos: El agua sirve como comida pero no tiene nutrientes. Algunos edificios necesitan agua con el tiempo (como los invernaderos) como insumo."; }
 
 		{ String _name = "NMT30Cathedral";				String _text = "Catedral"; }
 		{ String _name = "NMT30CathedralLwr";				String _text = "catedral"; }
-		{ String _name = "NMT30CathedralTip";				String _text = "The Medieval Cathedral proporciona felicidad a los devotos y un lugar para reunirse y rendir culto. Tamano: 12x20. Cost: 90 madera, 160 piedra, 64 vidrio, 18 plata, 12 oro, 80 teja. Capacity 800 souls. Radius: 60 casillas. Employment: 1 clerigo. Tips: Many saves should have a magnificient Chathedral ! But not all of them."; }
+		{ String _name = "NMT30CathedralTip";				String _text = "La Catedral Medieval proporciona felicidad a los devotos y un lugar para reunirse y rendir culto. Tamano: 12x20. Costo: 90 madera, 160 piedra, 64 vidrio, 18 plata, 12 oro, 80 teja. Capacidad: 800 almas. Radio: 60 casillas. Empleo: 1 clerigo. Consejos: Muchas partidas deberian tener una magnifica Catedral. Pero no todas la necesitan."; }
 
 		{ String _name = "NMT30SaltMine";				String _text = "Mina de Sal"; }
 		{ String _name = "NMT30SaltMineLwr";				String _text = "mina de sal"; }
-		{ String _name = "NMT30SaltMineTip";				String _text = "The Salt Mine is a working place that provides salt. Tamano: 6x6. Cost: 24 troncos, 32 madera, 12 hierro. Can extract: 4-6 salt from the ground. Detraction: 20 casillas. Capacity 4000 Not renewable. Employment: 1-5 mineros. Tips: Faster way to get salt. Salt is a mineral. When deplecated, destroy and build another one."; }
+		{ String _name = "NMT30SaltMineTip";				String _text = "La Mina de Sal es un lugar de trabajo que proporciona sal. Tamano: 6x6. Costo: 24 troncos, 32 madera, 12 hierro. Puede extraer: 4-6 de sal del suelo. Extraccion: 20 casillas. Capacidad: 4000. No renovable. Empleo: 1-5 mineros. Consejos: Forma mas rapida de obtener sal. La sal es un mineral. Cuando se agote, destruyela y construye otra."; }
 
 		{ String _name = "NMT30OldSmokery";				String _text = "Vieja Ahumaderia"; }
 		{ String _name = "NMT30OldSmokeryLwr";				String _text = "vieja ahumaderia"; }
-		{ String _name = "NMT30OldSmokeryTip";				String _text = "The Old Smokery es un area de trabajo que takes carnes and smokes those for preservation. Tamano: 6x6. Cost: 18 madera, 48 piedra, 12 hierro, 4 vidrio. Can make: Tier 2 prepared carnes (smoked carnes pescado and poultries). Employment: 1-2 panaderos. Tips: This building needs +1 lena for each smoke process. But the output value stay at 3 (not 2). Fish at 2 value. They take 12 input and they make 18-24 output. +100% educ. , +50% uneduc."; }
+		{ String _name = "NMT30OldSmokeryTip";				String _text = "La Vieja Ahumaderia es un lugar de trabajo que toma carnes y las ahuma para su conservacion. Tamano: 6x6. Costo: 18 madera, 48 piedra, 12 hierro, 4 vidrio. Puede hacer: carnes preparadas de Nivel 2 (carnes, pescado y aves ahumados). Empleo: 1-2 panaderos. Consejos: Este edificio necesita +1 de lena por cada proceso de ahumado. Pero el valor de salida se mantiene en 3 (no en 2). El pescado tiene un valor de 2. Toman 12 de insumo y producen 18-24 de salida. +100% educ., +50% sin educ."; }
 
 		{ String _name = "NMT30OldSaltery";				String _text = "Vieja Saladera"; }
 		{ String _name = "NMT30OldSalteryLwr";				String _text = "vieja saladera"; }
-		{ String _name = "NMT30OldSalteryTip";				String _text = "The Old Saltery es un area de trabajo que takes carnes and salts those for preservation. Tamano: 6x6. Cost: 36 madera, 16 piedra, 8 hierro. Can make: Tier 2 prepared carnes (cured carnes pescado and poultries). Employment: 1-2 panaderos. Tips: This building needs +3 salt for each cured process. But the output value stay at 3 (not 2). Fish at 2 value. They take 12 input and they make 18-24 output. +100% educ. , +50% uneduc."; }
+		{ String _name = "NMT30OldSalteryTip";				String _text = "La Vieja Saladera es un lugar de trabajo que toma carnes y las sala para su conservacion. Tamano: 6x6. Costo: 36 madera, 16 piedra, 8 hierro. Puede hacer: carnes preparadas de Nivel 2 (carnes, pescado y aves curados). Empleo: 1-2 panaderos. Consejos: Este edificio necesita +3 de sal por cada proceso de curado. Pero el valor de salida se mantiene en 3 (no en 2). El pescado tiene un valor de 2. Toman 12 de insumo y producen 18-24 de salida. +100% educ., +50% sin educ."; }
 
 		{ String _name = "NMT30DryShack";				String _text = "Vieja Cabana de Secado"; }
 		{ String _name = "NMT30DryShackLwr";				String _text = "vieja cabana de secado"; }
-		{ String _name = "NMT30DryShackTip";				String _text = "The Old Dry Shack es un area de trabajo que takes carnes and dries those for preservation. Tamano: 6x6. Cost: 28 madera, 6 madera, 4 piedra. Can make: Tier 2 prepared carnes (dried carnes pescado and poultries). Employment: 1-2 panaderos. Tips: This building only needs carnes. No other input but the value of the carnes lost 1 value. They take 12 input and they make 18-24 output. +100% educ. , +50% uneduc."; }
+		{ String _name = "NMT30DryShackTip";				String _text = "La Vieja Cabana de Secado es un lugar de trabajo que toma carnes y las seca para su conservacion. Tamano: 6x6. Costo: 28 madera, 6 madera, 4 piedra. Puede hacer: carnes preparadas de Nivel 2 (carnes, pescado y aves secas). Empleo: 1-2 panaderos. Consejos: Este edificio solo necesita carnes. No requiere ningun otro insumo, pero el valor de las carnes baja en 1. Toman 12 de insumo y producen 18-24 de salida. +100% educ., +50% sin educ."; }
 
 		{ String _name = "NMT30Creamery";				String _text = "Vieja Lecheria"; }
 		{ String _name = "NMT30CreameryLwr";				String _text = "vieja lecheria"; }
-		{ String _name = "NMT30CreameryTip";				String _text = "The Old Creamery es un area de trabajo que takes milk and make cheese, butter, cream and yogurt. Tamano: 8x8. Cost: 36 madera, 24 piedra, 8 vidrio, 6 hierro. Can make: Tier 2 prepared carnes (cheese butter cream yogurt). Employment: 1-2 lecheros. Tips: This building mainly needs milk. You can add some fruits. The outputs are variable due to the recipes. Education is important in the output numbers."; }
+		{ String _name = "NMT30CreameryTip";				String _text = "La Antigua Lecheria es un lugar de trabajo que toma leche y hace queso, mantequilla, crema y yogur. Tamano: 8x8. Costo: 36 madera, 24 piedra, 8 vidrio, 6 hierro. Puede hacer: carnes preparadas de Nivel 2 (queso, mantequilla, crema, yogur). Empleo: 1-2 lecheros. Consejos: Este edificio necesita principalmente leche. Puedes agregar algunas frutas. Las producciones varian segun las recetas. La educacion es importante en las cantidades producidas."; }
 
 		{ String _name = "RKRedCreamery";				String _text = "Lecheria Roja"; }
 		{ String _name = "RKRedCreameryLwr";				String _text = "lecheria roja"; }
-		{ String _name = "RKRedCreameryTip";				String _text = "Red Creamery es un area de trabajo que takes milk and make cheese, butter, cream and yogurt. Tamano: 9x10. Cost: 68 madera, 12 piedra, 16 cobre, 8 vidrio, 16 glassware. Can make: Tier 2 prepared carnes (cheese butter cream yogurt). Employment: 1-3 lecheros. Tips: This building mainly needs milk. You can add some fruits. The outputs are variable due to the recipes. Education is important in the output numbers. The red creamery is a lot faster than the old creamery."; }
+		{ String _name = "RKRedCreameryTip";				String _text = "La Queseria Roja es un lugar de trabajo que toma leche y hace queso, mantequilla, crema y yogur. Tamano: 9x10. Costo: 68 madera, 12 piedra, 16 cobre, 8 vidrio, 16 cristaleria. Puede hacer: carnes preparadas de nivel 2 (queso, mantequilla, crema, yogur). Empleo: 1-3 lecheros. Consejos: Este edificio necesita principalmente leche. Puedes anadir algunas frutas. Las producciones varian segun las recetas. La educacion es importante en las cantidades producidas. La Queseria Roja es mucho mas rapida que la queseria antigua."; }
 
 		{ String _name = "NMT30MaltHouse";				String _text = "Casa de Malta"; }
 		{ String _name = "NMT30MaltHouseLwr";				String _text = "casa de malta"; }
-		{ String _name = "NMT30MaltHouseTip";				String _text = "The Malt House es un area de trabajo que toma grain and converting it into malt. Tamano: 6x8. Cost: 12 troncos, 24 madera, 48 piedra, 24 ladrillo, 8 hierro, 12 vidrio. Can make: 18-24 Malt from 12 grain (barley corn oat rye sorghum wheat). Employment: 1-2 cerveceros. Tips: Old ale has a value of 6 now. Beer has replaced Ale at 8 value but beer needs malt. So now, you need to convert the grain into malt, and taverns will brew the malt."; }
+		{ String _name = "NMT30MaltHouseTip";				String _text = "La Casa de Malta es un lugar de trabajo que toma grano y lo convierte en malta. Tamano: 6x8. Costo: 12 troncos, 24 madera, 48 piedra, 24 ladrillo, 8 hierro, 12 vidrio. Puede hacer: 18-24 de malta a partir de 12 de grano (cebada, maiz, avena, centeno, sorgo, trigo). Empleo: 1-2 cerveceros. Consejos: La cerveza antigua ahora tiene un valor de 6. La cerveza nueva reemplazo a la antigua con un valor de 8, pero necesita malta. Asi que ahora debes convertir el grano en malta, y las tabernas elaboraran la cerveza con la malta."; }
 
 		{ String _name = "NMT30Pond";					String _text = "Estanque Medieval"; }
 		{ String _name = "NMT30PondLwr";				String _text = "estanque medieval"; }
-		{ String _name = "NMT30PondTip";				String _text = "A Medieval Pond provides pescado to your ciudadanos. Tamano:8x9. Cost: 4 troncos, 12 piedra. Capacity: Unlimited. Tips: Very independant from traditional fishing dock, the Pond will have an equivalent output. If you decide to remove it, you will need to use the flatten tool to get the ground back to normal."; }
+		{ String _name = "NMT30PondTip";				String _text = "Un Estanque Medieval proporciona pescado a tus ciudadanos. Tamano: 8x9. Costo: 4 troncos, 12 piedra. Capacidad: Ilimitada. Consejos: Muy independiente del muelle de pesca tradicional, el Estanque tendra una produccion equivalente. Si decides eliminarlo, necesitaras usar la herramienta de aplanado para devolver el terreno a la normalidad."; }
 
 		{ String _name = "StorageBarn";					String _text = "Granero de Almacenamiento"; }
 		{ String _name = "StorageBarnLwr";				String _text = "granero de almacenamiento"; }
-		{ String _name = "StorageBarnTip";				String _text = "Se usa para store goods such as comida, clothes, textiles, and tools. Tamano: 5x8. Cost: 48 troncos, 16 piedra. Capacity: 8000 de peso. Accept: Edibles, Tool, Herbs, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted, Forged, Fabrics, Precious, Misc. Tips: Make sure you always have some barn space available to store your comida and other things."; }
+		{ String _name = "StorageBarnTip";				String _text = "Se usa para almacenar bienes como comida, ropa, textiles y herramientas. Tamaño: 5x8. Costo: 48 troncos, 16 piedra. Capacidad: 8000 de peso. Acepta: Comestibles, Herramientas, Hierbas, Ropa, Textiles, Granos, Vegetales, Frutas, Proteínas, Artesanías, Forjados, Telas, Objetos Preciosos, Varios. Consejos: Asegúrate de tener siempre algo de espacio disponible en el granero para almacenar tu comida y otras cosas."; }
 
 		{ String _name = "NMT30StorageBarnNorm";			String _text = "Granero Normal"; }
 		{ String _name = "NMT30StorageBarnNormLwr";			String _text = "granero normal"; }
-		{ String _name = "NMT30StorageBarnNormTip";			String _text = "A Normal Barn se usa para store goods such as comida, clothes, textiles, and tools. Tamano: 5x8. Cost: 48 troncos, 16 piedra. Capacity: 10000 de peso. Accept: Edibles, Tool, Herbs, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted, Forged, Fabrics, Precious, Misc. Tips: This barn is the exact same one as inside the game storage toolbar."; }
+		{ String _name = "NMT30StorageBarnNormTip";			String _text = "Un Granero Normal se usa para almacenar bienes como comida, ropa, textiles y herramientas. Tamano: 5x8. Costo: 48 troncos, 16 piedra. Capacidad: 10000 de peso. Acepta: Comestibles, Herramientas, Hierbas, Ropa, Textiles, Granos, Vegetales, Frutas, Proteinas, Artesanias, Forjados, Telas, Objetos Preciosos, Varios. Consejos: Este granero es exactamente el mismo que se encuentra en la barra de almacenamiento del juego."; }
 
 		{ String _name = "NMT30StorageBarnMed";				String _text = "Granero Mediano"; }
 		{ String _name = "NMT30StorageBarnMedLwr";			String _text = "granero mediano"; }
-		{ String _name = "NMT30StorageBarnMedTip";			String _text = "A Medium Barn se usa para store goods such as comida, clothes, textiles, and tools. Tamano: 4x6. Cost: 32 troncos, 12 piedra. Capacity: 6000 de peso. Accept: Edibles, Tool, Herbs, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted, Forged, Fabrics, Precious, Misc. Tips: This barn is a smaller version of the regular barn. Cheaper and also medium size, it has a medium capacity."; }
+		{ String _name = "NMT30StorageBarnMedTip";			String _text = "Un Granero Mediano se usa para almacenar bienes como comida, ropa, textiles y herramientas. Tamano: 4x6. Costo: 32 troncos, 12 piedra. Capacidad: 6000 de peso. Acepta: Comestibles, Herramientas, Hierbas, Ropa, Textiles, Granos, Vegetales, Frutas, Proteinas, Artesanias, Forjados, Telas, Objetos Preciosos, Varios. Consejos: Este granero es una version mas pequena del granero normal. Mas barato y de tamano mediano, tiene una capacidad media."; }
 
 		{ String _name = "NMT30StorageBarnSmall";			String _text = "Granero Pequeno"; }
 		{ String _name = "NMT30StorageBarnSmallLwr";			String _text = "granero pequeno"; }
-		{ String _name = "NMT30StorageBarnSmallTip";			String _text = "A Small Barn se usa para store goods such as comida, clothes, textiles, and tools. Tamano: 3x5. Cost: 24 troncos, 8 piedra. Capacity: 3800 de peso. Accept: Edibles, Tool, Herbs, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted, Forged, Fabrics, Precious, Misc. Tips: This barn is a smaller version of the medium barn. More cheaper and also small size, it has a small capacity."; }
+		{ String _name = "NMT30StorageBarnSmallTip";			String _text = "Un Granero Pequeno se usa para almacenar bienes como comida, ropa, textiles y herramientas. Tamano: 3x5. Costo: 24 troncos, 8 piedra. Capacidad: 3800 de peso. Acepta: Comestibles, Herramientas, Hierbas, Ropa, Textiles, Granos, Vegetales, Frutas, Proteinas, Artesanias, Forjados, Telas, Objetos Preciosos, Varios. Consejos: Este granero es una version mas pequena del granero mediano. Mas barato y de tamano pequeno, tiene una capacidad pequena."; }
 
 		{ String _name = "NMT30StorageBarnTiny";			String _text = "Granero Diminuto"; }
 		{ String _name = "NMT30StorageBarnTinyLwr";			String _text = "granero diminuto"; }
-		{ String _name = "NMT30StorageBarnTinyTip";			String _text = "A Tiny Barn se usa para store goods such as comida, clothes, textiles, and tools. Tamano: 2x3. Cost: 16 troncos, 4 piedra. Capacity: 1600 de peso. Accept: Edibles, Tool, Herbs, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted, Forged, Fabrics, Precious, Misc. Tips: This barn is a tiny version of the small barn. A lot more cheaper and also tiny size, it has a tiny capacity."; }
+		{ String _name = "NMT30StorageBarnTinyTip";			String _text = "Un Granero Diminuto se usa para almacenar bienes como comida, ropa, textiles y herramientas. Tamano: 2x3. Costo: 16 troncos, 4 piedra. Capacidad: 1600 de peso. Acepta: Comestibles, Herramientas, Hierbas, Ropa, Textiles, Granos, Vegetales, Frutas, Proteinas, Artesanias, Forjados, Telas, Objetos Preciosos, Varios. Consejos: Este granero es una version diminuta del granero pequeno. Mucho mas barato y de tamano diminuto, tiene una capacidad diminuta."; }
 
 		{ String _name = "NMT30Granary";				String _text = "Granero"; }
 		{ String _name = "NMT30GranaryLwr";				String _text = "granero"; }
-		{ String _name = "NMT30GranaryTip";				String _text = "A Granary is specialized storage used to store only comida (edible and non-edible). Tamano: 5x8. Cost: 58 troncos, 16 piedra. Capacity: 12000 de peso. Accept: Edibles, Grain, Vegetable, Fruit, Protein. Tips: This granary is a kind of barn but it only store comida (edible and non-edible) and has an higher capacity per casilla. Cost a little bit more than regular barn."; }
+		{ String _name = "NMT30GranaryTip";				String _text = "Un Granero es un almacen especializado que solo guarda comida (comestible y no comestible). Tamano: 5x8. Costo: 58 troncos, 16 piedra. Capacidad: 12000 de peso. Acepta: Comestibles, Granos, Vegetales, Frutas, Proteinas. Consejos: Este granero es una especie de granero comun, pero solo almacena comida (comestible y no comestible) y tiene una capacidad mas alta por casilla. Cuesta un poco mas que el granero normal."; }
 
 		{ String _name = "NMT30RootCellar";				String _text = "Bodega de Raices"; }
 		{ String _name = "NMT30RootCellarLwr";				String _text = "bodega de raices"; }
-		{ String _name = "NMT30RootCellarTip";				String _text = "A Root Cellar is specialized underground storage used to store only Fruit/Vegetable. Tamano: 4x5. Cost: 6 troncos, 26 piedra. Capacity: 8000 de peso. Accept: Vegetable, Fruit. Tips: This root cellar is an underground kind of barn but it only store fruits and vegetables and has a lot higher capacity per casilla. Cost more piedras than troncos."; }
+		{ String _name = "NMT30RootCellarTip";				String _text = "La Bodega de Raices es un almacen subterraneo especializado que solo guarda Frutas/Vegetales. Tamano: 4x5. Costo: 6 troncos, 26 piedra. Capacidad: 8000 de peso. Acepta: Vegetales, Frutas. Consejos: Esta bodega de raices es una especie de granero subterraneo, pero solo almacena frutas y vegetales y tiene una capacidad mucho mas alta por casilla. Cuesta mas piedra que troncos."; }
 
 		{ String _name = "RKmeatLocker";				String _text = "Camara Frigorifica"; }
 		{ String _name = "RKmeatLockerLwr";				String _text = "camara frigorifica"; }
-		{ String _name = "RKmeatLockerTip";				String _text = "A Meat Locker is specialized half-underground storage used to store only Meat/Proteins. Tamano: 3x3 casillas. Cost: 5 troncos, 12 piedra. Capacity: 3600 de peso. Accept: Protein. Tips: This carne locker is an half underground kind of barn but it only store carnes and proteins and has a lot higher capacity per casilla. Cost more piedras than troncos."; }
+		{ String _name = "RKmeatLockerTip";				String _text = "Una Camara Frigorifica es un almacen especializado semienterrado que se usa para guardar solo Carne/Proteinas. Tamano: 3x3 casillas. Costo: 5 troncos, 12 piedra. Capacidad: 3600 de peso. Acepta: Proteinas. Consejos: Esta camara frigorifica es una especie de granero semienterrado, pero solo almacena carnes y proteinas y tiene una capacidad por casilla mucho mayor. Cuesta mas piedra que troncos."; }
 
 		{ String _name = "NMT30BarberShop";				String _text = "Barberia"; }
 		{ String _name = "NMT30BarberShopLwr";				String _text = "barberia"; }
-		{ String _name = "NMT30BarberShopTip";				String _text = "The BarberShop is a place held by a doctor who will help to keep your ciudadanos healthy. Tamano: 4x5 casillas. Cost: 8 troncos, 24 madera, 32 piedra, 8 vidrio, 12 perfum, 1 plata. Attendance: 10. Employment: 1 doctor. Tips: This is a smaller version of the hospital and it will act the same way. Accept 10 patients only. The design is made to be to fit under Multi-level floors. Won't attract idlers."; }
+		{ String _name = "NMT30BarberShopTip";				String _text = "La Barberia es un lugar atendido por un doctor que ayudara a mantener saludables a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 troncos, 24 madera, 32 piedra, 8 vidrio, 12 perfume, 1 plata. Asistencia: 10. Empleo: 1 doctor. Consejos: Esta es una version mas pequena del hospital y funcionara de la misma manera. Solo acepta 10 pacientes. El diseno esta hecho para encajar debajo de los pisos Multinivel. No atraera ociosos."; }
 
 		{ String _name = "NMT30Dentist";				String _text = "Dentista"; }
 		{ String _name = "NMT30DentistLwr";				String _text = "dentista"; }
-		{ String _name = "NMT30DentistTip";				String _text = "The Dentist is a place held by a doctor who will help to keep your ciudadanos healthy. Tamano: 4x5 casillas. Cost: 8 troncos, 24 madera, 32 piedra, 8 vidrio, 6 cobre, 1 oro. Attendance: 10. Employment: 1 doctor. Tips: This is a smaller version of the hospital and it will act the same way. Accept 10 patients only. The design is made to be to fit under Multi-level floors. Won't attract idlers."; }
+		{ String _name = "NMT30DentistTip";				String _text = "El Dentista es un lugar atendido por un doctor que ayudara a mantener saludables a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 troncos, 24 madera, 32 piedra, 8 vidrio, 6 cobre, 1 oro. Asistencia: 10. Empleo: 1 doctor. Consejos: Esta es una version mas pequena del hospital y funcionara de la misma manera. Solo acepta 10 pacientes. El diseno esta hecho para encajar debajo de los pisos Multinivel. No atraera ociosos."; }
 
 		{ String _name = "NMT30Clinic";					String _text = "Clinica"; }
 		{ String _name = "NMT30ClinicLwr";				String _text = "clinica"; }
-		{ String _name = "NMT30ClinicTip";				String _text = "The Clinic is a place held by a doctor who will help to keep your ciudadanos healthy. Tamano: 4x5 casillas. Cost: 8 troncos, 24 madera, 32 piedra, 8 vidrio, 18 glassware, 24 herbs. Attendance: 20. Employment: 1 doctor. Tips: This is a smaller version of the hospital and it will act the same way. Accept 10 patients only. The design is made to be to fit under Multi-level floors. Won't attract idlers."; }
+		{ String _name = "NMT30ClinicTip";				String _text = "La Clinica es un lugar atendido por un doctor que ayudara a mantener saludables a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 troncos, 24 madera, 32 piedra, 8 vidrio, 18 cristaleria, 24 hierbas. Asistencia: 20. Empleo: 1 doctor. Consejos: Esta es una version mas pequena del hospital y funcionara de la misma manera. Solo acepta 10 pacientes. El diseno esta hecho para encajar debajo de los pisos Multinivel. No atraera ociosos."; }
 
 		{ String _name = "NMT30BathHouse";				String _text = "Casa de Banos"; }
 		{ String _name = "NMT30BathHouseLwr";				String _text = "casa de banos"; }
-		{ String _name = "NMT30BathHouseTip";				String _text = "The Bath House is an essential place for hygiene which help to keep your ciudadanos healthy.  Tamano: 8x6 casillas. Cost: 24 madera, 56 piedra, 24 vidrio, 8 cobre, 24 perfums, 36 herbs. Hapiness: Health. Radius: 60. Attendance: 200. Employment: 1 trabajador. Tips: This is big building with a large radius. It provide hapiness: health and will attract idlers. The design is made to be to fit under Multi-level floors."; }
+		{ String _name = "NMT30BathHouseTip";				String _text = "La Casa de Banos es un lugar esencial para la higiene que ayuda a mantener saludables a tus ciudadanos. Tamano: 8x6 casillas. Costo: 24 madera, 56 piedra, 24 vidrio, 8 cobre, 24 perfumes, 36 hierbas. Felicidad: Salud. Radio: 60. Asistencia: 200. Empleo: 1 trabajador. Consejos: Este es un edificio grande con un radio amplio. Proporciona felicidad: salud y atraera ociosos. El diseno esta hecho para encajar debajo de los pisos Multinivel."; }
 
 		{ String _name = "NMT30SchoolHouse";				String _text = "Escuela Medieval"; }
 		{ String _name = "NMT30SchoolHouseLwr";				String _text = "Escuela Medieval"; }
-		{ String _name = "NMT30SchoolHouseTip";				String _text = "The Medieval School se usa para educate ciudadanos to be more productive. Tamano: 5x5 casillas. Cost: 48 madera, 26 piedra, 12 hierro, 8 cobre, 24 vidrio. Attendance: 40. Employment: 1 teacher. Tips: This is an education building with double students capacity to compare the regular school. Education is extremly essential in this mod. Non-Education increase largely the difficulty of the game."; }
+		{ String _name = "NMT30SchoolHouseTip";				String _text = "La Escuela Medieval se usa para educar a los ciudadanos y hacerlos mas productivos. Tamano: 5x5 casillas. Costo: 48 madera, 26 piedra, 12 hierro, 8 cobre, 24 vidrio. Asistencia: 40. Empleo: 1 maestro. Consejos: Este es un edificio educativo con el doble de capacidad de estudiantes en comparacion con la escuela normal. La educacion es extremadamente esencial en este mod. La falta de educacion aumenta mucho la dificultad del juego."; }
 
 		{ String _name = "RKShopHardware";				String _text = "Materias Primas"; }
 		{ String _name = "RKShopHardwareLwr";				String _text = "materias primas"; }
-		{ String _name = "RKShopHardwareTip";				String _text = "The Raw Materials Store is a little market that only sell raw materials (Wood, Minerals, Iron). Tamano: 4x5 casillas. Cost: 24 troncos, 36 piedra. Sell: (30%)Logs (40%)Minerals (30%)Iron. Capacity: 10000 de peso. Employment: 1-6 vendedores. Tips: It Is a good market to provide a blacksmith, a foundry, and any production building that use troncos+hierro and/or minerals. It fit under Multi-level floors."; }
+		{ String _name = "RKShopHardwareTip";				String _text = "La Tienda de Materias Primas es un pequeno mercado que solo vende materias primas (Madera, Minerales, Hierro). Tamano: 4x5 casillas. Costo: 24 troncos, 36 piedra. Vende: (30%) Troncos (40%) Minerales (30%) Hierro. Capacidad: 10000 de peso. Empleo: 1-6 vendedores. Consejos: Es un buen mercado para abastecer a una herreria, una fundicion, y cualquier edificio de produccion que use troncos y hierro y/o minerales. Encaja debajo de los pisos de varios niveles."; }
 
 		{ String _name = "RKShopBuilding";				String _text = "Materiales de Construccion"; }
 		{ String _name = "RKShopBuildingLwr";				String _text = "materiales de construccion"; }
-		{ String _name = "RKShopBuildingTip";				String _text = "The Building Materials Store is a little market that only sell Tier2 building materials (Stone, Construction: Lumber, Glass, Bricks, Rooftiles...). Tamano: 4x5 casillas. Cost: 24 troncos, 36 piedra. Sell: (20%)Stone (80%)Construction. Capacity: 10000 de peso. Employment: 1-6 vendedores. Tips: It Is a good market to provide building materials to an area in developpement. It fit under Multi-level floors."; }
+		{ String _name = "RKShopBuildingTip";				String _text = "La Tienda de Materiales de Construccion es un pequeno mercado que solo vende materiales de construccion de nivel 2 (Piedra, Construccion: Madera, Vidrio, Ladrillos, Tejas...). Tamano: 4x5 casillas. Costo: 24 troncos, 36 piedra. Vende: (20%) Piedra (80%) Construccion. Capacidad: 10000 de peso. Empleo: 1-6 vendedores. Consejos: Es un buen mercado para proporcionar materiales de construccion a una zona en desarrollo. Encaja debajo de los pisos de varios niveles."; }
 
 		{ String _name = "RKShopGrocery";				String _text = "Tienda de Comestibles"; }
 		{ String _name = "RKShopGroceryLwr";				String _text = "tienda de comestibles"; }
-		{ String _name = "RKShopGroceryTip";				String _text = "The Grocery Store is a little market that only sell comida (Proteins, Grain, Vegetables and Fruits). Tamano: 4x5 casillas. Cost: 24 troncos, 36 piedra. Sell: Food (25%)Grain (25%)Fruit (25%)Vegetable (25%)Protein. Capacity: 10000 de peso. Employment: 1-6 vendedores. Tips: It Is a good market to provide comida to a housing district. Will grab edible and non-edible comida. It fit under Multi-level floors."; }
+		{ String _name = "RKShopGroceryTip";				String _text = "La Tienda de Comestibles es un pequeno mercado que solo vende comida (Proteinas, Granos, Vegetales y Frutas). Tamano: 4x5 casillas. Costo: 24 troncos, 36 piedra. Vende: Comida (25%) Granos (25%) Frutas (25%) Vegetales (25%) Proteinas. Capacidad: 10000 de peso. Empleo: 1-6 vendedores. Consejos: Es un buen mercado para proporcionar comida a un distrito residencial. Recogera comida comestible y no comestible. Encaja debajo de los pisos de varios niveles."; }
 
 		{ String _name = "RKShopDelicate";				String _text = "Suministros y Bienes"; }
 		{ String _name = "RKShopDelicateLwr";				String _text = "suministros y bienes"; }
-		{ String _name = "RKShopDelicateTip";				String _text = "The Supplies & Goods is a little market that only sell some various goods. Tamano: 4x5 casillas. Cost: 24 troncos, 36 piedra. Sell: (25%)Tool (25%)Fuel (25%)Clothing (25%)Health. Capacity: 10000 de peso. Employment: 1-6 vendedores. Tips: It Is a good market to provide everything else that is not comida to a housing district. Should provide everything else than comida for all your housing. It fit under Multi-level floors."; }
+		{ String _name = "RKShopDelicateTip";				String _text = "Suministros y Bienes es un pequeno mercado que solo vende varios bienes diversos. Tamano: 4x5 casillas. Costo: 24 troncos, 36 piedra. Vende: (25%) Herramientas (25%) Combustible (25%) Ropa (25%) Salud. Capacidad: 10000 de peso. Empleo: 1-6 vendedores. Consejos: Es un buen mercado para proporcionar todo lo que no sea comida a un distrito residencial. Deberia proporcionar todo lo demas que no sea comida para todas tus viviendas. Encaja debajo de los pisos de varios niveles."; }
 
 		{ String _name = "RKShopFabrics";				String _text = "Telas y Cia."; }
 		{ String _name = "RKShopFabricsLwr";				String _text = "telas y cia."; }
-		{ String _name = "RKShopFabricsTip";				String _text = "The Fabrics & Co. is a little market that only sell fabrics materials to craft cloths (Textiles and Fabrics). Tamano: 4x5 casillas. Cost: 24 troncos, 36 piedra. Sell: (50%)Textile (50%)Fabric. Capacity: 10000 de peso. Employment: 1-6 vendedores. Tips: It Is a good market to provide tailors and everything that need textiles. It fit under Multi-level floors."; }
+		{ String _name = "RKShopFabricsTip";				String _text = "Telas y Cia. es un pequeno mercado que solo vende materiales textiles para fabricar ropa (Textiles y Telas). Tamano: 4x5 casillas. Costo: 24 troncos, 36 piedra. Vende: (50%) Textiles (50%) Telas. Capacidad: 10000 de peso. Empleo: 1-6 vendedores. Consejos: Es un buen mercado para abastecer a los sastres y a todo lo que necesite textiles. Encaja debajo de los pisos de varios niveles."; }
 
 		{ String _name = "NewMedievalFlatTool";			String _text = "Herramienta de Nivelar"; }
 		{ String _name = "NewMedievalFlatToolLwr";		String _text = "herramienta de nivelar"; }
@@ -584,31 +584,31 @@ StringTable resource
 
 		{ String _name = "NMTMCsandpit";			String _text = "Pozo de arena"; }
 		{ String _name = "NMTMCsandpitLWR";			String _text = "pozo de arena"; }
-		{ String _name = "NMTMCsandpitTip";			String _text = "A Sand pit es un area de trabajo donde puedes gather sand. Tamano: 9x9 casillas. Cost: 12 troncos. Can Create: 6-9 Sand. Capacity: Unlimited. Employment: 1-6 stonecutters. Tips: It will create 6-9 sand per job done. Sand is a material with a value of 1. Take care to not block the entrance. Please allow a road in front."; }
+		{ String _name = "NMTMCsandpitTip";			String _text = "Una cantera de arena es un area de trabajo donde se puede recolectar arena. Tamano: 9x9 casillas. Costo: 12 troncos. Puede crear: 6-9 arena. Capacidad: Ilimitada. Empleo: 1-6 canteros. Consejos: Creara 6-9 arena por cada trabajo realizado. La arena es un material con un valor de 1. Ten cuidado de no bloquear la entrada. Por favor, deja un camino en frente."; }
 
 		{ String _name = "NMTMCclaypit";			String _text = "Pozo de arcilla"; }
 		{ String _name = "NMTMCclaypitLWR";			String _text = "pozo de arcilla"; }
-		{ String _name = "NMTMCclaypitTip";			String _text = "A Clay pit es un area de trabajo donde puedes gather clay. Tamano: 9x9 casillas. Cost: 12 troncos. Can Create: 1-2 Clay. Capacity: Unlimited. Employment: 1-6 stonecutters. Tips: It will create 1-2 clay per job done. Clay is a material with a value of 3. Take care to not block the entrance. Please allow a road in front."; }
+		{ String _name = "NMTMCclaypitTip";			String _text = "Una cantera de arcilla es un area de trabajo donde se puede recolectar arcilla. Tamano: 9x9 casillas. Costo: 12 troncos. Puede crear: 1-2 arcilla. Capacidad: Ilimitada. Empleo: 1-6 canteros. Consejos: Creara 1-2 arcilla por cada trabajo realizado. La arcilla es un material con un valor de 3. Ten cuidado de no bloquear la entrada. Por favor, deja un camino en frente."; }
 
 		{ String _name = "NMTMCkiln";				String _text = "Horno"; }
 		{ String _name = "NMTMCkilnLWR";			String _text = "horno"; }
-		{ String _name = "NMTMCkilnTip";			String _text = "A kiln es un area de trabajo donde puedes make bricks and rooftiles from clay. Tamano: 6x6 casillas. Cost: 26 piedra. Can Make: 6-10 Brick(10 clay) or 6-10 Rooftile(10 clay). Employment: 1 trabajador. Tips: It also needs 2 lena per job done. Bricks and rooftiles are construction items with a value of 5 each. A lot of buildings will require bricks and rooftiles as building material."; }
+		{ String _name = "NMTMCkilnTip";			String _text = "Un horno es un area de trabajo donde se puede fabricar ladrillos y tejas a partir de arcilla. Tamano: 6x6 casillas. Costo: 26 piedra. Puede hacer: 6-10 Ladrillo (10 arcilla) o 6-10 Teja (10 arcilla). Empleo: 1 trabajador. Consejos: Tambien necesita 2 lena por cada trabajo realizado. Los ladrillos y las tejas son articulos de construccion con un valor de 5 cada uno. Muchos edificios requeriran ladrillos y tejas como material de construccion."; }
 
 		{ String _name = "NMTMCglassmaker";			String _text = "Fabricante de Vidrio"; }
 		{ String _name = "NMTMCglassmakerLWR";			String _text = "fabricante de vidrio"; }
-		{ String _name = "NMTMCglassmakerTip";			String _text = "A Glass Maker es un area de trabajo donde puedes make vidrio and glassware from sand. Tamano: 6x6 casillas. Cost: 38 troncos, 32 piedra, 12 hierro. Can Make: 6-8 Glass(23 sand) or 6-9 Glassware(23 sand). Employment: 1 trabajador. Tips: It also needs 6 lena or 3 coal per job done. Glass is a construction item with a value of 8. Glassware is a crafted item with a value of 7. A lot of buildings will require vidrio as building material. Glassware is needed for production or building material."; }
+		{ String _name = "NMTMCglassmakerTip";			String _text = "Una Vidrieria es un area de trabajo donde se puede fabricar vidrio y cristaleria a partir de arena. Tamano: 6x6 casillas. Costo: 38 troncos, 32 piedra, 12 hierro. Puede hacer: 6-8 Vidrio (23 arena) o 6-9 Cristaleria (23 arena). Empleo: 1 trabajador. Consejos: Tambien necesita 6 lena o 3 carbon por cada trabajo realizado. El vidrio es un articulo de construccion con un valor de 8. La cristaleria es un articulo artesanal con un valor de 7. Muchos edificios requeriran vidrio como material de construccion. La cristaleria se necesita para produccion o como material de construccion."; }
 
 		{ String _name = "NMT30MCironQuarry";			String _text = "Cantera de Hierro"; }
 		{ String _name = "NMT30MCironQuarryLWR";		String _text = "cantera de hierro"; }
-		{ String _name = "NMT30MCironQuarryTip";		String _text = "An Iron Quarry es un area de trabajo donde puedes mine Iron or Copper. Tamano: 10x10 casillas. Cost: 48 troncos. Can Create: 2-3 Iron Ore or 2-3 Copper Ore per work. Capacity: 2000. Employment: 1-6 mineros. Tips: Iron Ore and Copper Ore are minerals with a value of 4. You will need a foundry to smelt these ores. (Blacksmiths can also help you in wait you have your foundry). Once deplecated, you can renew it 5 times."; }
+		{ String _name = "NMT30MCironQuarryTip";		String _text = "Una Cantera de Hierro es una zona de trabajo donde puedes extraer hierro o cobre. Tamano: 10x10 casillas. Costo: 48 troncos. Puede crear: 2-3 de mineral de hierro o 2-3 de mineral de cobre por trabajo. Capacidad: 2000. Empleo: 1-6 mineros. Consejos: El mineral de hierro y el mineral de cobre son minerales con un valor de 4. Necesitaras una fundicion para fundir estos minerales. (Los herreros tambien pueden ayudarte mientras consigues tu fundicion). Una vez agotada, puedes renovarla 5 veces."; }
 
 		{ String _name = "NMT30MCrockQuarry";			String _text = "Cantera de Roca"; }
 		{ String _name = "NMT30MCrockQuarryLWR";		String _text = "cantera de roca"; }
-		{ String _name = "NMT30MCrockQuarryTip";		String _text = "An Rock Quarry es un area de trabajo donde puedes mine Stone, Coal or Salt. Tamano: 10x10 casillas. Cost: 48 troncos. Can Create: 1-2 Stone or 3-4 Coal or 4-6 Salt per work. Capacity: 2000. Employment: 1-6 mineros. Tips: Stone is piedra limit with a value of 8. Coal is a mineral with a value of 4. And salt is a mineral with a value of 1. Once deplecated, you can renew it 5 times."; }
+		{ String _name = "NMT30MCrockQuarryTip";		String _text = "Una Cantera de Roca es una zona de trabajo donde puedes extraer piedra, carbon o sal. Tamano: 10x10 casillas. Costo: 48 troncos. Puede crear: 1-2 de piedra, o 3-4 de carbon, o 4-6 de sal por trabajo. Capacidad: 2000. Empleo: 1-6 mineros. Consejos: La piedra es un material con un valor de 8. El carbon es un mineral con un valor de 4. Y la sal es un mineral con un valor de 1. Una vez agotada, puedes renovarla 5 veces."; }
 
 		{ String _name = "NMT30MCrandomQuarry";			String _text = "Cantera Aleatoria"; }
 		{ String _name = "NMT30MCrandomQuarryLWR";		String _text = "cantera aleatoria"; }
-		{ String _name = "NMT30MCrandomQuarryTip";		String _text = "An Random Quarry es un area de trabajo donde puedes mine everything... randomly. Tamano: 10x10 casillas. Cost: 48 troncos. Can Create randomly: 1-2 Stone 3-4 Coal 4-6 Salt 2-3 IronOre 2-3 CopperOre per work. Capacity: 2000. Employment: 1-6 mineros. Tips: Stone has a value of 8. Coal, IronOre and CopperOre are minerals with a value of 4. And salt is a mineral with a value of 1. Once deplecated, you can renew it 5 times. This random quarry can also give you 1 Gem(value 200), 1-2 Silver Ores(value 11) and 1-2 Gold Ores(value 22). Those are also minerals."; }
+		{ String _name = "NMT30MCrandomQuarryTip";		String _text = "Una Cantera Aleatoria es una zona de trabajo donde puedes extraer de todo... al azar. Tamano: 10x10 casillas. Costo: 48 troncos. Puede crear al azar: 1-2 de piedra, 3-4 de carbon, 4-6 de sal, 2-3 de mineral de hierro, 2-3 de mineral de cobre por trabajo. Capacidad: 2000. Empleo: 1-6 mineros. Consejos: La piedra tiene un valor de 8. El carbon, el mineral de hierro y el mineral de cobre son minerales con un valor de 4. Y la sal es un mineral con un valor de 1. Una vez agotada, puedes renovarla 5 veces. Esta cantera aleatoria tambien puede darte 1 gema (valor 200), 1-2 minerales de plata (valor 11) y 1-2 minerales de oro (valor 22). Esos tambien son minerales."; }
 
 		{ String _name = "NMT30MCironQuarryLvl2";		String _text = "Cantera de Hierro Nivel 2"; }
 		{ String _name = "NMT30MCironQuarryLvl2LWR";		String _text = "cantera de hierro nivel 2"; }
@@ -660,49 +660,49 @@ StringTable resource
 
 		{ String _name = "NMT30Foundry";			String _text = "Fundicion"; }
 		{ String _name = "NMT30FoundryLWR";			String _text = "fundicion"; }
-		{ String _name = "NMT30FoundryTip";			String _text = "A Foundry es un area de trabajo donde puedes smelt everything. Tamano: 8x8 casillas. Cost: 24 troncos, 64 piedra, 18 hierro, 32 charcoal. Can Create: 1-2 hierro, cobre, silevr or oro per work. Employment: 1-2 blacksmiths. Tips: The Foundry is the way to go to smelt everything in the game and also is more efficient than the simple blacksmith buildings. "; }
+		{ String _name = "NMT30FoundryTip";			String _text = "Una Fundicion es una zona de trabajo donde puedes fundir de todo. Tamano: 8x8 casillas. Costo: 24 troncos, 64 piedra, 18 hierro, 32 carbon. Puede crear: 1-2 de hierro, cobre, plata u oro por trabajo. Empleo: 1-2 herreros. Consejos: La Fundicion es la mejor opcion para fundir de todo en el juego y tambien es mas eficiente que los simples edificios de herreria. "; }
 
 		{ String _name = "NMT30JewelMaker";			String _text = "Joyero"; }
 		{ String _name = "NMT30JewelMakerLWR";			String _text = "joyero"; }
-		{ String _name = "NMT30JewelMakerTip";			String _text = "A Jewelry Maker toma precious metal and gems for crafting some very valuable rings, necklaces, and jewels. Tamano: 6x6 casillas. Cost: 8 troncos, 24 madera, 16 piedra, 18 ladrillo, 6 vidrio. Can make: jewelries from cutted gems and oro/plata, multiples recipes. Employment: 1 trabajador. Tips: You need a gem cutter to cut those gems and once you determined their value, you can use those to make or a silvered or a golden version. Every recipes will drop more than just one item at time. Although, non-education is bad for this building. The list of recipes is too long to put it here."; }
+		{ String _name = "NMT30JewelMakerTip";			String _text = "Un Joyero toma metales preciosos y gemas para elaborar valiosos anillos, collares y joyas. Tamano: 6x6 casillas. Costo: 8 troncos, 24 madera, 16 piedra, 18 ladrillo, 6 vidrio. Puede hacer: joyas a partir de gemas talladas y oro/plata, multiples recetas. Empleo: 1 trabajador. Consejos: Necesitas un tallador de gemas para tallarlas, y una vez determinado su valor, puedes usarlas para hacer una version plateada o dorada. Cada receta producira mas de un objeto a la vez. Sin embargo, la falta de educacion perjudica a este edificio. La lista de recetas es demasiado larga para incluirla aqui."; }
 
 		{ String _name = "NMT30GemCutter";			String _text = "Tallador de Gemas"; }
 		{ String _name = "NMT30GemCutterLWR";			String _text = "tallador de gemas"; }
-		{ String _name = "NMT30GemCutterTip";			String _text = "A Gem Cutter toma gems, cut those, determine their quality and value. Tamano: 6x6 casillas. Cost: 8 troncos, 24 madera, 16 piedra, 18 ladrillo, 6 vidrio. Can make: amethyst(value 60) topaze(value 80) emerald(value 250) sapphire(value 300) ruby(value 400) diamond(value 1000). Employment: 1 trabajador. Tips: The only way to get uncut gems is from the random quarry. Of course, higher values are a lot more rare than common ones."; }
+		{ String _name = "NMT30GemCutterTip";			String _text = "Un Tallador de Gemas toma gemas en bruto, las talla y determina su calidad y valor. Tamano: 6x6 casillas. Costo: 8 troncos, 24 madera, 16 piedra, 18 ladrillo, 6 vidrio. Puede hacer: amatista (valor 60), topacio (valor 80), esmeralda (valor 250), zafiro (valor 300), rubi (valor 400), diamante (valor 1000). Empleo: 1 trabajador. Consejos: La unica forma de obtener gemas sin tallar es de la cantera aleatoria. Por supuesto, los valores mas altos son mucho mas raros que los comunes."; }
 
 		{ String _name = "NMT30CandleMaker";			String _text = "Fabricante de Velas"; }
 		{ String _name = "NMT30CandleMakerLWR";			String _text = "fabricante de velas"; }
-		{ String _name = "NMT30CandleMakerTip";			String _text = "A Candle Maker is making Candles from Beeswax. Tamano: 6x6 casillas. Cost: 12 troncos, 24 madera, 18 piedra, 24 ladrillo, 12 vidrio. Can make: 3-4 candles from 16 beeswax per work. Employment: 1 trabajador. Tips: Candle has a value of 8. Candles are used to upgrade and renew mines and quarries once they are deplecated."; }
+		{ String _name = "NMT30CandleMakerTip";			String _text = "El Fabricante de Velas hace velas a partir de cera de abeja. Tamano: 6x6 casillas. Costo: 12 troncos, 24 madera, 18 piedra, 24 ladrillo, 12 vidrio. Puede hacer: 3-4 velas a partir de 16 de cera de abeja por trabajo. Empleo: 1 trabajador. Consejos: La vela tiene un valor de 8. Las velas se usan para mejorar y renovar minas y canteras una vez que estan agotadas."; }
 
 		{ String _name = "NMT30MineUpgradeTip";			String _text = "Mejora y renueva esta mina/cantera a otro nivel mas profundo, lo que te permitira seguir obteniendo recursos de ella incluso si esta agotada. Necesitaras material extra como velas para esto."; }
 
 		{ String _name = "RKGardenWallsGreenHouse";			String _text = "Invernadero"; }
 		{ String _name = "RKGardenWallsGreenHouseLwr";			String _text = "invernadero"; }
-		{ String _name = "RKGardenWallsGreenHouseTip";			String _text = "A GreenHouse is the most powerful comida provider in this mod. Tamano: 5x7 casillas. Cost: 20 madera, 20 piedra, 48 vidrio. Can make: All kind of vegetables in game and some small fruit plants, numbers created are variable from 16-24 to 20-28. Employment: 1 botanico. Tips: Greenhouse need (2)fertilizer and (2)water over time per each job done. (best source of fertilizer is the stable, pastures with some animals will help a lot too. The water comes from a water well or water tower)."; }
+		{ String _name = "RKGardenWallsGreenHouseTip";			String _text = "Un Invernadero es el proveedor de comida mas poderoso de este mod. Tamano: 5x7 casillas. Costo: 20 madera, 20 piedra, 48 vidrio. Puede hacer: Todo tipo de vegetales del juego y algunas plantas frutales pequenas; las cantidades creadas varian de 16-24 a 20-28. Empleo: 1 botanico. Consejos: El invernadero necesita (2) fertilizante y (2) agua con el tiempo por cada trabajo realizado (la mejor fuente de fertilizante es el establo; los pastizales con algunos animales tambien ayudan mucho. El agua proviene de un pozo de agua o una torre de agua)."; }
 
 		{ String _name = "RKGardenWallsStables";			String _text = "Establo"; }
 		{ String _name = "RKGardenWallsStablesLwr";			String _text = "establo"; }
-		{ String _name = "RKGardenWallsStablesTip";			String _text = "Stables is the best fertilizer provider in game. Tamano: 9x6 casillas. Cost: 20 madera, 40 piedra. Can create: 3-5 fertilizer(value 2) from 2 fodder-thatch and 2 water per job done. Employment: 1-2 establero. Tips: You need a good source of fodder-thatch which can come from clearing or from the fodder farmer and water from water well or water tower. Fertilizer is used in greenhouses(most powerful comida generator per casilla)."; }
+		{ String _name = "RKGardenWallsStablesTip";			String _text = "El Establo es el mejor proveedor de fertilizante del juego. Tamano: 9x6 casillas. Costo: 20 madera, 40 piedra. Puede crear: 3-5 fertilizante (valor 2) a partir de 2 forraje-paja y 2 agua por cada trabajo realizado. Empleo: 1-2 estableros. Consejos: Necesitas una buena fuente de forraje-paja, que puede venir de despejar terreno o del granjero de forraje, y agua de un pozo de agua o una torre de agua. El fertilizante se usa en los invernaderos (el generador de comida mas poderoso por casilla)."; }
 
 		{ String _name = "RKGardenWallsWell";				String _text = "Pozo de Agua"; }
 		{ String _name = "RKGardenWallsWellLwr";			String _text = "pozo de agua"; }
-		{ String _name = "RKGardenWallsWellTip";			String _text = "A Water Well is a good source of fresh water. Tamano: 1x1 casillas(3x3 with roads). Cost: 4 madera, 24 piedra. Can make: 12-15 water(value 1) per job done. Employment: 1 trabajador. Tips: This well CAN NOT be used for firefighting. It is producing water slower than the water tower. Water is a comida without nutrients(no diet flags) and is needed in many industries like stables, greenhouses, perfumery, apothecary..."; }
+		{ String _name = "RKGardenWallsWellTip";			String _text = "Un Pozo de Agua es una buena fuente de agua fresca. Tamano: 1x1 casillas (3x3 con caminos). Costo: 4 madera, 24 piedra. Puede hacer: 12-15 agua (valor 1) por cada trabajo realizado. Empleo: 1 trabajador. Consejos: Este pozo NO puede usarse para apagar incendios. Produce agua mas lento que la torre de agua. El agua es una comida sin nutrientes (sin banderas de dieta) y se necesita en muchas industrias como establos, invernaderos, perfumerias, boticas..."; }
 
 		{ String _name = "RKGardenWallsFodderFarmers";			String _text = "Agricultores de Forraje"; }
 		{ String _name = "RKGardenWallsFodderFarmersLwr";		String _text = "agricultores de forraje"; }
-		{ String _name = "RKGardenWallsFodderFarmersTip";		String _text = "A Fodder Farmers will plant grass and harvest fodder-thatch when grass is fully grown (instead of trees). Tamano:5x6 casillas. Cost: 32 madera, 4 piedra. Can Make: 3-4 fodder-thatch per harvested grass patch. Radius: 26 casillas. Employment: 1-3 guardabosques. Tips: Working exactly same as guardabosques lodge but will plant grass. First they will have to clear everything in their radius, remove all trees and all ores will help them alot. and once removed, they will plant a grass patch. This grass needs to grow, and when mature, it will be harvested. Fodder can be used also to make firebundles(lena)."; }
+		{ String _name = "RKGardenWallsFodderFarmersTip";		String _text = "Un Granjero de Forraje plantara hierba y cosechara forraje-paja cuando la hierba este completamente crecida (en lugar de arboles). Tamano: 5x6 casillas. Costo: 32 madera, 4 piedra. Puede hacer: 3-4 forraje-paja por cada parcela de hierba cosechada. Radio: 26 casillas. Empleo: 1-3 guardabosques. Consejos: Funciona exactamente igual que una cabana de guardabosques, pero plantara hierba. Primero tendran que despejar todo en su radio; retirar todos los arboles y minerales les ayudara mucho. Y una vez despejado, plantaran una parcela de hierba. Esta hierba necesita crecer, y cuando este madura, sera cosechada. El forraje tambien puede usarse para hacer fajos de lena."; }
 
 		{ String _name = "RKGardenWallsFlorist";			String _text = "Florista"; }
 		{ String _name = "RKGardenWallsFloristLwr";			String _text = "florista"; }
-		{ String _name = "RKGardenWallsFloristTip";			String _text = "A Florist will wander and try to gather flowers. Tamano: 5x6 casillas. Cost: 32 madera, 4 piedra. Can Make: 3-5 flowers per harvested flower patch. Radius: 32. Employment: 1 recolector. Tips: The florist will act exactly like a recolector but it will search for flowers and seedlings. Not intended to be placed near guardabosques/recolector combo (very bad) but meant to be used in combo of the fodder farmer building. Grass will spawn tons of flowers. Warning: They will not plant flowers."; }
+		{ String _name = "RKGardenWallsFloristTip";			String _text = "Un Florista vagara y tratara de recolectar flores. Tamano: 5x6 casillas. Costo: 32 madera, 4 piedra. Puede hacer: 3-5 flores por cada parcela de flores cosechada. Radio: 32. Empleo: 1 recolector. Consejos: El florista actuara exactamente como un recolector, pero buscara flores y plantones. No esta pensado para colocarse cerca de la combinacion guardabosques/recolector (muy malo), sino para usarse junto con el edificio del granjero de forraje. La hierba generara muchisimas flores. Advertencia: No plantaran flores."; }
 
 		{ String _name = "RKGardenWallsPerfumery";			String _text = "Perfumeria"; }
 		{ String _name = "RKGardenWallsPerfumeryLwr";			String _text = "perfumeria"; }
-		{ String _name = "RKGardenWallsPerfumeryTip";			String _text = "A Perfumery creates perfume from essence of flowers. Tamano: 5x5 casillas. Cost: 24 madera, 24 piedra, 8 cobre, 12 glassware. Can Make: 5-8 perfumes (value 8) from 8 flower, 2 water, 1 glassware per job done. Employment: 1 trabajador. Tips. One of the best item to sell that use something we can find everywhere: flowers. This building require water and glassware over time. Water comes from water well or water tower and the glassware comes from the vidrio maker."; }
+		{ String _name = "RKGardenWallsPerfumeryTip";			String _text = "Una Perfumeria crea perfume a partir de la esencia de las flores. Tamano: 5x5 casillas. Costo: 24 madera, 24 piedra, 8 cobre, 12 cristaleria. Puede hacer: 5-8 perfumes (valor 8) a partir de 8 flores, 2 agua, 1 cristaleria por cada trabajo realizado. Empleo: 1 trabajador. Consejos: Uno de los mejores articulos para vender, ya que usa algo que se encuentra en todas partes: las flores. Este edificio requiere agua y cristaleria con el tiempo. El agua proviene de un pozo de agua o una torre de agua, y la cristaleria proviene de la vidrieria."; }
 
 		{ String _name = "RKGardenWallsCustom5Barn";			String _text = "Granero de Forraje"; }
 		{ String _name = "RKGardenWallsCustom5BarnLwr";			String _text = "granero de forraje"; }
-		{ String _name = "RKGardenWallsCustom5BarnTip";			String _text = "This is a Fodder Barn that only allow fodder items and everything that fall into that category to be stored there. Tamano: 4x4 casillas. Cost: 12 troncos, 28 fodder-thatch. Capacity: 6000 de peso. Accept: Misc Items. Tips: Fodder is Misc flag, so this is why it allows all Misc flag items. Allow alot more items to be stored in a 4x4 than a simple stockpile."; }
+		{ String _name = "RKGardenWallsCustom5BarnTip";			String _text = "Este es un Granero de Forraje que solo permite almacenar articulos de forraje y todo lo que caiga en esa categoria. Tamano: 4x4 casillas. Costo: 12 troncos, 28 forraje-paja. Capacidad: 6000 de peso. Acepta: Articulos Varios. Consejos: El forraje tiene la bandera Varios, por eso permite todos los articulos con esa bandera. Permite almacenar muchos mas articulos en un 4x4 que una simple pila de almacenamiento."; }
 
 		{ String _name = "RKGardenWallsTrash";				String _text = "Desechar"; }
 		{ String _name = "RKGardenWallsTrashLwr";			String _text = "desechar"; }
@@ -711,16 +711,16 @@ StringTable resource
 
 		{ String _name = "OldBarnPub";				String _text = "Granero Convertido en Taberna"; }
 		{ String _name = "OldBarnPubLWR";			String _text = "granero convertido en taberna"; }
-		{ String _name = "OldBarnPubTip";			String _text = "An Old Barn Pub is a barn converted into a bar or pub. They will serve meals and drinking, and will have a festive ambience which will provide hapiness. Tamano: 6x6 casillas. Cost: 32 troncos, 16 piedra. Hapiness: Entertainment. Radius: 40 casillas. Employment: 1-3 cerveceros. Tips: This building use a new flag: Consume. This special flag helps to deal with alcohol and will act the same. The cerveceros will take tier 2 carne, plus a vegetable and an alcohol and will make 12-16 meals (value  1). Citizens will pickup meals and get hapiness back from it (exactly like ale) but cost alot less."; }
+		{ String _name = "OldBarnPubTip";			String _text = "La Vieja Taberna del Granero es un granero convertido en un bar o taberna. Serviran comidas y bebidas, y tendran un ambiente festivo que proporcionara felicidad. Tamano: 6x6 casillas. Costo: 32 troncos, 16 piedra. Felicidad: Entretenimiento. Radio: 40 casillas. Empleo: 1-3 cerveceros. Consejos: Este edificio usa una nueva bandera: Consumir. Esta bandera especial ayuda a manejar el alcohol y actuara de la misma manera. Los cerveceros tomaran carne de nivel 2, mas un vegetal y un alcohol, y haran 12-16 comidas (valor 1). Los ciudadanos recogeran las comidas y recibiran felicidad de ellas (exactamente como el ale) pero costaran mucho menos."; }
 
 
 		{ String _name = "ClearWildFood";			String _text = "Recolectar Comida Silvestre"; }
 		{ String _name = "ClearWildFoodLwr";			String _text = "recolectar comida silvestre"; }
-		{ String _name = "ClearWildFoodTip";			String _text = "Collect and harvest wild comida spawns in the selected area. Tips: Wild comida are spawning from trees and alot new comida are spawning from flowers."; }
+		{ String _name = "ClearWildFoodTip";			String _text = "Recolecta y cosecha los puntos de comida silvestre en el area seleccionada. Consejos: La comida silvestre aparece en los arboles, y tambien aparece mucha comida nueva en las flores."; }
 
 		{ String _name = "ClearFodder";				String _text = "Recolectar Forraje"; }
 		{ String _name = "ClearFodderLwr";			String _text = "recolectar forraje"; }
-		{ String _name = "ClearFodderTip";			String _text = "Collect and harvest fodder-thatch patches in the selected area. Tips: Fodder-thatch is the material you get from harvesting patches of grass you can see on the ground. Fodder can be used in the stables, can be made into firebundles(lena by lenadores), can be used as building material(apiary, fenceless pasture, fodder barn...). each patch of grass creates 4-6 fodder-thatch (value 1). These are stored in a construction stockpile."; }
+		{ String _name = "ClearFodderTip";			String _text = "Recolecta y cosecha parches de forraje-paja en el area seleccionada. Consejos: El forraje-paja es el material que obtienes al cosechar los parches de pasto que ves en el suelo. El forraje se puede usar en los establos, se puede convertir en haces de lena (lena hecha por los lenadores), y se puede usar como material de construccion (apiario, pastura sin cercas, granero de forraje...). Cada parche de pasto genera 4-6 de forraje-paja (valor 1). Estos se almacenan en un almacen de construccion."; }
 
 		{ String _name = "ClearFlower";				String _text = "Recolectar Flores"; }
 		{ String _name = "ClearFlowerLwr";			String _text = "recolectar flores"; }
@@ -732,15 +732,15 @@ StringTable resource
 
 		{ String _name = "ClearCopper";				String _text = "Recolectar Cobre"; }
 		{ String _name = "ClearCopperLwr";			String _text = "recolectar cobre"; }
-		{ String _name = "ClearCopperTip";			String _text = "Collect all cobre and other rare minerals (oro and plata) in the selected area. Tips: Copper se usa para make some tools and also as building materials. Copper and the other rare ores are minerals. Make sure you have material stockpile available. 2-3 Copper ores are extracted (value 4), 1-2 plata ores (value 11) or 1-2 oro ores (value 22). Make sure you have minerals stockpile available to store those. "; }
+		{ String _name = "ClearCopperTip";			String _text = "Recolecta todo el cobre y otros minerales raros (oro y plata) en el area seleccionada. Consejos: El cobre se usa para fabricar algunas herramientas y tambien como material de construccion. El cobre y los demas minerales raros son minerales. Asegurate de tener disponible un almacen de materiales. Se extraen 2-3 minerales de cobre (valor 4), 1-2 minerales de plata (valor 11) o 1-2 minerales de oro (valor 22). Asegurate de tener disponible un almacen de minerales para guardarlos. "; }
 
 		{ String _name = "ClearAlmostAll";			String _text = "Recolectar Casi Todo"; }
 		{ String _name = "ClearAlmostAllLwr";			String _text = "recolectar casi todo"; }
-		{ String _name = "ClearAlmostAllTip";			String _text = "Collect all ores and piedras in the selected area. Tips: This special tool will gather all ores and all piedras. Will not remove the trees and grass and other valuable wild things. Very useful to clean up fast all the lands around guardabosques."; }
+		{ String _name = "ClearAlmostAllTip";			String _text = "Recolecta todos los minerales y piedras en el area seleccionada. Consejos: Esta herramienta especial recogera todos los minerales y todas las piedras. No eliminara los arboles, el pasto ni otras cosas silvestres valiosas. Muy util para limpiar rapidamente todas las tierras alrededor de los guardabosques."; }
 
 		{ String _name = "ClearFirewood";			String _text = "Collect Dead madera"; }
 		{ String _name = "ClearFirewoodLwr";			String _text = "collect dead madera"; }
-		{ String _name = "ClearFirewoodTip";			String _text = "Collect all dead madera in the selected area for lena. Tips: Dead madera are dead trees fallen. Harvesting dead madera spawn will create 5-8 lena per dead tree."; }
+		{ String _name = "ClearFirewoodTip";			String _text = "Recolecta toda la madera muerta en el area seleccionada para obtener lena. Consejos: La madera muerta son arboles caidos y muertos. Cosechar un punto de madera muerta generara 5-8 de lena por arbol muerto."; }
 
 		{ String _name = "BostonHouse";				String _text = "Casa Boston"; }
 		{ String _name = "BostonHouseLwr";			String _text = "casa boston"; }
@@ -752,15 +752,15 @@ StringTable resource
 
 		{ String _name = "LittleHouseToolbar";			String _text = "Barra de Casita Colorida"; }
 		{ String _name = "LittleHouseToolbarLwr";		String _text = "barra de casita colorida"; }
-		{ String _name = "LittleHouseToolbarTip";		String _text = "Open this toolbar to get Colorful Little House options. Tips: This is a set that contains a first floor and a special 2nd floor to go on top of the first floor for a second family. They will have 5 occupants and an Heat EFF% of 80. 12 different colors. Presiona F para cambiar el color."; }
+		{ String _name = "LittleHouseToolbarTip";		String _text = "Abre esta barra para obtener las opciones de la Casita Colorida. Consejos: Este es un conjunto que contiene un primer piso y un segundo piso especial que se coloca encima del primero para una segunda familia. Tendran 5 ocupantes y una Efic. de Calor% de 80. 12 colores diferentes. Presiona F para cambiar el color."; }
 
 		{ String _name = "LittleHouse01";			String _text = "Casita Colorida"; }
 		{ String _name = "LittleHouse01Lwr";			String _text = "casita colorida"; }
-		{ String _name = "LittleHouse01Tip";			String _text = "A Colorful little house is used for housing your ciudadanos. Tamano: 3x5 casillas. Cost: 24 troncos, 6 piedra. Residence: 5 ciudadanos. Heat EFF%: 80. Models: 1. Colors: 12 alternates. Tips: Presiona F para cambiar el color."; }
+		{ String _name = "LittleHouse01Tip";			String _text = "Una Casita Colorida se usa para alojar a tus ciudadanos. Tamano: 3x5 casillas. Costo: 24 troncos, 6 piedra. Residencia: 5 ciudadanos. Efic. de Calor%: 80. Modelos: 1. Colores: 12 alternativas. Consejos: Presiona F para cambiar el color."; }
 
 		{ String _name = "LittleHouse01floor2";			String _text = "Casita Colorida 2p"; }
 		{ String _name = "LittleHouse01floor2Lwr";		String _text = "casita colorida 2p"; }
-		{ String _name = "LittleHouse01floor2Tip";		String _text = "A Colorful 2nd floor is used for housing a 2nd family. Tamano: 1x5 casillas. Cost: 32 troncos, 6 piedra. Residence: 6 ciudadanos. Heat EFF%: 90. Models: 1. Colors: 12 alternates. Tips: It goes to the right next the first floor, make sure you align the chimneys in the back. it needs to perfectly fit on top of the 1st floor. Presiona F para cambiar el color."; }
+		{ String _name = "LittleHouse01floor2Tip";		String _text = "El 2do piso Colorido se usa para alojar a una segunda familia. Tamano: 1x5 casillas. Costo: 32 troncos, 6 piedra. Residencia: 6 ciudadanos. Efic. de Calor%: 90. Modelos: 1. Colores: 12 alternativas. Consejos: Va a la derecha, junto al primer piso; asegurate de alinear las chimeneas en la parte trasera. Debe encajar perfectamente sobre el 1er piso. Presiona F para cambiar el color."; }
 
 
 		{ String _name = "NMT30MultiStoryHousingToolbar";			String _text = "Barra de Casa Multinivel Nmt"; }
@@ -769,233 +769,233 @@ StringTable resource
 
 		{ String _name = "NMT3Texture1";			String _text = "Barra NMT Multinivel Piedras Clasicas"; }
 		{ String _name = "NMT3Texture1Lwr";			String _text = "barra multinivel nmt"; }
-		{ String _name = "NMT3Texture1Tip";			String _text = "NMT MultiLevel Classic Stones Toolbar. Open this toolbar to get NMT MultiLevel House options. Tips: They will require madera, piedra, hierro, vidrio and troncos. Heat EFF% from 92 to 96."; }
+		{ String _name = "NMT3Texture1Tip";			String _text = "Barra de Niveles Multiples NMT Piedras Clasicas. Abre esta barra para obtener las opciones de la Casa de Niveles Multiples NMT. Consejos: Requeriran madera, piedra, hierro, vidrio y troncos. Efic. de Calor% de 92 a 96."; }
 
 		{ String _name = "NMT3Texture2";			String _text = "Barra NMT Multinivel Piedras Viejas"; }
 		{ String _name = "NMT3Texture2Lwr";			String _text = "barra multinivel nmt"; }
-		{ String _name = "NMT3Texture2Tip";			String _text = "NMT MultiLevel Old Stones Toolbar. Open this toolbar to get NMT MultiLevel House options. Tips: They will require madera, piedra, hierro, vidrio and troncos. Heat EFF% from 92 to 96."; }
+		{ String _name = "NMT3Texture2Tip";			String _text = "Barra de Niveles Multiples NMT Piedras Viejas. Abre esta barra para obtener las opciones de la Casa de Niveles Multiples NMT. Consejos: Requeriran madera, piedra, hierro, vidrio y troncos. Efic. de Calor% de 92 a 96."; }
 
 		{ String _name = "NMT3Texture3";			String _text = "Barra NMT Multinivel Ladrillos Rojos"; }
 		{ String _name = "NMT3Texture3Lwr";			String _text = "barra multinivel nmt"; }
-		{ String _name = "NMT3Texture3Tip";			String _text = "NMT MultiLevel Red Bricks Toolbar. Open this toolbar to get NMT MultiLevel House options. Tips: They will require madera, ladrillo, piedra, vidrio and teja. Heat EFF% from 106 to 114."; }
+		{ String _name = "NMT3Texture3Tip";			String _text = "Barra de Niveles Multiples NMT Ladrillos Rojos. Abre esta barra para obtener las opciones de la Casa de Niveles Multiples NMT. Consejos: Requeriran madera, ladrillo, piedra, vidrio y teja. Efic. de Calor% de 106 a 114."; }
 
 		{ String _name = "NMT3Texture4";			String _text = "Barra NMT Multinivel Ladrillos de Arena"; }
 		{ String _name = "NMT3Texture4Lwr";			String _text = "barra multinivel nmt"; }
-		{ String _name = "NMT3Texture4Tip";			String _text = "NMT MultiLevel Sand Bricks Toolbar. Open this toolbar to get NMT MultiLevel House options. Tips: They will require madera, ladrillo, piedra, vidrio and teja. Heat EFF% from 106 to 114."; }
+		{ String _name = "NMT3Texture4Tip";			String _text = "Barra de Niveles Multiples NMT Ladrillos de Arena. Abre esta barra para obtener las opciones de la Casa de Niveles Multiples NMT. Consejos: Requeriran madera, ladrillo, piedra, vidrio y teja. Efic. de Calor% de 106 a 114."; }
 
 		{ String _name = "NMT3Texture5";			String _text = "Barra NMT Multinivel Ladrillos de Fuego"; }
 		{ String _name = "NMT3Texture5Lwr";			String _text = "barra multinivel nmt"; }
-		{ String _name = "NMT3Texture5Tip";			String _text = "NMT MultiLevel Fire Bricks Toolbar. Open this toolbar to get NMT MultiLevel House options. Tips: They will require madera, ladrillo, piedra, vidrio and troncos. Heat EFF% from 100 to 108."; }
+		{ String _name = "NMT3Texture5Tip";			String _text = "Barra de Niveles Multiples NMT Ladrillos de Fuego. Abre esta barra para obtener las opciones de la Casa de Niveles Multiples NMT. Consejos: Requeriran madera, ladrillo, piedra, vidrio y troncos. Efic. de Calor% de 100 a 108."; }
 
 		{ String _name = "NMT3Texture6";			String _text = "Barra NMT Multinivel Piedras de Vieja Iglesia"; }
 		{ String _name = "NMT3Texture6Lwr";			String _text = "barra multinivel nmt"; }
-		{ String _name = "NMT3Texture6Tip";			String _text = "NMT MultiLevel Old Church Stones Toolbar. Open this toolbar to get NMT MultiLevel House options. Tips: They will require madera, piedra, hierro, vidrio and teja. Heat EFF% from 98 to 106."; }
+		{ String _name = "NMT3Texture6Tip";			String _text = "Barra de Niveles Multiples NMT Piedras de Iglesia Vieja. Abre esta barra para obtener las opciones de la Casa de Niveles Multiples NMT. Consejos: Requeriran madera, piedra, hierro, vidrio y teja. Efic. de Calor% de 98 a 106."; }
 
 		{ String _name = "NMT3Texture7";			String _text = "Barra NMT Multinivel Piedras de Vieja Capilla"; }
 		{ String _name = "NMT3Texture7Lwr";			String _text = "barra multinivel nmt"; }
-		{ String _name = "NMT3Texture7Tip";			String _text = "NMT MultiLevel Old Chapel Stones Toolbar. Open this toolbar to get NMT MultiLevel House options. Tips: They will require madera, piedra, hierro, vidrio and teja. Heat EFF% from 98 to 106."; }
+		{ String _name = "NMT3Texture7Tip";			String _text = "Barra de Niveles Multiples NMT Piedras de Capilla Vieja. Abre esta barra para obtener las opciones de la Casa de Niveles Multiples NMT. Consejos: Requeriran madera, piedra, hierro, vidrio y teja. Efic. de Calor% de 98 a 106."; }
 
 		{ String _name = "NMT3Texture8";			String _text = "Barra NMT Multinivel Madera Vieja"; }
 		{ String _name = "NMT3Texture8Lwr";			String _text = "barra multinivel nmt"; }
-		{ String _name = "NMT3Texture8Tip";			String _text = "NMT MultiLevel Old Wood Toolbar. Open this toolbar to get NMT MultiLevel House options. Tips: They will require only madera, troncos, piedra and vidrio. Heat EFF% from 72 to 80."; }
+		{ String _name = "NMT3Texture8Tip";			String _text = "Barra de Niveles Multiples NMT Madera Vieja. Abre esta barra para obtener las opciones de la Casa de Niveles Multiples NMT. Consejos: Requeriran solo madera, troncos, piedra y vidrio. Efic. de Calor% de 72 a 80."; }
 
 // floor 1
 		{ String _name = "NMT3F1T1";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1T1Lwr";			String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1T1Tip";			String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residence: 5 ciudadanos. Heat EFF%: 92. Models: 6. Color: 1. Tips: Leave a space to the right and to the left for additional level stories. Press F to change models."; }
+		{ String _name = "NMT3F1T1Tip";			String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 92. Modelos: 6. Color: 1. Consejos: Deja un espacio a la derecha y a la izquierda para pisos adicionales. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMT3F1T2";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1T2Lwr";			String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1T2Tip";			String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residence: 5 ciudadanos. Heat EFF%: 92. Models: 6. Color: 1. Tips: Leave a space to the right and to the left for additional level stories. Press F to change models."; }
+		{ String _name = "NMT3F1T2Tip";			String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 92. Modelos: 6. Color: 1. Consejos: Deja un espacio a la derecha y a la izquierda para pisos adicionales. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMT3F1T3";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1T3Lwr";			String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1T3Tip";			String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residence: 5 ciudadanos. Heat EFF%: 106. Models: 6. Color: 1. Tips: Leave a space to the right and to the left for additional level stories. Press F to change models."; }
+		{ String _name = "NMT3F1T3Tip";			String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 106. Modelos: 6. Color: 1. Consejos: Deja un espacio a la derecha y a la izquierda para pisos adicionales. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMT3F1T4";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1T4Lwr";			String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1T4Tip";			String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residence: 5 ciudadanos. Heat EFF%: 106. Models: 6. Color: 1. Tips: Leave a space to the right and to the left for additional level stories. Press F to change models."; }
+		{ String _name = "NMT3F1T4Tip";			String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 106. Modelos: 6. Color: 1. Consejos: Deja un espacio a la derecha y a la izquierda para pisos adicionales. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMT3F1T5";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1T5Lwr";			String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1T5Tip";			String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 troncos. Residence: 5 ciudadanos. Heat EFF%: 100. Models: 6. Color: 1. Tips: Leave a space to the right and to the left for additional level stories. Press F to change models."; }
+		{ String _name = "NMT3F1T5Tip";			String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 100. Modelos: 6. Color: 1. Consejos: Deja un espacio a la derecha y a la izquierda para pisos adicionales. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMT3F1T6";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1T6Lwr";			String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1T6Tip";			String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residence: 5 ciudadanos. Heat EFF%: 98. Models: 6. Color: 1. Tips: Leave a space to the right and to the left for additional level stories. Press F to change models."; }
+		{ String _name = "NMT3F1T6Tip";			String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 98. Modelos: 6. Color: 1. Consejos: Deja un espacio a la derecha y a la izquierda para pisos adicionales. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMT3F1T7";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1T7Lwr";			String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1T7Tip";			String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residence: 5 ciudadanos. Heat EFF%: 98. Models: 6. Color: 1. Tips: Leave a space to the right and to the left for additional level stories. Press F to change models."; }
+		{ String _name = "NMT3F1T7Tip";			String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 98. Modelos: 6. Color: 1. Consejos: Deja un espacio a la derecha y a la izquierda para pisos adicionales. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMT3F1T8";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1T8Lwr";			String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1T8Tip";			String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 36 troncos, 6 piedra, 8 vidrio. Residence: 5 ciudadanos. Heat EFF%: 72. Models: 6. Color: 1. Tips: Leave a space to the right and to the left for additional level stories. Press F to change models."; }
+		{ String _name = "NMT3F1T8Tip";			String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 36 troncos, 6 piedra, 8 vidrio. Residencia: 5 ciudadanos. Efic. de Calor%: 72. Modelos: 6. Color: 1. Consejos: Deja un espacio a la derecha y a la izquierda para pisos adicionales. Presiona F para cambiar los modelos."; }
 
 // floor 2
 		{ String _name = "NMT3F2T1";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2T1Lwr";			String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2T1Tip";			String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residence: 5 ciudadanos. Heat EFF%: 96. Models: 6. Color: 2. Tips: They are meant to be placed just to the right of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F2T1Tip";			String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 96. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F2T2";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2T2Lwr";			String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2T2Tip";			String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residence: 5 ciudadanos. Heat EFF%: 96. Models: 6. Color: 2. Tips: They are meant to be placed just to the right of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F2T2Tip";			String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 96. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F2T3";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2T3Lwr";			String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2T3Tip";			String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residence: 5 ciudadanos. Heat EFF%: 110. Models: 6. Color: 2. Tips: They are meant to be placed just to the right of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F2T3Tip";			String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 110. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F2T4";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2T4Lwr";			String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2T4Tip";			String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residence: 5 ciudadanos. Heat EFF%: 110. Models: 6. Color: 2. Tips: They are meant to be placed just to the right of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F2T4Tip";			String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 110. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F2T5";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2T5Lwr";			String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2T5Tip";			String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 troncos. Residence: 5 ciudadanos. Heat EFF%: 104. Models: 6. Color: 2. Tips: They are meant to be placed just to the right of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F2T5Tip";			String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 104. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F2T6";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2T6Lwr";			String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2T6Tip";			String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residence: 5 ciudadanos. Heat EFF%: 102. Models: 6. Color: 2. Tips: They are meant to be placed just to the right of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F2T6Tip";			String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 102. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F2T7";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2T7Lwr";			String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2T7Tip";			String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residence: 5 ciudadanos. Heat EFF%: 102. Models: 6. Color: 2. Tips: They are meant to be placed just to the right of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F2T7Tip";			String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 102. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F2T8";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2T8Lwr";			String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2T8Tip";			String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 46 troncos, 4 piedra, 10 vidrio. Residence: 5 ciudadanos. Heat EFF%: 76. Models: 6. Color: 2. Tips: They are meant to be placed just to the right of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F2T8Tip";			String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 46 troncos, 4 piedra, 10 vidrio. Residencia: 5 ciudadanos. Efic. de Calor%: 76. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1. Presiona F para cambiar modelos/colores."; }
 
 // floor 3
 		{ String _name = "NMT3F3T1";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3T1Lwr";			String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3T1Tip";			String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residence: 6 ciudadanos. Heat EFF%: 100. Models: 6. Color: 2. Tips: They are meant to be placed just to the left of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F3T1Tip";			String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residencia: 6 ciudadanos. Efic. de Calor%: 100. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la izquierda del 1er piso de Niveles Multiples. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F3T2";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3T2Lwr";			String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3T2Tip";			String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residence: 6 ciudadanos. Heat EFF%: 100. Models: 6. Color: 2. Tips: They are meant to be placed just to the left of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F3T2Tip";			String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residencia: 6 ciudadanos. Efic. de Calor%: 100. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la izquierda del 1er piso de Niveles Multiples. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F3T3";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3T3Lwr";			String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3T3Tip";			String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residence: 6 ciudadanos. Heat EFF%: 114. Models: 6. Color: 2. Tips: They are meant to be placed just to the left of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F3T3Tip";			String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residencia: 6 ciudadanos. Efic. de Calor%: 114. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la izquierda del 1er piso de Niveles Multiples. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F3T4";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3T4Lwr";			String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3T4Tip";			String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residence: 6 ciudadanos. Heat EFF%: 114. Models: 6. Color: 2. Tips: They are meant to be placed just to the left of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F3T4Tip";			String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residencia: 6 ciudadanos. Efic. de Calor%: 114. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la izquierda del 1er piso de Niveles Multiples. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F3T5";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3T5Lwr";			String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3T5Tip";			String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 troncos. Residence: 6 ciudadanos. Heat EFF%: 108. Models: 6. Color: 2. Tips: They are meant to be placed just to the left of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F3T5Tip";			String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 troncos. Residencia: 6 ciudadanos. Efic. de Calor%: 108. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la izquierda del 1er piso de Niveles Multiples. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F3T6";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3T6Lwr";			String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3T6Tip";			String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residence: 6 ciudadanos. Heat EFF%: 106. Models: 6. Color: 2. Tips: They are meant to be placed just to the left of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F3T6Tip";			String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residencia: 6 ciudadanos. Efic. de Calor%: 106. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la izquierda del 1er piso de Niveles Multiples. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F3T7";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3T7Lwr";			String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3T7Tip";			String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residence: 6 ciudadanos. Heat EFF%: 106. Models: 6. Color: 2. Tips: They are meant to be placed just to the left of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F3T7Tip";			String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residencia: 6 ciudadanos. Efic. de Calor%: 106. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la izquierda del 1er piso de Niveles Multiples. Presiona F para cambiar modelos/colores."; }
 
 		{ String _name = "NMT3F3T8";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3T8Lwr";			String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3T8Tip";			String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 56 troncos, 6 piedra, 12 vidrio. Residence: 6 ciudadanos. Heat EFF%: 80. Models: 6. Color: 2. Tips: They are meant to be placed just to the left of the Multi-level 1st floor. Presiona F para cambiar modelos/colores."; }
+		{ String _name = "NMT3F3T8Tip";			String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 56 troncos, 6 piedra, 12 vidrio. Residencia: 6 ciudadanos. Efic. de Calor%: 80. Modelos: 6. Color: 2. Consejos: Estan pensados para colocarse justo a la izquierda del 1er piso de Niveles Multiples. Presiona F para cambiar modelos/colores."; }
 
 // corner floor 1
 		{ String _name = "NMT3F1C1T1";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1C1T1Lwr";		String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1C1T1Tip";		String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residence: 5 ciudadanos. Heat EFF%: 92. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "NMT3F1C1T1Tip";		String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 92. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "NMT3F1C1T2";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1C1T2Lwr";		String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1C1T2Tip";		String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residence: 5 ciudadanos. Heat EFF%: 92. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "NMT3F1C1T2Tip";		String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 92. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "NMT3F1C1T3";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1C1T3Lwr";		String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1C1T3Tip";		String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residence: 5 ciudadanos. Heat EFF%: 106. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "NMT3F1C1T3Tip";		String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 106. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "NMT3F1C1T4";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1C1T4Lwr";		String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1C1T4Tip";		String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residence: 5 ciudadanos. Heat EFF%: 106. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "NMT3F1C1T4Tip";		String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 106. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "NMT3F1C1T5";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1C1T5Lwr";		String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1C1T5Tip";		String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 troncos. Residence: 5 ciudadanos. Heat EFF%: 100. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "NMT3F1C1T5Tip";		String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 100. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "NMT3F1C1T6";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1C1T6Lwr";		String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1C1T6Tip";		String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residence: 5 ciudadanos. Heat EFF%: 98. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "NMT3F1C1T6Tip";		String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 98. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "NMT3F1C1T7";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1C1T7Lwr";		String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1C1T7Tip";		String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residence: 5 ciudadanos. Heat EFF%: 98. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "NMT3F1C1T7Tip";		String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 98. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "NMT3F1C1T8";			String _text = "Piso Multinivel 1"; }
 		{ String _name = "NMT3F1C1T8Lwr";		String _text = "piso multinivel 1"; }
-		{ String _name = "NMT3F1C1T8Tip";		String _text = "A NMT MultiStory house 1st floor is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 12 madera, 36 troncos, 6 piedra, 8 vidrio. Residence: 5 ciudadanos. Heat EFF%: 72. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "NMT3F1C1T8Tip";		String _text = "El Piso Multinivel 1 se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 12 madera, 36 troncos, 6 piedra, 8 vidrio. Residencia: 5 ciudadanos. Efic. de Calor%: 72. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 // corner floor 2
 		{ String _name = "NMT3F2C1T1";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2C1T1Lwr";		String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2C1T1Tip";		String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residence: 5 ciudadanos. Heat EFF%: 96. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F2C1T1Tip";		String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 96. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F2C1T2";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2C1T2Lwr";		String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2C1T2Tip";		String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residence: 5 ciudadanos. Heat EFF%: 96. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F2C1T2Tip";		String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 96. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F2C1T3";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2vT3Lwr";		String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2C1T3Tip";		String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residence: 5 ciudadanos. Heat EFF%: 110. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F2C1T3Tip";		String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 110. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F2C1T4";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2C1T4Lwr";		String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2C1T4Tip";		String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residence: 5 ciudadanos. Heat EFF%: 110. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F2C1T4Tip";		String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 110. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F2C1T5";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2C1T5Lwr";		String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2C1T5Tip";		String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 troncos. Residence: 5 ciudadanos. Heat EFF%: 104. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F2C1T5Tip";		String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 104. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F2C1T6";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2C1T6Lwr";		String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2C1T6Tip";		String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residence: 5 ciudadanos. Heat EFF%: 102. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F2C1T6Tip";		String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 102. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F2C1T7";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2C1T7Lwr";		String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2C1T7Tip";		String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residence: 5 ciudadanos. Heat EFF%: 102. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F2C1T7Tip";		String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 102. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F2C1T8";			String _text = "Piso Multinivel 2"; }
 		{ String _name = "NMT3F2C1T8Lwr";		String _text = "piso multinivel 2"; }
-		{ String _name = "NMT3F2C1T8Tip";		String _text = "A NMT MultiStory house 2nd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 16 madera, 46 troncos, 4 piedra, 10 vidrio. Residence: 5 ciudadanos. Heat EFF%: 76. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F2C1T8Tip";		String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 46 troncos, 4 piedra, 10 vidrio. Residencia: 5 ciudadanos. Efic. de Calor%: 76. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1."; }
 
 // corner floor 3
 		{ String _name = "NMT3F3C1T1";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3C1T1Lwr";		String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3C1T1Tip";		String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residence: 6 ciudadanos. Heat EFF%: 100. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F3C1T1Tip";		String _text = "El Piso Multinivel 3 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residencia: 6 ciudadanos. Efic. de Calor%: 100. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F3C1T2";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3C1T2Lwr";		String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3C1T2Tip";		String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residence: 6 ciudadanos. Heat EFF%: 100. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F3C1T2Tip";		String _text = "El Piso Multinivel 3 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residencia: 6 ciudadanos. Efic. de Calor%: 100. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F3C1T3";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3C1T3Lwr";		String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3C1T3Tip";		String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residence: 6 ciudadanos. Heat EFF%: 114. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F3C1T3Tip";		String _text = "El Piso Multinivel 3 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residencia: 6 ciudadanos. Efic. de Calor%: 114. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F3C1T4";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3C1T4Lwr";		String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3C1T4Tip";		String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residence: 6 ciudadanos. Heat EFF%: 114. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F3C1T4Tip";		String _text = "El Piso Multinivel 3 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residencia: 6 ciudadanos. Efic. de Calor%: 114. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F3C1T5";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3C1T5Lwr";		String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3C1T5Tip";		String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 troncos. Residence: 6 ciudadanos. Heat EFF%: 108. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F3C1T5Tip";		String _text = "El Piso Multinivel 3 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 troncos. Residencia: 6 ciudadanos. Efic. de Calor%: 108. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F3C1T6";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3C1T6Lwr";		String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3C1T6Tip";		String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residence: 6 ciudadanos. Heat EFF%: 106. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F3C1T6Tip";		String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residencia: 6 ciudadanos. Efic. de Calor%: 106. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda (relativa) del 1er piso de la esquina de Niveles Multiples."; }
 
 		{ String _name = "NMT3F3C1T7";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3C1T7Lwr";		String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3C1T7Tip";		String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residence: 6 ciudadanos. Heat EFF%: 106. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F3C1T7Tip";		String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residencia: 6 ciudadanos. Efic. de Calor%: 106. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda (relativa) del 1er piso de la esquina de Niveles Multiples."; }
 
 		{ String _name = "NMT3F3C1T8";			String _text = "Piso Multinivel 3"; }
 		{ String _name = "NMT3F3C1T8Lwr";		String _text = "piso multinivel 3"; }
-		{ String _name = "NMT3F3C1T8Tip";		String _text = "A NMT MultiStory house 3rd floor is used for housing your ciudadanos. Tamano: 1x5 casillas. Cost: 20 madera, 56 troncos, 6 piedra, 12 vidrio. Residence: 6 ciudadanos. Heat EFF%: 80. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Multi-level 1st floor."; }
+		{ String _name = "NMT3F3C1T8Tip";		String _text = "Un 3er piso de casa NMT de varios pisos se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 20 madera, 56 troncos, 6 piedra, 12 vidrio. Residencia: 6 ciudadanos. Efic. de Calor%: 80. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda (relativa) del 1er piso de la esquina de Niveles Multiples."; }
 
 // Hostelcorner floor 1
 		{ String _name = "HostelToolbar";			String _text = "Barra de Hostal de Esquina"; }
@@ -1004,101 +1004,101 @@ StringTable resource
 
 		{ String _name = "HostelF1C1T1";			String _text = "Hostal 1er piso"; }
 		{ String _name = "HostelF1C1T1Lwr";			String _text = "hostal 1er piso"; }
-		{ String _name = "HostelF1C1T1Tip";			String _text = "An Hostel 1st floor is used for housing your ciudadanos when they not have their own home. Tamano: 5x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residence: 3X families of 5 ciudadanos. Heat EFF%: 92. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "HostelF1C1T1Tip";			String _text = "El Hostal 1er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 5x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 92. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "HostelF1C1T2";			String _text = "Hostal 1er piso"; }
 		{ String _name = "HostelF1C1T2Lwr";			String _text = "hostal 1er piso"; }
-		{ String _name = "HostelF1C1T2Tip";			String _text = "An Hostel 1st floor is used for housing your ciudadanos when they not have their own home. Tamano: 5x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residence: 3x families of 5 ciudadanos. Heat EFF%: 92. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "HostelF1C1T2Tip";			String _text = "El Hostal 1er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 5x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 troncos. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 92. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "HostelF1C1T3";			String _text = "Hostal 1er piso"; }
 		{ String _name = "HostelF1C1T3Lwr";			String _text = "hostal 1er piso"; }
-		{ String _name = "HostelF1C1T3Tip";			String _text = "An Hostel 1st floor is used for housing your ciudadanos when they not have their own home. Tamano: 5x5 casillas. Cost: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 106. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "HostelF1C1T3Tip";			String _text = "El Hostal 1er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 5x5 casillas. Costo: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 106. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "HostelF1C1T4";			String _text = "Hostal 1er piso"; }
 		{ String _name = "HostelF1C1T4Lwr";			String _text = "hostal 1er piso"; }
-		{ String _name = "HostelF1C1T4Tip";			String _text = "An Hostel 1st floor is used for housing your ciudadanos when they not have their own home. Tamano: 5x5 casillas. Cost: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 106. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "HostelF1C1T4Tip";			String _text = "El Hostal 1er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 5x5 casillas. Costo: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 106. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "HostelF1C1T5";			String _text = "Hostal 1er piso"; }
 		{ String _name = "HostelF1C1T5Lwr";			String _text = "hostal 1er piso"; }
-		{ String _name = "HostelF1C1T5Tip";			String _text = "An Hostel 1st floor is used for housing your ciudadanos when they not have their own home. Tamano: 5x5 casillas. Cost: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 troncos. Residence: 3X families of 5 ciudadanos. Heat EFF%: 100. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "HostelF1C1T5Tip";			String _text = "El Hostal 1er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 5x5 casillas. Costo: 12 madera, 24 ladrillo, 6 piedra, 8 vidrio, 12 troncos. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 100. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "HostelF1C1T6";			String _text = "Hostal 1er piso"; }
 		{ String _name = "HostelF1C1T6Lwr";			String _text = "hostal 1er piso"; }
-		{ String _name = "HostelF1C1T6Tip";			String _text = "An Hostel 1st floor is used for housing your ciudadanos when they not have their own home. Tamano: 5x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 98. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "HostelF1C1T6Tip";			String _text = "El Hostal 1er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 5x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 98. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "HostelF1C1T7";			String _text = "Hostal 1er piso"; }
 		{ String _name = "HostelF1C1T7Lwr";			String _text = "hostal 1er piso"; }
-		{ String _name = "HostelF1C1T7Tip";			String _text = "An Hostel 1st floor is used for housing your ciudadanos when they not have their own home. Tamano: 5x5 casillas. Cost: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 98. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "HostelF1C1T7Tip";			String _text = "El Hostal 1er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 5x5 casillas. Costo: 12 madera, 24 piedra, 2 hierro, 8 vidrio, 12 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 98. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 		{ String _name = "HostelF1C1T8";			String _text = "Hostal 1er piso"; }
 		{ String _name = "HostelF1C1T8Lwr";			String _text = "hostal 1er piso"; }
-		{ String _name = "HostelF1C1T8Tip";			String _text = "An Hostel 1st floor is used for housing your ciudadanos when they not have their own home. Tamano: 5x5 casillas. Cost: 12 madera, 36 troncos, 6 piedra, 8 vidrio. Residence: 3X families of 5 ciudadanos. Heat EFF%: 72. Models: 1. Color: 1. Tips: This is a building meant to be placed at crossroads. Leave a space to the right and to the (relative) left for additional level stories."; }
+		{ String _name = "HostelF1C1T8Tip";			String _text = "El Hostal 1er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 5x5 casillas. Costo: 12 madera, 36 troncos, 6 piedra, 8 vidrio. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 72. Modelos: 1. Color: 1. Consejos: Este es un edificio pensado para colocarse en cruces de caminos. Deja un espacio a la derecha y a la izquierda relativa para pisos adicionales."; }
 
 // Hostelcorner floor 2
 		{ String _name = "HostelF2C1T1";			String _text = "Hostal 2do piso"; }
 		{ String _name = "HostelF2C1T1Lwr";			String _text = "hostal 2do piso"; }
-		{ String _name = "HostelF2C1T1Tip";			String _text = "An Hostel 2nd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residence: 3X families of 5 ciudadanos. Heat EFF%: 96. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF2C1T1Tip";			String _text = "El Hostal 2do piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 96. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Hostal 1er piso."; }
 
 		{ String _name = "HostelF2C1T2";			String _text = "Hostal 2do piso"; }
 		{ String _name = "HostelF2C1T2Lwr";			String _text = "hostal 2do piso"; }
-		{ String _name = "HostelF2C1T2Tip";			String _text = "An Hostel 2nd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residence: 3X families of 5 ciudadanos. Heat EFF%: 96. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF2C1T2Tip";			String _text = "El Hostal 2do piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 96. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Hostal 1er piso."; }
 
 		{ String _name = "HostelF2C1T3";			String _text = "Hostal 2do piso"; }
 		{ String _name = "HostelF2vT3Lwr";			String _text = "hostal 2do piso"; }
-		{ String _name = "HostelF2C1T3Tip";			String _text = "An Hostel 2nd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 110. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF2C1T3Tip";			String _text = "El Hostal 2do piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 110. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Hostal 1er piso."; }
 
 		{ String _name = "HostelF2C1T4";			String _text = "Hostal 2do piso"; }
 		{ String _name = "HostelF2C1T4Lwr";			String _text = "hostal 2do piso"; }
-		{ String _name = "HostelF2C1T4Tip";			String _text = "An Hostel 2nd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 110. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF2C1T4Tip";			String _text = "El Hostal 2do piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 110. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Hostal 1er piso."; }
 
 		{ String _name = "HostelF2C1T5";			String _text = "Hostal 2do piso"; }
 		{ String _name = "HostelF2C1T5Lwr";			String _text = "hostal 2do piso"; }
-		{ String _name = "HostelF2C1T5Tip";			String _text = "An Hostel 2nd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 troncos. Residence: 3X families of 5 ciudadanos. Heat EFF%: 104. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF2C1T5Tip";			String _text = "El Hostal 2do piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 troncos. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 104. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Hostal 1er piso."; }
 
 		{ String _name = "HostelF2C1T6";			String _text = "Hostal 2do piso"; }
 		{ String _name = "HostelF2C1T6Lwr";			String _text = "hostal 2do piso"; }
-		{ String _name = "HostelF2C1T6Tip";			String _text = "An Hostel 2nd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 102. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF2C1T6Tip";			String _text = "El Hostal 2do piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 102. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Hostal 1er piso."; }
 
 		{ String _name = "HostelF2C1T7";			String _text = "Hostal 2do piso"; }
 		{ String _name = "HostelF2C1T7Lwr";			String _text = "hostal 2do piso"; }
-		{ String _name = "HostelF2C1T7Tip";			String _text = "An Hostel 2nd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 102. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF2C1T7Tip";			String _text = "El Hostal 2do piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 102. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Hostal 1er piso."; }
 
 		{ String _name = "HostelF2C1T8";			String _text = "Hostal 2do piso"; }
 		{ String _name = "HostelF2C1T8Lwr";			String _text = "hostal 2do piso"; }
-		{ String _name = "HostelF2C1T8Tip";			String _text = "An Hostel 2nd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 16 madera, 46 troncos, 4 piedra, 10 vidrio. Residence: 3X families of 5 ciudadanos. Heat EFF%: 76. Models: 1. Color: 1. Tips: They are meant to be placed just to the right of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF2C1T8Tip";			String _text = "El Hostal 2do piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 16 madera, 46 troncos, 4 piedra, 10 vidrio. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 76. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Hostal 1er piso."; }
 
 // Hostelcorner floor 3
 		{ String _name = "HostelF3C1T1";			String _text = "Hostal 3er piso"; }
 		{ String _name = "HostelF3C1T1Lwr";			String _text = "hostal 3er piso"; }
-		{ String _name = "HostelF3C1T1Tip";			String _text = "An Hostel 3rd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residence: 3X families of 5 ciudadanos. Heat EFF%: 100. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF3C1T1Tip";			String _text = "El Hostal 3er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 100. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Hostal 1er piso."; }
 
 		{ String _name = "HostelF3C1T2";			String _text = "Hostal 3er piso"; }
 		{ String _name = "HostelF3C1T2Lwr";			String _text = "hostal 3er piso"; }
-		{ String _name = "HostelF3C1T2Tip";			String _text = "An Hostel 3rd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residence: 3X families of 5 ciudadanos. Heat EFF%: 100. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF3C1T2Tip";			String _text = "El Hostal 3er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 troncos. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 100. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Hostal 1er piso."; }
 
 		{ String _name = "HostelF3C1T3";			String _text = "Hostal 3er piso"; }
 		{ String _name = "HostelF3C1T3Lwr";			String _text = "hostal 3er piso"; }
-		{ String _name = "HostelF3C1T3Tip";			String _text = "An Hostel 3rd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 114. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF3C1T3Tip";			String _text = "El Hostal 3er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 114. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Hostal 1er piso."; }
 
 		{ String _name = "HostelF3C1T4";			String _text = "Hostal 3er piso"; }
 		{ String _name = "HostelF3C1T4Lwr";			String _text = "hostal 3er piso"; }
-		{ String _name = "HostelF3C1T4Tip";			String _text = "An Hostel 3rd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 114. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF3C1T4Tip";			String _text = "El Hostal 3er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 114. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Hostal 1er piso."; }
 
 		{ String _name = "HostelF3C1T5";			String _text = "Hostal 3er piso"; }
 		{ String _name = "HostelF3C1T5Lwr";			String _text = "hostal 3er piso"; }
-		{ String _name = "HostelF3C1T5Tip";			String _text = "An Hostel 3rd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 troncos. Residence: 3X families of 5 ciudadanos. Heat EFF%: 108. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF3C1T5Tip";			String _text = "El Hostal 3er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 20 madera, 32 ladrillo, 6 piedra, 12 vidrio, 24 troncos. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 108. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Hostal 1er piso."; }
 
 		{ String _name = "HostelF3C1T6";			String _text = "Hostal 3er piso"; }
 		{ String _name = "HostelF3C1T6Lwr";			String _text = "hostal 3er piso"; }
-		{ String _name = "HostelF3C1T6Tip";			String _text = "An Hostel 3rd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 106. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF3C1T6Tip";			String _text = "El Hostal 3er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 106. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Hostal 1er piso."; }
 
 		{ String _name = "HostelF3C1T7";			String _text = "Hostal 3er piso"; }
 		{ String _name = "HostelF3C1T7Lwr";			String _text = "hostal 3er piso"; }
-		{ String _name = "HostelF3C1T7Tip";			String _text = "An Hostel 3rd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residence: 3X families of 5 ciudadanos. Heat EFF%: 106. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF3C1T7Tip";			String _text = "El Hostal 3er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 20 madera, 32 piedra, 6 hierro, 12 vidrio, 24 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 106. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Hostal 1er piso."; }
 
 		{ String _name = "HostelF3C1T8";			String _text = "Hostal 3er piso"; }
 		{ String _name = "HostelF3C1T8Lwr";			String _text = "hostal 3er piso"; }
-		{ String _name = "HostelF3C1T8Tip";			String _text = "An Hostel 3rd floor is used for housing your ciudadanos when they not have their own home. Tamano: 1x5 casillas. Cost: 20 madera, 56 troncos, 6 piedra, 12 vidrio. Residence: 3X families of 5 ciudadanos. Heat EFF%: 80. Models: 1. Color: 1. Tips: They are meant to be placed just to the (relative) left of the Corner Hostel 1st floor."; }
+		{ String _name = "HostelF3C1T8Tip";			String _text = "El Hostal 3er piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 20 madera, 56 troncos, 6 piedra, 12 vidrio. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 80. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la izquierda relativa del Hostal 1er piso."; }
 
 		{ String _name = "NMTLittleHousingToolbar";			String _text = "Barra de Casita Nmt"; }
 		{ String _name = "NMTLittleHousingToolbarLwr";			String _text = "barra de casita nmt"; }
@@ -1106,58 +1106,58 @@ StringTable resource
 
 		{ String _name = "NMTLH1all";					String _text = "Casita Nmt"; }
 		{ String _name = "NMTLH1allLwr";				String _text = "casita nmt"; }
-		{ String _name = "NMTLH1allTip";				String _text = "A NMT little house is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 8 madera, 24 piedra. Residence: 5 ciudadanos. Heat EFF%: 90. Models: 6. Press F to change models."; }
+		{ String _name = "NMTLH1allTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 madera, 24 piedra. Residencia: 5 ciudadanos. Efic. de Calor%: 90. Modelos: 6. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMTLH2all";					String _text = "Casita Nmt"; }
 		{ String _name = "NMTLH2allLwr";				String _text = "casita nmt"; }
-		{ String _name = "NMTLH2allTip";				String _text = "A NMT little house is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 8 madera, 24 piedra. Residence: 5 ciudadanos. Heat EFF%: 90. Models: 6. Press F to change models."; }
+		{ String _name = "NMTLH2allTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 madera, 24 piedra. Residencia: 5 ciudadanos. Efic. de Calor%: 90. Modelos: 6. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMTLH3all";					String _text = "Casita Nmt"; }
 		{ String _name = "NMTLH3allLwr";				String _text = "casita nmt"; }
-		{ String _name = "NMTLH3allTip";				String _text = "A NMT little house is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 8 madera, 24 piedra. Residence: 5 ciudadanos. Heat EFF%: 98. Models: 6. Press F to change models."; }
+		{ String _name = "NMTLH3allTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 madera, 24 piedra. Residencia: 5 ciudadanos. Efic. de Calor%: 98. Modelos: 6. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMTLH4all";					String _text = "Casita Nmt"; }
 		{ String _name = "NMTLH4allLwr";				String _text = "casita nmt"; }
-		{ String _name = "NMTLH4allTip";				String _text = "A NMT little house is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 8 madera, 24 piedra. Residence: 5 ciudadanos. Heat EFF%: 98. Models: 6. Press F to change models."; }
+		{ String _name = "NMTLH4allTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 madera, 24 piedra. Residencia: 5 ciudadanos. Efic. de Calor%: 98. Modelos: 6. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMTLH5all";					String _text = "Casita Nmt"; }
 		{ String _name = "NMTLH5allLwr";				String _text = "casita nmt"; }
-		{ String _name = "NMTLH5allTip";				String _text = "A NMT little house is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 8 madera, 24 piedra. Residence: 5 ciudadanos. Heat EFF%: 98. Models: 6. Press F to change models."; }
+		{ String _name = "NMTLH5allTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 madera, 24 piedra. Residencia: 5 ciudadanos. Efic. de Calor%: 98. Modelos: 6. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMTLH6all";					String _text = "Casita Nmt"; }
 		{ String _name = "NMTLH6allLwr";				String _text = "casita nmt"; }
-		{ String _name = "NMTLH6allTip";				String _text = "A NMT little house is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 8 madera, 24 piedra. Residence: 5 ciudadanos. Heat EFF%: 90. Models: 6. Press F to change models."; }
+		{ String _name = "NMTLH6allTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 madera, 24 piedra. Residencia: 5 ciudadanos. Efic. de Calor%: 90. Modelos: 6. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMTLH7all";					String _text = "Casita Nmt"; }
 		{ String _name = "NMTLH7allLwr";				String _text = "casita nmt"; }
-		{ String _name = "NMTLH7allTip";				String _text = "A NMT little house is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 8 madera, 24 piedra. Residence: 5 ciudadanos. Heat EFF%: 90. Models: 6. Press F to change models."; }
+		{ String _name = "NMTLH7allTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 madera, 24 piedra. Residencia: 5 ciudadanos. Efic. de Calor%: 90. Modelos: 6. Presiona F para cambiar los modelos."; }
 
 		{ String _name = "NMTLH8all";					String _text = "Casita Nmt"; }
 		{ String _name = "NMTLH8allLwr";				String _text = "casita nmt"; }
-		{ String _name = "NMTLH8allTip";				String _text = "A NMT little house is used for housing your ciudadanos. Tamano: 4x5 casillas. Cost: 8 madera, 24 piedra. Residence: 5 ciudadanos. Heat EFF%: 70. Models: 6. Press F to change models."; }
+		{ String _name = "NMTLH8allTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. Tamano: 4x5 casillas. Costo: 8 madera, 24 piedra. Residencia: 5 ciudadanos. Efic. de Calor%: 70. Modelos: 6. Presiona F para cambiar los modelos."; }
 
 
 
 		{ String _name = "RKCemetery";				String _text = "Barra de Cementerio Tenebroso"; }
 		{ String _name = "RKCemeteryLwr";			String _text = "barra de cementerio tenebroso"; }
-		{ String _name = "RKCemeteryTip";			String _text = "Open for the Creepy Cemetery selections. Creepy Cemetery was a mod i released that use piedra and forged metal and has a special look which is kinda a bit creepy."; }
+		{ String _name = "RKCemeteryTip";			String _text = "Abre esto para las opciones del Cementerio Tenebroso. Cementerio Tenebroso fue un mod que publique que usa piedra y metal forjado y tiene un aspecto especial que resulta un poco tenebroso."; }
 
 		{ String _name = "RKFencelessCemetery";			String _text = "Cementerio Sin Cerca"; }
 		{ String _name = "RKFencelessCemeteryLwr";		String _text = "cementerio sin cerca"; }
-		{ String _name = "RKFencelessCemeteryTip";		String _text = "Place a Fenceless Cemetery. Tamano: Click and drag from 5x5 to a max of 40x40 casillas. Cost: 1 piedra per casilla (used when people will die) Tips: Fenceless which means you wont see any fences all around."; }
+		{ String _name = "RKFencelessCemeteryTip";		String _text = "Coloca un Cementerio Sin Cercar. Tamano: Haz clic y arrastra de 5x5 hasta un maximo de 40x40 casillas. Costo: 1 piedra por casilla (se usa cuando la gente muere). Consejos: Sin cercar significa que no veras ninguna cerca alrededor."; }
 
 		{ String _name = "RKMetalCemetery";			String _text = "Cerca Metalica de Cementerio"; }
 		{ String _name = "RKMetalCemeteryLwr";			String _text = "cerca metalica de cementerio"; }
-		{ String _name = "RKMetalCemeteryTip";			String _text = "Place a Metal Fence Cemetery. Tamano: Click and drag from 5x5 to a max of 40x40 casillas. Cost: 1 piedra, 1 hierro per casilla. Tips: The fences will be half piedra and half forged metal."; }
+		{ String _name = "RKMetalCemeteryTip";			String _text = "Coloca un Cementerio con Cerca de Metal. Tamano: Haz clic y arrastra de 5x5 hasta un maximo de 40x40 casillas. Costo: 1 piedra, 1 hierro por casilla. Consejos: Las cercas seran mitad piedra y mitad metal forjado."; }
 
 		{ String _name = "RKCrypt1";				String _text = "Cripta"; }
 		{ String _name = "RKCrypt1Lwr";				String _text = "cripta"; }
-		{ String _name = "RKCrypt1Tip";				String _text = "Place a decorative crypt everywhere you want. Tamano: 0x0 (ghosted). Cost: 16 piedra. Tips: This crypt is only decorative. The game doesn't handle to have people die and have their tombstone in a building like a crypt so it is only decorative."; }
+		{ String _name = "RKCrypt1Tip";				String _text = "Coloca una cripta decorativa donde quieras. Tamano: 0x0 (fantasma). Costo: 16 piedra. Consejos: Esta cripta es solo decorativa. El juego no permite que las personas mueran y tengan su lapida en un edificio como una cripta, asi que es solo decorativa."; }
 
 		{ String _name = "toolBar";				String _text = "Barra de Cerca Metalica"; }
 		{ String _name = "RKMetalFence";			String _text = "Barra de Cerca Metalica"; }
 		{ String _name = "RKMetalFenceLwr";			String _text = "barra de cerca metalica"; }
-		{ String _name = "RKMetalFenceTip";			String _text = "Open the 'Metalic Fence' toolbar. Metalic fences cost piedra and hierro. Tips: The fences will be half piedra and half forged metal."; }
+		{ String _name = "RKMetalFenceTip";			String _text = "Abre la barra de herramientas de 'Cerca Metalica'. Las cercas metalicas cuestan piedra y hierro. Consejos: Las cercas seran mitad piedra y mitad metal forjado."; }
 
 		{ String _name = "RKMetalFenceGate";				String _text = "Puerta de Cerca Metalica"; }
 		{ String _name = "RKMetalFenceGateLwr";				String _text = "puerta de cerca metalica"; }
@@ -1215,153 +1215,153 @@ StringTable resource
 
 		{ String _name = "RKWoodRoad1";					String _text = "Camino de Madera"; }
 		{ String _name = "RKWoodRoad1Lwr";				String _text = "camino de madera"; }
-		{ String _name = "RKWoodRoad1Tip";				String _text = "Wood Road provides faster travel for ciudadanos. Cost: 1 log per casilla. Tips: they are equal to the dirt roads."; }
+		{ String _name = "RKWoodRoad1Tip";				String _text = "El Camino de Madera proporciona un desplazamiento mas rapido para los ciudadanos. Costo: 1 tronco por casilla. Consejos: son equivalentes a los caminos de tierra."; }
 
 
 		{ String _name = "RKStoneRoad1";				String _text = "Camino de Piedra Clasico"; }
 		{ String _name = "RKStoneRoad1Lwr";				String _text = "camino de piedra clasico"; }
-		{ String _name = "RKStoneRoad1Tip";				String _text = "Classic Stone Road provides much faster travel for ciudadanos. Cost: 1 piedra per casilla. Tips: they are equal to the piedra roads."; }
+		{ String _name = "RKStoneRoad1Tip";				String _text = "El Camino de Piedra Clasico proporciona un desplazamiento mucho mas rapido para los ciudadanos. Costo: 1 piedra por casilla. Consejos: son equivalentes a los caminos de piedra."; }
 
 		{ String _name = "RKStoneRoad2";				String _text = "Camino de Piedra Vieja"; }
 		{ String _name = "RKStoneRoad2Lwr";				String _text = "camino de piedra vieja"; }
-		{ String _name = "RKStoneRoad2Tip";				String _text = "Old Stone Road provides much faster travel for ciudadanos. Cost: 1 piedra per casilla. Tips: they are equal to the piedra roads."; }
+		{ String _name = "RKStoneRoad2Tip";				String _text = "El Camino de Piedra Antiguo proporciona un desplazamiento mucho mas rapido para los ciudadanos. Costo: 1 piedra por casilla. Consejos: son equivalentes a los caminos de piedra."; }
 
 		{ String _name = "RKStoneRoad3";				String _text = "Camino de Piedra de Vieja Iglesia"; }
 		{ String _name = "RKStoneRoad3Lwr";				String _text = "camino de piedra de vieja iglesia"; }
-		{ String _name = "RKStoneRoad3Tip";				String _text = "Old Church Stone Road provides much faster travel for ciudadanos. Cost: 1 piedra per casilla. Tips: they are equal to the piedra roads."; }
+		{ String _name = "RKStoneRoad3Tip";				String _text = "El Camino de Piedra de Iglesia Antigua proporciona un desplazamiento mucho mas rapido para los ciudadanos. Costo: 1 piedra por casilla. Consejos: son equivalentes a los caminos de piedra."; }
 
 		{ String _name = "RKStoneRoad4";				String _text = "Camino de Piedra de Vieja Capilla"; }
 		{ String _name = "RKStoneRoad4Lwr";				String _text = "camino de piedra de vieja capilla"; }
-		{ String _name = "RKStoneRoad4Tip";				String _text = "Old Chapel Stone Road provides much faster travel for ciudadanos. Cost: 1 piedra per casilla. Tips: they are equal to the piedra roads."; }
+		{ String _name = "RKStoneRoad4Tip";				String _text = "El Camino de Piedra de Capilla Antigua proporciona un desplazamiento mucho mas rapido para los ciudadanos. Costo: 1 piedra por casilla. Consejos: son equivalentes a los caminos de piedra."; }
 
 		{ String _name = "RKStoneRoad5";				String _text = "Camino de Piedras Oscuras"; }
 		{ String _name = "RKStoneRoad5Lwr";				String _text = "camino de piedras oscuras"; }
-		{ String _name = "RKStoneRoad5Tip";				String _text = "Dark Stones Road provides much faster travel for ciudadanos. Cost: 1 piedra per casilla. Tips: they are equal to the piedra roads."; }
+		{ String _name = "RKStoneRoad5Tip";				String _text = "El Camino de Piedras Oscuras proporciona un desplazamiento mucho mas rapido para los ciudadanos. Costo: 1 piedra por casilla. Consejos: son equivalentes a los caminos de piedra."; }
 
 		{ String _name = "RKBrickRoad1";				String _text = "Camino de Ladrillo Rojo"; }
 		{ String _name = "RKBrickRoad1Lwr";				String _text = "camino de ladrillo rojo"; }
-		{ String _name = "RKBrickRoad1Tip";				String _text = "Red ladrillo road provides much faster travel for ciudadanos. Cost: 1 ladrillo per casilla. Tips: they are equal to the piedra roads."; }
+		{ String _name = "RKBrickRoad1Tip";				String _text = "El Camino de Ladrillo Rojo proporciona un desplazamiento mucho mas rapido para los ciudadanos. Costo: 1 ladrillo por casilla. Consejos: son equivalentes a los caminos de piedra."; }
 
 		{ String _name = "RKBrickRoad2";				String _text = "Camino de Ladrillo de Arena"; }
 		{ String _name = "RKBrickRoad2Lwr";				String _text = "camino de ladrillo de arena"; }
-		{ String _name = "RKBrickRoad2Tip";				String _text = "Sandbrick road provides much faster travel for ciudadanos. Cost: 1 ladrillo per casilla. Tips: they are equal to the piedra roads."; }
+		{ String _name = "RKBrickRoad2Tip";				String _text = "El Camino de Ladrillo de Arena proporciona un desplazamiento mucho mas rapido para los ciudadanos. Costo: 1 ladrillo por casilla. Consejos: son equivalentes a los caminos de piedra."; }
 
 		{ String _name = "RKBrickRoad3";				String _text = "Camino de Piedra Arenisca"; }
 		{ String _name = "RKBrickRoad3Lwr";				String _text = "Camino de Piedra Arenisca"; }
-		{ String _name = "RKBrickRoad3Tip";				String _text = "Sandstone Road provides much faster travel for ciudadanos. Cost: 1 piedra per casilla. Tips: they are equal to the piedra roads."; }
+		{ String _name = "RKBrickRoad3Tip";				String _text = "El Camino de Piedra Arenisca proporciona un desplazamiento mucho mas rapido para los ciudadanos. Costo: 1 piedra por casilla. Consejos: son equivalentes a los caminos de piedra."; }
 
 		{ String _name = "RKBrickRoad4";				String _text = "Camino de Ladrillo de Fuego"; }
 		{ String _name = "RKBrickRoad4Lwr";				String _text = "Camino de Ladrillo de Fuego"; }
-		{ String _name = "RKBrickRoad4Tip";				String _text = "Fire Brick Road provides much faster travel for ciudadanos. Cost: 1 ladrillo per casilla. Tips: they are equal to the piedra roads."; }
+		{ String _name = "RKBrickRoad4Tip";				String _text = "El Camino de Ladrillo de Fuego proporciona un desplazamiento mucho mas rapido para los ciudadanos. Costo: 1 ladrillo por casilla. Consejos: son equivalentes a los caminos de piedra."; }
 
 		{ String _name = "NMT30StoneBridge";			String _text = "Puente de Piedra"; }
 		{ String _name = "NMT30StoneBridgeLwr";			String _text = "puente de piedra"; }
-		{ String _name = "NMT30StoneBridgeTip";			String _text = "Stone Bridge is a bridge made from piedra instead of troncos. Cost: 4 piedra per casilla long. Tips: It has exactly 1 casilla width so making double will look good for double roads."; }
+		{ String _name = "NMT30StoneBridgeTip";			String _text = "El Puente de Piedra es un puente hecho de piedra en lugar de troncos. Costo: 4 piedra por casilla de largo. Consejos: Tiene exactamente 1 casilla de ancho, asi que hacer uno doble se vera bien para caminos dobles."; }
 
 		{ String _name = "NMT30Brick1Bridge";			String _text = "Puente de Ladrillo Rojo"; }
 		{ String _name = "NMT30Brick1BridgeLwr";			String _text = "red ladrillo bridge"; }
-		{ String _name = "NMT30Brick1BridgeTip";			String _text = "Red Brick Bridge is a bridge made from bricks instead of troncos. Cost: 4 bricks per casilla long. Tips: It has exactly 1 casilla width so making double will look good for double roads."; }
+		{ String _name = "NMT30Brick1BridgeTip";			String _text = "El Puente de Ladrillo Rojo es un puente hecho de ladrillos en lugar de troncos. Costo: 4 ladrillos por casilla de largo. Consejos: Tiene exactamente 1 casilla de ancho, asi que hacer uno doble se vera bien para caminos dobles."; }
 
 		{ String _name = "NMT30Brick2Bridge";			String _text = "Puente de Ladrillo de Arena"; }
 		{ String _name = "NMT30Brick2BridgeLwr";			String _text = "sand ladrillo bridge"; }
-		{ String _name = "NMT30Brick2BridgeTip";			String _text = "Sand Brick Bridge is a bridge made from bricks instead of troncos. Cost: 4 bricks per casilla long. Tips: It has exactly 1 casilla width so making double will look good for double roads."; }
+		{ String _name = "NMT30Brick2BridgeTip";			String _text = "El Puente de Ladrillo de Arena es un puente hecho de ladrillos en lugar de troncos. Costo: 4 ladrillos por casilla de largo. Consejos: Tiene exactamente 1 casilla de ancho, asi que hacer uno doble se vera bien para caminos dobles."; }
 
 		{ String _name = "RKstockpilesToolbar";			String _text = "Barra de Almacenes"; }
 		{ String _name = "RKstockpilesToolbarLwr";		String _text = "barra de almacenes"; }
-		{ String _name = "RKstockpilesToolbarTip";		String _text = "Stockpiles Toolbar. Open this toolbar to get RK specialized stockpiles options. Sizes can be from 1x1 to 20x20 and have 250 de peso per casilla capacity."; }
+		{ String _name = "RKstockpilesToolbarTip";		String _text = "Barra de Pilas de Almacenamiento. Abre esta barra para obtener las opciones de pilas de almacenamiento especializadas de RK. Los tamanos pueden ir de 1x1 a 20x20 y tienen una capacidad de 250 de peso por casilla."; }
 
 		{ String _name = "RKstockpilesLog";				String _text = "Almacen: Troncos"; }
 		{ String _name = "RKstockpilesLogLwr";				String _text = "almacen: troncos"; }
-		{ String _name = "RKstockpilesLogTip";				String _text = "A Stockpile: Log is used for storing only troncos. Tamano: from 1x1 to 20x20. Capacity: 250 de peso per casillas."; }
+		{ String _name = "RKstockpilesLogTip";				String _text = "Una Pila de Almacenamiento: Troncos se usa para almacenar solo troncos. Tamano: de 1x1 a 20x20. Capacidad: 250 de peso por casilla."; }
 
 		{ String _name = "RKstockpilesStone";				String _text = "Almacen: Piedra"; }
 		{ String _name = "RKstockpilesStoneLwr";			String _text = "almacen: piedra"; }
-		{ String _name = "RKstockpilesStoneTip";			String _text = "A Stockpile: Stone is used for storing only piedra. Tamano: from 1x1 to 20x20. Capacity: 250 de peso per casillas."; }
+		{ String _name = "RKstockpilesStoneTip";			String _text = "Una Pila de Almacenamiento: Piedra se usa para almacenar solo piedra. Tamano: de 1x1 a 20x20. Capacidad: 250 de peso por casilla."; }
 
 		{ String _name = "RKstockpilesIron";				String _text = "Almacen: Hierro"; }
 		{ String _name = "RKstockpilesIronLwr";				String _text = "almacen: hierro"; }
-		{ String _name = "RKstockpilesIronTip";				String _text = "A Stockpile: Iron is used for storing only hierro. Tamano: from 1x1 to 20x20. Capacity: 250 de peso per casillas."; }
+		{ String _name = "RKstockpilesIronTip";				String _text = "Una Pila de Almacenamiento: Hierro se usa para almacenar solo hierro. Tamano: de 1x1 a 20x20. Capacidad: 250 de peso por casilla."; }
 
 		{ String _name = "RKstockpilesFirewood";			String _text = "Almacen: Lena"; }
 		{ String _name = "RKstockpilesFirewoodLwr";			String _text = "almacen: lena"; }
-		{ String _name = "RKstockpilesFirewoodTip";			String _text = "A Stockpile: Firewood is used for storing only lena. Tamano: from 1x1 to 20x20. Capacity: 250 de peso per casillas."; }
+		{ String _name = "RKstockpilesFirewoodTip";			String _text = "Una Pila de Almacenamiento: Lena se usa para almacenar solo lena. Tamano: de 1x1 a 20x20. Capacidad: 250 de peso por casilla."; }
 
 		{ String _name = "RKstockpilesMinerals";			String _text = "Almacen: Minerales"; }
 		{ String _name = "RKstockpilesMineralsLwr";			String _text = "almacen: minerales"; }
-		{ String _name = "RKstockpilesMineralsTip";			String _text = "A Stockpile: Minerals is used for storing only minerals items. Tamano: from 1x1 to 20x20. Capacity: 250 de peso per casillas. Tips: Example of minerals are: hierro ore, cobre ore, plata and oro ores, salt...."; }
+		{ String _name = "RKstockpilesMineralsTip";			String _text = "Una Pila de Almacenamiento: Minerales se usa para almacenar solo articulos minerales. Tamano: de 1x1 a 20x20. Capacidad: 250 de peso por casilla. Consejos: Ejemplos de minerales son: mineral de hierro, mineral de cobre, minerales de plata y oro, sal...."; }
 
 		{ String _name = "RKstockpilesIndustrial";			String _text = "Almacen: Industrial"; }
 		{ String _name = "RKstockpilesIndustrialLwr";			String _text = "almacen: industrial"; }
-		{ String _name = "RKstockpilesIndustrialTip";			String _text = "A Stockpile: Industrial is used for storing only industrial items. Tamano: from 1x1 to 20x20. Capacity: 250 de peso per casillas. Tips: RKEC doesnt have any industrial items yet. CC has alot of them."; }
+		{ String _name = "RKstockpilesIndustrialTip";			String _text = "Una Pila de Almacenamiento: Industrial se usa para almacenar solo articulos industriales. Tamano: de 1x1 a 20x20. Capacidad: 250 de peso por casilla. Consejos: RKEC todavia no tiene articulos industriales. CC tiene muchos."; }
 
 		{ String _name = "RKstockpilesMaterials";			String _text = "Almacen: Materiales"; }
 		{ String _name = "RKstockpilesMaterialsLwr";			String _text = "almacen: materiales"; }
-		{ String _name = "RKstockpilesMaterialsTip";			String _text = "A Stockpile: Materials is used for storing only materials items. Tamano: from 1x1 to 20x20. Capacity: 250 de peso per casillas. Tips: Example of materials are: clay, sand...."; }
+		{ String _name = "RKstockpilesMaterialsTip";			String _text = "Una Pila de Almacenamiento: Materiales se usa para almacenar solo articulos de materiales. Tamano: de 1x1 a 20x20. Capacidad: 250 de peso por casilla. Consejos: Ejemplos de materiales son: arcilla, arena...."; }
 
 		{ String _name = "RKstockpilesConstruction";			String _text = "Almacen: Construccion"; }
 		{ String _name = "RKstockpilesConstructionLwr";			String _text = "almacen: construccion"; }
-		{ String _name = "RKstockpilesConstructionTip";			String _text = "A Stockpile: Construction is used for storing only construction items. Tamano: from 1x1 to 20x20. Capacity: 250 de peso per casillas. Tips: Example of construction are: madera, ladrillo, teja, cobre bar, fodder-thatch...."; }
+		{ String _name = "RKstockpilesConstructionTip";			String _text = "Una Pila de Almacenamiento: Construccion se usa para almacenar solo articulos de construccion. Tamano: de 1x1 a 20x20. Capacidad: 250 de peso por casilla. Consejos: Ejemplos de construccion son: madera, ladrillo, teja, barra de cobre, forraje-paja...."; }
 
 		{ String _name = "RKstockpilesFireLog";				String _text = "Almacen: Troncos para el Fuego"; }
 		{ String _name = "RKstockpilesFireLogLwr";			String _text = "almacen: troncos para el fuego"; }
-		{ String _name = "RKstockpilesFireLogTip";			String _text = "A Stockpile: FireLogs is used for storing only troncos AND lena. Tamano: from 1x1 to 20x20. Capacity: 250 de peso per casillas. Tips: Good for lenador."; }
+		{ String _name = "RKstockpilesFireLogTip";			String _text = "Una Pila de Almacenamiento: Troncos y Lena se usa para almacenar solo troncos Y lena. Tamano: de 1x1 a 20x20. Capacidad: 250 de peso por casilla. Consejos: Buena para el lenador."; }
 
 		{ String _name = "RKstockpilesIronMinerals";			String _text = "Almacen: Minerales de Hierro"; }
 		{ String _name = "RKstockpilesIronMineralsLwr";			String _text = "almacen: minerales de hierro"; }
-		{ String _name = "RKstockpilesIronMineralsTip";			String _text = "A Stockpile: IronMinerals is used for storing only hierro AND minerals. Tamano: from 1x1 to 20x20. Capacity: 250 de peso per casillas. Tips: Good for blacksmith/foundry."; }
+		{ String _name = "RKstockpilesIronMineralsTip";			String _text = "Una Pila de Almacenamiento: Hierro y Minerales se usa para almacenar solo hierro Y minerales. Tamano: de 1x1 a 20x20. Capacidad: 250 de peso por casilla. Consejos: Buena para herreria/fundicion."; }
 
 		{ String _name = "RKstockpiles2Toolbar";				String _text = "Barra de Almacenes Cubiertos"; }
 		{ String _name = "RKstockpiles2ToolbarLwr";				String _text = "barra de almacenes cubiertos"; }
-		{ String _name = "RKstockpiles2ToolbarTip";				String _text = "Covered Stockpiles Toolbar. Open this toolbar to get RK Covered Stockpiles options. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: It has a cover like a barn to shelter the stored items. This is why the minimum is 4x4 casillas. WARNING: it can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKstockpiles2ToolbarTip";				String _text = "Barra de Pilas de Almacenamiento Cubiertas. Abre esta barra para obtener las opciones de Pilas de Almacenamiento Cubiertas de RK. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Tiene una cubierta como un granero para proteger los articulos almacenados. Por eso el minimo es 4x4 casillas. ADVERTENCIA: a veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredStockpile";					String _text = "Almacen: Todo"; }
 		{ String _name = "RKCoveredStockpileLwr";				String _text = "almacen: todo"; }
-		{ String _name = "RKCoveredStockpileTip";				String _text = "Stockpile: ALL is used for storing but has a cover to shelter the materials. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: It has a cover like a barn to shelter the stored items. This is why the minimum is 4x4 casillas. WARNING: It can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredStockpileTip";				String _text = "Pila de Almacenamiento: TODO se usa para almacenar pero tiene una cubierta para proteger los materiales. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Tiene una cubierta como un granero para proteger los articulos almacenados. Por eso el minimo es 4x4 casillas. ADVERTENCIA: A veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredstockpilesLog";				String _text = "Almacen: Troncos"; }
 		{ String _name = "RKCoveredstockpilesLogLwr";				String _text = "almacen: troncos"; }
-		{ String _name = "RKCoveredstockpilesLogTip";				String _text = "A Stockpile: Log is used for storing only troncos. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: It has a cover like a barn to shelter the stored troncos. This is why the minimum is 4x4 casillas. WARNING: It can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredstockpilesLogTip";				String _text = "Una Pila de Almacenamiento: Troncos se usa para almacenar solo troncos. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Tiene una cubierta como un granero para proteger los troncos almacenados. Por eso el minimo es 4x4 casillas. ADVERTENCIA: A veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredstockpilesStone";				String _text = "Almacen: Piedra"; }
 		{ String _name = "RKCoveredstockpilesStoneLwr";				String _text = "almacen: piedra"; }
-		{ String _name = "RKCoveredstockpilesStoneTip";				String _text = "A Stockpile: Stone is used for storing only piedra. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: It has a cover like a barn to shelter the stored piedras. This is why the minimum is 4x4 casillas. WARNING: It can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredstockpilesStoneTip";				String _text = "Una Pila de Almacenamiento: Piedra se usa para almacenar solo piedra. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Tiene una cubierta como un granero para proteger la piedra almacenada. Por eso el minimo es 4x4 casillas. ADVERTENCIA: A veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredstockpilesIron";				String _text = "Almacen: Hierro"; }
 		{ String _name = "RKCoveredstockpilesIronLwr";				String _text = "almacen: hierro"; }
-		{ String _name = "RKCoveredstockpilesIronTip";				String _text = "A Stockpile: Iron is used for storing only hierro. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: It has a cover like a barn to shelter the stored hierro. This is why the minimum is 4x4 casillas. WARNING: It can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredstockpilesIronTip";				String _text = "Una Pila de Almacenamiento: Hierro se usa para almacenar solo hierro. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Tiene una cubierta como un granero para proteger el hierro almacenado. Por eso el minimo es 4x4 casillas. ADVERTENCIA: A veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredstockpilesFirewood";				String _text = "Almacen: Lena"; }
 		{ String _name = "RKCoveredstockpilesFirewoodLwr";			String _text = "almacen: lena"; }
-		{ String _name = "RKCoveredstockpilesFirewoodTip";			String _text = "A Stockpile: Firewood is used for storing only lena. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: It has a cover like a barn to shelter the stored lena. This is why the minimum is 4x4 casillas. WARNING: It can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredstockpilesFirewoodTip";			String _text = "Una Pila de Almacenamiento: Lena se usa para almacenar solo lena. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Tiene una cubierta como un granero para proteger la lena almacenada. Por eso el minimo es 4x4 casillas. ADVERTENCIA: A veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredstockpilesMinerals";				String _text = "Almacen: Minerales"; }
 		{ String _name = "RKCoveredstockpilesMineralsLwr";			String _text = "almacen: minerales"; }
-		{ String _name = "RKCoveredstockpilesMineralsTip";			String _text = "A Stockpile: Minerals is used for storing only minerals items. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: Examples of minerals are: hierro ore, cobre ore, plata and oro ores, salt.... It has a cover like a barn to shelter the stored minerals. This is why the minimum is 4x4 casillas. WARNING: It can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredstockpilesMineralsTip";			String _text = "Una Pila de Almacenamiento: Minerales se usa para almacenar solo articulos minerales. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Ejemplos de minerales son: mineral de hierro, mineral de cobre, minerales de plata y oro, sal.... Tiene una cubierta como un granero para proteger los minerales almacenados. Por eso el minimo es 4x4 casillas. ADVERTENCIA: A veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredstockpilesIndustrial";			String _text = "Almacen: Industrial"; }
 		{ String _name = "RKCoveredstockpilesIndustrialLwr";			String _text = "almacen: industrial"; }
-		{ String _name = "RKCoveredstockpilesIndustrialTip";			String _text = "A Stockpile: Industrial is used for storing only industrial items. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: RKEC doesnt have any industrial items yet. CC has alot of them. It has a cover like a barn to shelter the stored industrial items. This is why the minimum is 4x4 casillas. WARNING: It can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredstockpilesIndustrialTip";			String _text = "Una Pila de Almacenamiento: Industrial se usa para almacenar solo articulos industriales. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: RKEC todavia no tiene articulos industriales. CC tiene muchos. Tiene una cubierta como un granero para proteger los articulos industriales almacenados. Por eso el minimo es 4x4 casillas. ADVERTENCIA: A veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredstockpilesMaterials";				String _text = "Almacen: Materiales"; }
 		{ String _name = "RKCoveredstockpilesMaterialsLwr";			String _text = "almacen: materiales"; }
-		{ String _name = "RKCoveredstockpilesMaterialsTip";			String _text = "A Stockpile: Materials is used for storing only materials items. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: Examples of materials are: clay, sand.... It has a cover like a barn to shelter the stored materials. This is why the minimum is 4x4 casillas. WARNING: It can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredstockpilesMaterialsTip";			String _text = "Una Pila de Almacenamiento: Materiales se usa para almacenar solo articulos de materiales. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Ejemplos de materiales son: arcilla, arena.... Tiene una cubierta como un granero para proteger los materiales almacenados. Por eso el minimo es 4x4 casillas. ADVERTENCIA: A veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredstockpilesConstruction";			String _text = "Almacen: Construccion"; }
 		{ String _name = "RKCoveredstockpilesConstructionLwr";			String _text = "almacen: construccion"; }
-		{ String _name = "RKCoveredstockpilesConstructionTip";			String _text = "A Stockpile: Construction is used for storing only construction items. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: Examples of construction are: madera, ladrillo, teja, vidrio, cobre bar, fodder-thatch.... It has a cover like a barn to shelter the stored construction items. This is why the minimum is 4x4 casillas. WARNING: It can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredstockpilesConstructionTip";			String _text = "Una Pila de Almacenamiento: Construccion se usa para almacenar solo articulos de construccion. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Ejemplos de construccion son: madera, ladrillo, teja, vidrio, barra de cobre, forraje-paja.... Tiene una cubierta como un granero para proteger los articulos de construccion almacenados. Por eso el minimo es 4x4 casillas. ADVERTENCIA: A veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredstockpilesFireLog";				String _text = "Almacen: Troncos para el Fuego"; }
 		{ String _name = "RKCoveredstockpilesFireLogLwr";			String _text = "almacen: troncos para el fuego"; }
-		{ String _name = "RKCoveredstockpilesFireLogTip";			String _text = "A Stockpile: FireLogs is used for storing only troncos AND lena. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: Good for lenador. it has a cover like a barn to shelter the stored troncos and lena. This is why the minimum is 4x4 casillas. WARNING: it can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredstockpilesFireLogTip";			String _text = "Una Pila de Almacenamiento: Troncos y Lena se usa para almacenar solo troncos Y lena. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Buena para el lenador. Tiene una cubierta como un granero para proteger los troncos y la lena almacenados. Por eso el minimo es 4x4 casillas. ADVERTENCIA: a veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 		{ String _name = "RKCoveredstockpilesIronMinerals";			String _text = "Almacen: Minerales de Hierro"; }
 		{ String _name = "RKCoveredstockpilesIronMineralsLwr";			String _text = "almacen: minerales de hierro"; }
-		{ String _name = "RKCoveredstockpilesIronMineralsTip";			String _text = "A Stockpile: IronMinerals is used for storing only hierro AND minerals. Tamano: from 4x4 to 30x30. Capacity: 300 de peso per casillas. Tips: Good for blacksmith/foundry. it has a cover like a barn to shelter the stored hierro and minerals. This is why the minimum is 4x4 casillas. WARNING: it can bugs out sometime, use at own risks. Please allow some roads all around it to minimize the bugs."; }
+		{ String _name = "RKCoveredstockpilesIronMineralsTip";			String _text = "Una Pila de Almacenamiento: Hierro y Minerales se usa para almacenar solo hierro Y minerales. Tamano: de 4x4 a 30x30. Capacidad: 300 de peso por casilla. Consejos: Buena para herreria/fundicion. Tiene una cubierta como un granero para proteger el hierro y los minerales almacenados. Por eso el minimo es 4x4 casillas. ADVERTENCIA: a veces puede fallar, usala bajo tu propio riesgo. Por favor, deja algunos caminos alrededor para minimizar los fallos."; }
 
 
 		{ String _name = "RKCoveredStockpile1TileCover";			String _text = "Cubierta 1x1 para Almacen"; }
 		{ String _name = "RKCoveredStockpile1TileCoverLwr";			String _text = "cubierta 1x1 para almacen"; }
-		{ String _name = "RKCoveredStockpile1TileCoverTip";			String _text = "A Cover 1x1 for Stockpile is a ghosted 1x1 casilla roof for cover stockpiles. Tips: It costs nothing and it is only decorative."; }
+		{ String _name = "RKCoveredStockpile1TileCoverTip";			String _text = "Una Cubierta 1x1 para Pila de Almacenamiento es un techo fantasma de 1x1 casilla para cubrir pilas de almacenamiento. Consejos: No cuesta nada y es solo decorativo."; }
 
 		{ String _name = "NMT30SSTrash";				String _text = "Desechar"; }
 		{ String _name = "NMT30SSTrashLwr";				String _text = "desechar"; }
@@ -1374,60 +1374,60 @@ StringTable resource
 
 		{ String _name = "RKnewCartsToolbar";				String _text = "Barra de Carretas"; }
 		{ String _name = "RKnewCartsToolbarLwr";			String _text = "barra de carretas"; }
-		{ String _name = "RKnewCartsToolbarTip";			String _text = "Open the Carts Toolbar for carts option. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores."; }
+		{ String _name = "RKnewCartsToolbarTip";			String _text = "Abre la Barra de Carros para las opciones de carros. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores."; }
 
 
 		{ String _name = "RKnewCartsConstruction";				String _text = "Carreta: Construccion"; }
 		{ String _name = "RKnewCartsConstructionLwr";				String _text = "carreta: construccion"; }
-		{ String _name = "RKnewCartsConstructionTip";				String _text = "A Cart: Construction is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Examples of construction are: madera, ladrillo, teja, vidrio, cobre bar, fodder-thatch..."; }
+		{ String _name = "RKnewCartsConstructionTip";				String _text = "Un Carro: Construccion es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Ejemplos de construccion son: madera, ladrillo, teja, vidrio, barra de cobre, forraje-paja..."; }
 
 		{ String _name = "RKnewCartsCrafted";					String _text = "Carreta: Artesania"; }
 		{ String _name = "RKnewCartsCraftedLwr";				String _text = "carreta: artesania"; }
-		{ String _name = "RKnewCartsCraftedTip";				String _text = "A Cart: Crafted is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Examples of crafted are: candles, glassware, pottery, furnitures..."; }
+		{ String _name = "RKnewCartsCraftedTip";				String _text = "Un Carro: Artesanias es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Ejemplos de artesanias son: velas, cristaleria, ceramica, muebles..."; }
 
 		{ String _name = "RKnewCartsFabrics";					String _text = "Carreta: Telas"; }
 		{ String _name = "RKnewCartsFabricsLwr";				String _text = "carreta: telas"; }
-		{ String _name = "RKnewCartsFabricsTip";				String _text = "A Cart: Fabrics is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Examples of fabrics are: cured leather, linen, cloth..."; }
+		{ String _name = "RKnewCartsFabricsTip";				String _text = "Un Carro: Telas es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Ejemplos de telas son: cuero curtido, lino, tela..."; }
 
 		{ String _name = "RKnewCartsForged";					String _text = "Carreta: Forjados"; }
 		{ String _name = "RKnewCartsForgedLwr";					String _text = "carreta: forjados"; }
-		{ String _name = "RKnewCartsForgedTip";					String _text = "A Cart: Forged is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Examples of forged are: armors, weapons..."; }
+		{ String _name = "RKnewCartsForgedTip";					String _text = "Un Carro: Forjados es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Ejemplos de forjados son: armaduras, armas..."; }
 
 		{ String _name = "RKnewCartsFuel";					String _text = "Carreta: Combustible"; }
 		{ String _name = "RKnewCartsFuelLwr";					String _text = "carreta: combustible"; }
-		{ String _name = "RKnewCartsFuelTip";					String _text = "A Cart: Fuel is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Examples of fuel are: lena, coal..."; }
+		{ String _name = "RKnewCartsFuelTip";					String _text = "Un Carro: Combustible es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Ejemplos de combustible son: lena, carbon..."; }
 
 		{ String _name = "RKnewCartsIron";					String _text = "Carreta: Hierro"; }
 		{ String _name = "RKnewCartsIronLwr";					String _text = "carreta: hierro"; }
-		{ String _name = "RKnewCartsIronTip";					String _text = "A Cart: Iron is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: good for blacksmith and other chains of production that use hierro."; }
+		{ String _name = "RKnewCartsIronTip";					String _text = "Un Carro: Hierro es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: bueno para la herreria y otras cadenas de produccion que usan hierro."; }
 
 		{ String _name = "RKnewCartsMaterials";					String _text = "Carreta: Materiales"; }
 		{ String _name = "RKnewCartsMaterialsLwr";				String _text = "carreta: materiales"; }
-		{ String _name = "RKnewCartsMaterialsTip";				String _text = "A Cart: Materials is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Examples of materials are: clay, sand..."; }
+		{ String _name = "RKnewCartsMaterialsTip";				String _text = "Un Carro: Materiales es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Ejemplos de materiales son: arcilla, arena..."; }
 
 		{ String _name = "RKnewCartsMinerals";					String _text = "Carreta: Minerales"; }
 		{ String _name = "RKnewCartsMineralsLwr";				String _text = "carreta: minerales"; }
-		{ String _name = "RKnewCartsMineralsTip";				String _text = "A Cart: Minerals is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Examples of minerals are: all ores, raw gems, coal..."; }
+		{ String _name = "RKnewCartsMineralsTip";				String _text = "Un Carro: Minerales es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Ejemplos de minerales son: todos los minerales en bruto, gemas en bruto, carbon..."; }
 
 		{ String _name = "RKnewCartsMisc";					String _text = "Carreta: Varios"; }
 		{ String _name = "RKnewCartsMiscLwr";					String _text = "carreta: varios"; }
-		{ String _name = "RKnewCartsMiscTip";					String _text = "A Cart: Miscellaneous is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Examples of miscellaneous are: perfume, flowers, potions..."; }
+		{ String _name = "RKnewCartsMiscTip";					String _text = "Un Carro: Varios es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Ejemplos de varios son: perfume, flores, pociones..."; }
 
 		{ String _name = "RKnewCartsPrecious";					String _text = "Carreta: Preciosos"; }
 		{ String _name = "RKnewCartsPreciousLwr";				String _text = "carreta: preciosos"; }
-		{ String _name = "RKnewCartsPreciousTip";				String _text = "A Cart: Precious is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Examples of precious are: jewelries, precious metal like oro and plata, cutted gems..."; }
+		{ String _name = "RKnewCartsPreciousTip";				String _text = "Un Carro: Preciosos es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Ejemplos de preciosos son: joyeria, metales preciosos como oro y plata, gemas talladas..."; }
 
 		{ String _name = "RKnewCartsStone";					String _text = "Carreta: Piedra"; }
 		{ String _name = "RKnewCartsStoneLwr";					String _text = "carreta: piedra"; }
-		{ String _name = "RKnewCartsStoneTip";					String _text = "A Cart: Stone is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Good for trying to get rid of piedra in downtown and send it more where new developments need it."; }
+		{ String _name = "RKnewCartsStoneTip";					String _text = "Un Carro: Piedra es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Bueno para deshacerse de la piedra en el centro de la ciudad y enviarla a donde los nuevos desarrollos la necesiten."; }
 
 		{ String _name = "RKnewCartsTextile";					String _text = "Carreta: Textil"; }
 		{ String _name = "RKnewCartsTextileLwr";				String _text = "carreta: textil"; }
-		{ String _name = "RKnewCartsTextileTip";				String _text = "A Cart: Textile is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Examples of textile are: leather, wool, cotton, flax..."; }
+		{ String _name = "RKnewCartsTextileTip";				String _text = "Un Carro: Textiles es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Ejemplos de textiles son: cuero, lana, algodon, lino..."; }
 
 		{ String _name = "RKnewCartsWood";					String _text = "Carreta: Madera"; }
 		{ String _name = "RKnewCartsWoodLwr";					String _text = "carreta: madera"; }
-		{ String _name = "RKnewCartsWoodTip";					String _text = "A Cart: Wood is specialized mini market as big as a cart. Tamano: 2x2. Cost: 8 troncos. Capacity: 1500 de peso. Radius: 20 casillas. Employment 1-2 vendedores. Tips: Good for bring back the troncos where it is needed like lenador and blacksmiths..."; }
+		{ String _name = "RKnewCartsWoodTip";					String _text = "Un Carro: Madera es un mini mercado especializado del tamano de un carro. Tamano: 2x2. Costo: 8 troncos. Capacidad: 1500 de peso. Radio: 20 casillas. Empleo: 1-2 vendedores. Consejos: Bueno para llevar los troncos a donde se necesitan, como el lenador y los herreros..."; }
 
 
 
@@ -1544,7 +1544,7 @@ StringTable resource
 		{ String _name = "AleApricotRequire";				String _text = "Hacer 6-10 Cerveza Ligera [30 Albaricoque]"; }
 		{ String _name = "AleBlueberryRequire";				String _text = "Hacer 6-10 Cerveza Ligera [60 Arandano]"; }
 		{ String _name = "AleCherryRequire";				String _text = "Hacer 6-10 Cerveza Ligera [30 Cereza]"; }
-		{ String _name = "AlePeachRequire";				String _text = "Hacer 6-10 Cerveza Ligera [30 Peach]"; }
+		{ String _name = "AlePeachRequire";				String _text = "Hacer 6-10 Cerveza Ligera [30 Melocotón]"; }
 		{ String _name = "AlePearRequire";				String _text = "Hacer 6-10 Cerveza Ligera [30 Pera]"; }
 		{ String _name = "AlePumpkinRequire";				String _text = "Hacer 6-10 Cerveza Ligera [30 Calabaza]"; }
 		{ String _name = "WineBlackberryRequire";			String _text = "Hacer 6-10 Vino [30 Mora]"; }
@@ -1692,15 +1692,15 @@ StringTable resource
 		{ String _name = "CoalLimitTip";			String _text = "Controla la cantidad de minerales y menas almacenados. Una vez alcanzado este limite, la produccion cesara."; }
 		{ String _name = "StoneLimit";				String _text = "Limite de Piedra"; }
 		{ String _name = "StoneLimitShort";			String _text = "Piedra"; }
-		{ String _name = "StoneLimitTip";			String _text = "Controls the amount of stored piedras. Once this limit is reached production will cease."; }
+		{ String _name = "StoneLimitTip";			String _text = "Controla la cantidad de piedra almacenada. Una vez alcanzado este límite, la producción se detendrá."; }
 
 		{ String _name = "ClearIron";			String _text = "Recolectar Mineral de Hierro"; }
-		{ String _name = "ClearIronTip";		String _text = "Collect all hierro ore in the selected area."; }	
+		{ String _name = "ClearIronTip";		String _text = "Recolecta todo el mineral de hierro en el área seleccionada."; }
 
 
 		// This is the Profession ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 		{ String _name = "ProfessionDairyman";			String _text = "Lechero"; }
-		{ String _name = "ProfessionDairymanTip";		String _text = "A lecheros brings milk to a creamery and makes yogurt, cream and cheese."; }
+		{ String _name = "ProfessionDairymanTip";		String _text = "Un lechero lleva leche a una queseria y elabora yogur, crema y queso."; }
 		{ String _name = "ProfessionDairymanDeath";		String _text = "bebio leche en mal estado y murio."; }
 
 		{ String _name = "ProfessionBaker";				String _text = "Panadero"; }
@@ -1708,7 +1708,7 @@ StringTable resource
 		{ String _name = "ProfessionBakerDeath";			String _text = "murio de una muerte por colesterol alto."; }
 
 		{ String _name = "ProfessionMiller";				String _text = "Molinero"; }
-		{ String _name = "ProfessionMillerTip";				String _text = "A molineros grind grain and make flour. They can also take care of water"; }
+		{ String _name = "ProfessionMillerTip";				String _text = "Los molineros muelen grano y hacen harina. Tambien pueden encargarse del agua."; }
 		{ String _name = "ProfessionMillerDeath";			String _text = "cayo en el molino y murio."; }
 
 		{ String _name = "ProfessionBeekeeper";				String _text = "Apicultor"; }
@@ -1728,7 +1728,7 @@ StringTable resource
 		{ String _name = "ProfessionWorkerDeath";				String _text = "deprimido por su situacion y se suicido."; }
 
 		{ String _name = "ProfessionBotanist";				String _text = "Botanico"; }
-		{ String _name = "ProfessionBotanistTip";			String _text = "A botanico plants seeds at a greenhouse and makes growth seedlings and vegetables."; }
+		{ String _name = "ProfessionBotanistTip";			String _text = "Un botanico planta semillas en un invernadero y cultiva plantones y vegetales."; }
 		{ String _name = "ProfessionBotanistDeath";			String _text = "murio por una alergia a una planta venenosa."; }
 
 		{ String _name = "ProfessionStableman";				String _text = "Establero"; }
@@ -1741,37 +1741,37 @@ StringTable resource
 
 	// ------------ New PeakValley Starting Conditions ---------------------------
 		{ String _name = "RKJackJillName";			String _text = "Jack y Jill [RKEC]"; }
-		{ String _name = "RKJackJillDesc";			String _text = "A super hard game with only 1 family. No buildings at all. NO tools and NO Clothing, NO comida, NO lena, no building materials, no seeds, no livestock. Nothing"; }
+		{ String _name = "RKJackJillDesc";			String _text = "Una partida super dificil con solo 1 familia. Sin ningun edificio. SIN herramientas y SIN Ropa, SIN comida, SIN lena, sin materiales de construccion, sin semillas, sin ganado. Nada."; }
 
 		{ String _name = "RKAdamEveName";			String _text = "Adan y Eva [RKEC]"; }
-		{ String _name = "RKAdamEveDesc";			String _text = "A standard very hard game with only 1 family. A Storage Cart, a Stockpile. 6 tools and 6 Clothing, 400 comida, 90 lena, no building materials, no seeds, no livestock."; }
+		{ String _name = "RKAdamEveDesc";			String _text = "Una partida estandar muy dificil con solo 1 familia. Un Carro de Almacen, una Pila de Almacenamiento. 6 herramientas y 6 Ropa, 400 comida, 90 lena, sin materiales de construccion, sin semillas, sin ganado."; }
 
 		{ String _name = "RKGenesisName";			String _text = "Genesis [RKEC]"; }
-		{ String _name = "RKGenesisDesc";			String _text = "A standard very hard game with only 2 family. A Storage Cart, a Stockpile. 12 tools and 12 Clothing, 800 comida, 120 lena, no building materials, no seeds, no livestock."; }
+		{ String _name = "RKGenesisDesc";			String _text = "Una partida estandar muy dificil con solo 2 familias. Un Carro de Almacen, una Pila de Almacenamiento. 12 herramientas y 12 Ropa, 800 comida, 120 lena, sin materiales de construccion, sin semillas, sin ganado."; }
 
 		{ String _name = "RKHalfHardName";			String _text = "Alternativa Dificil [RKEC]"; }
-		{ String _name = "RKHalfHardDesc";			String _text = "An alternate of standard hard game with 4 families. A Storage Cart. 24 tools and 20 Clothing, 1200 comida, 100 lena, no building materials, 1 seed, no livestock."; }
+		{ String _name = "RKHalfHardDesc";			String _text = "Una alternativa de la partida estandar dificil con 4 familias. Un Carro de Almacen. 24 herramientas y 20 Ropa, 1200 comida, 100 lena, sin materiales de construccion, 1 semilla, sin ganado."; }
 
 		{ String _name = "RKSheppardName";			String _text = "Pastor [RKEC]"; }
-		{ String _name = "RKSheppardDesc";			String _text = "A medium game with 4 families. A Storage Cart, a Stockpile. 32 tools and 24 Clothing, 1600 comida, 160 lena, 100 troncos, 50 piedras, 30 hierro, no seeds, 2 livestocks."; }
+		{ String _name = "RKSheppardDesc";			String _text = "Una partida media con 4 familias. Un Carro de Almacen, una Pila de Almacenamiento. 32 herramientas y 24 Ropa, 1600 comida, 160 lena, 100 troncos, 50 piedras, 30 hierro, sin semillas, 2 ganados."; }
 
 		{ String _name = "RKFarmerName";			String _text = "Agricultor [RKEC]"; }
 		{ String _name = "RKFarmerDesc";			String _text = "A medium game with 4 families. A Medium Barn, a Stockpile. 32 tools and 24 Clothing, 1600 comida, 160 lena, 100 troncos, 50 piedras, 30 hierro, 3 crop seeds, no livestock."; }
 
 		{ String _name = "RKGathererName";			String _text = "Recolectores [RKEC]"; }
-		{ String _name = "RKGathererDesc";			String _text = "A medium game with 4 families. A Gatherer Hut, a Storage Cart, a Stockpile. 32 tools and 24 Clothing, 1600 comida, 160 lena, 80 troncos, 40 piedra, 30 hierro,  no seeds, no livestock."; }
+		{ String _name = "RKGathererDesc";			String _text = "Una partida media con 4 familias. Una Cabana de Recolector, un Carro de Almacen, una Pila de Almacenamiento. 32 herramientas y 24 Ropa, 1600 comida, 160 lena, 80 troncos, 40 piedra, 30 hierro, sin semillas, sin ganado."; }
 
 		{ String _name = "MediumName";				String _text = "Medio [RKEC]"; }
-		{ String _name = "MediumDesc";				String _text = "A medium game with 5 families. A Storage Barn, a Stockpile. 40 tools and 30 Clothing, 1800 comida, 200 lena, 120 troncos, 60 piedra, 40 hierro,  2 crop seeds, 1 orchard seed, no livestock."; }
+		{ String _name = "MediumDesc";				String _text = "Una partida mediana con 5 familias. Un Granero de Almacenamiento, un Almacen. 40 herramientas y 30 de Ropa, 1800 de comida, 200 de lena, 120 troncos, 60 piedra, 40 hierro, 2 semillas de cultivo, 1 semilla de huerto, sin ganado."; }
 
 		{ String _name = "RKMedium2Name";			String _text = "Medio 2 [RKEC]"; }
-		{ String _name = "RKMedium2Desc";			String _text = "A medium game with 5 families. A Storage Barn, a Stockpile. 40 tools and 30 Clothing, 1800 comida, 200 lena, 120 troncos, 60 piedra, 40 hierro,  1 crop seed, 1 orchard seed, 1 livestock."; }
+		{ String _name = "RKMedium2Desc";			String _text = "Una partida media con 5 familias. Un Granero de Almacen, una Pila de Almacenamiento. 40 herramientas y 30 Ropa, 1800 comida, 200 lena, 120 troncos, 60 piedra, 40 hierro, 1 semilla de cultivo, 1 semilla de huerto, 1 ganado."; }
 
 		{ String _name = "RKMedium3Name";			String _text = "Medio 3 [RKEC]"; }
-		{ String _name = "RKMedium3Desc";			String _text = "A medium game with 5 families. A Storage Barn, a Stockpile. 40 tools and 30 Clothing, 1800 comida, 200 lena, 120 troncos, 60 piedra, 40 hierro,  2 crop seeds, 0 orchard seed, 1 livestock."; }
+		{ String _name = "RKMedium3Desc";			String _text = "Una partida media con 5 familias. Un Granero de Almacen, una Pila de Almacenamiento. 40 herramientas y 30 Ropa, 1800 comida, 200 lena, 120 troncos, 60 piedra, 40 hierro, 2 semillas de cultivo, 0 semillas de huerto, 1 ganado."; }
 
 		{ String _name = "RKMedium4Name";			String _text = "Medio 4 [RKEC]"; }
-		{ String _name = "RKMedium4Desc";			String _text = "A medium game with 5 families. A Storage Barn, a Stockpile. 40 tools and 30 Clothing, 1800 comida, 200 lena, 120 troncos, 60 piedra, 40 hierro,  0 crop seed, 2 orchard seeds, 1 livestock."; }
+		{ String _name = "RKMedium4Desc";			String _text = "Una partida media con 5 familias. Un Granero de Almacen, una Pila de Almacenamiento. 40 herramientas y 30 Ropa, 1800 comida, 200 lena, 120 troncos, 60 piedra, 40 hierro, 0 semillas de cultivo, 2 semillas de huerto, 1 ganado."; }
 
 	]
 }
@@ -1860,6 +1860,287 @@ StringTable terrainType
 
 		{ String _name = "MarshPeak";				String _text = "Pantano]"; }
 
+
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "AdvanceFoodToolbar";				String _text = "Barra de Herramientas de Alimentos Avanzados"; }
+		{ String _name = "AdvanceFoodToolbarLwr";				String _text = "barra de herramientas de alimentos avanzados"; }
+		{ String _name = "AdvanceFoodToolbarTip";				String _text = "Barra de Herramientas de Alimentos Avanzados. Abre esta barra de herramientas para obtener las opciones de Edificios de Alimentos Avanzados."; }
+		{ String _name = "AdvancedMarketsToolbar";				String _text = "Barra de Herramientas de Mercados Avanzados"; }
+		{ String _name = "AdvancedMarketsToolbarLwr";				String _text = "barra de herramientas de mercados avanzados"; }
+		{ String _name = "AdvancedMarketsToolbarTip";				String _text = "Barra de Herramientas de Mercados Avanzados. Abre esta barra de herramientas para obtener las opciones de Edificios de Mercados Avanzados."; }
+		{ String _name = "AdvancedServicesToolbar";				String _text = "Barra de Herramientas de Servicios Avanzados"; }
+		{ String _name = "AdvancedServicesToolbarLwr";				String _text = "barra de herramientas de servicios avanzados"; }
+		{ String _name = "AdvancedServicesToolbarTip";				String _text = "Barra de Herramientas de Servicios Avanzados. Abre esta barra de herramientas para obtener las opciones de Edificios de Servicios Avanzados."; }
+		{ String _name = "AdvancedStorageTip";				String _text = "Barra de Herramientas de Almacenamiento Avanzado. Abre esta barra de herramientas para obtener más opciones de Almacenamiento Avanzado."; }
+		{ String _name = "AdvancedTransportToolbar";				String _text = "Barra de Herramientas de Transporte Avanzado"; }
+		{ String _name = "AdvancedTransportToolbarLwr";				String _text = "barra de herramientas de transporte avanzado"; }
+		{ String _name = "AdvancedTransportToolbarTip";				String _text = "Barra de Herramientas de Transporte Avanzado. Abre esta barra de herramientas para obtener las opciones de Transporte Avanzado."; }
+		{ String _name = "ApplePieRequire";				String _text = "Hacer Pastel de Manzana [Harina +Miel +Manzana]"; }
+		{ String _name = "BacalhauFish";				String _text = "Pescado Bacalhau"; }
+		{ String _name = "BacalhauFishRequire";				String _text = "Hacer Pescado Bacalhau [12 Pescado +3 Sal]"; }
+		{ String _name = "Barrel";				String _text = "Barril"; }
+		{ String _name = "BarrelRequire";				String _text = "8-12 Barriles [2 madera, 1 cobre]"; }
+		{ String _name = "BearSteakRequire";				String _text = "Hacer Bistec de Oso [12 Oso]"; }
+		{ String _name = "Beef";				String _text = "Res"; }
+		{ String _name = "BeefSteak";				String _text = "Bistec de Res"; }
+		{ String _name = "BeefSteakRequire";				String _text = "Hacer Bistec de Res [12 Res]"; }
+		{ String _name = "BisonSteakRequire";				String _text = "Hacer Bistec de Bisonte [12 Bisonte]"; }
+		{ String _name = "BoarRibsRequire";				String _text = "Hacer Costillas de Jabalí [12 Jabalí]"; }
+		{ String _name = "BostonhouseToolbar";				String _text = "Barra de Herramientas de BostonHouse"; }
+		{ String _name = "BostonhouseToolbarLwr";				String _text = "barra de herramientas de bostonhouse"; }
+		{ String _name = "BostonhouseToolbarTip";				String _text = "Abre esta barra de herramientas para obtener las opciones de BostonHouse. Hay 2 conjuntos de Casas Boston en esta barra de herramientas. 2 modelos diferentes."; }
+		{ String _name = "BreadRequire";				String _text = "Hacer Pan [Harina]"; }
+		{ String _name = "Bronze2Require";				String _text = "Fundir Bronce [3 Mineral de Cobre, 3 Mineral de Estaño, 3 Leña]"; }
+		{ String _name = "BronzeRequire";				String _text = "Fundir Bronce [2 Mineral de Cobre, 2 Mineral de Estaño, 2 Carbón]"; }
+		{ String _name = "BronzeTool";				String _text = "Herramienta de Bronce"; }
+		{ String _name = "BronzeToolRequire";				String _text = "Herramienta de Bronce [1Tronco+1Bronce] 150usos"; }
+		{ String _name = "CakeRequire";				String _text = "Hacer Pasteles [Harina + Miel]"; }
+		{ String _name = "Cannon";				String _text = "Cañón"; }
+		{ String _name = "CannonRequire";				String _text = "Cañón [1 tronco +8 hierro +4 pólvora]"; }
+		{ String _name = "CherryPieRequire";				String _text = "Hacer Pastel de Cereza [Harina +Miel +Cereza]"; }
+		{ String _name = "Chicken";				String _text = "Pollo"; }
+		{ String _name = "Crate";				String _text = "Caja"; }
+		{ String _name = "CrateMakers";				String _text = "Tonelería"; }
+		{ String _name = "CrateMakersLwr";				String _text = "tonelería"; }
+		{ String _name = "CrateMakersTip";				String _text = "Tonelería. El Tonelero toma Madera y Cobre para hacer Barriles, y también Madera y Hierro para hacer Cajas. Tamaño: 7x6. Costo: 34 troncos, 20 piedra, 8 hierro. Puede hacer: 8-12 Barriles o Cajas con 2 madera y 1 hierro. Empleo: 1-2 trabajadores. Consejos: Los Barriles se usan para la Pólvora y las Cajas se usan para exportar mercancías por tren."; }
+		{ String _name = "CrateRequire";				String _text = "8-12 Cajas [2 madera, 1 hierro]"; }
+		{ String _name = "CuredBearMeat";				String _text = "Carne de Oso Curada"; }
+		{ String _name = "CuredBearMeatRequire";				String _text = "Curar Carne de Oso [12 Carne de Oso +3 Sal]"; }
+		{ String _name = "CuredBeefMeat";				String _text = "Carne de Res Curada"; }
+		{ String _name = "CuredBeefMeatRequire";				String _text = "Curar Carne de Res [12 Res +3 Sal]"; }
+		{ String _name = "CuredBisonMeat";				String _text = "Carne de Bisonte Curada"; }
+		{ String _name = "CuredBisonMeatRequire";				String _text = "Curar Carne de Bisonte [12 Carne de Bisonte +3 Sal]"; }
+		{ String _name = "CuredBoarMeat";				String _text = "Carne de Jabalí Curada"; }
+		{ String _name = "CuredBoarMeatRequire";				String _text = "Curar Carne de Jabalí [12 Carne de Jabalí +3 Sal]"; }
+		{ String _name = "CuredChickenMeat";				String _text = "Carne de Pollo Curada"; }
+		{ String _name = "CuredChickenMeatRequire";				String _text = "Curar Carne de Pollo [12 Pollo +3 Sal]"; }
+		{ String _name = "CuredDuckMeat";				String _text = "Carne de Pato Curada"; }
+		{ String _name = "CuredDuckMeatRequire";				String _text = "Curar Carne de Pato [12 Carne de Pato +3 Sal]"; }
+		{ String _name = "CuredGoatMeat";				String _text = "Carne de Cabra Curada"; }
+		{ String _name = "CuredGoatMeatRequire";				String _text = "Curar Carne de Cabra [12 Carne de Cabra +3 Sal]"; }
+		{ String _name = "CuredGooseMeat";				String _text = "Carne de Ganso Curada"; }
+		{ String _name = "CuredGooseMeatRequire";				String _text = "Curar Carne de Ganso [12 Carne de Ganso+3 Sal]"; }
+		{ String _name = "CuredLambMeat";				String _text = "Carne de Cordero Curada"; }
+		{ String _name = "CuredLambMeatRequire";				String _text = "Curar Carne de Cordero [12 Carnero +3 Sal]"; }
+		{ String _name = "CuredPheasantMeat";				String _text = "Carne de Faisán Curada"; }
+		{ String _name = "CuredPheasantMeatRequire";				String _text = "Curar Carne de Faisán [12 Carne de Faisán +3 Sal]"; }
+		{ String _name = "CuredPorkMeat";				String _text = "Carne de Cerdo Curada"; }
+		{ String _name = "CuredPorkMeatRequire";				String _text = "Curar Carne de Cerdo [12 Cerdo +3 Sal]"; }
+		{ String _name = "CuredVenisonMeat";				String _text = "Carne de Venado Curada"; }
+		{ String _name = "CuredVenisonMeatRequire";				String _text = "Curar Carne de Venado [12 Venado +3 Sal]"; }
+		{ String _name = "DeerSteak";				String _text = "Bistec de Venado"; }
+		{ String _name = "DeerSteakRequire";				String _text = "Hacer Bistec de Venado [12 Venado]"; }
+		{ String _name = "DriedBearMeat";				String _text = "Carne de Oso Seca"; }
+		{ String _name = "DriedBearMeatRequire";				String _text = "Secar Carne de Oso [12 Carne de Oso]"; }
+		{ String _name = "DriedBeefMeat";				String _text = "Carne de Res Seca"; }
+		{ String _name = "DriedBeefMeatRequire";				String _text = "Secar Carne de Res [12 Res]"; }
+		{ String _name = "DriedBisonMeat";				String _text = "Carne de Bisonte Seca"; }
+		{ String _name = "DriedBisonMeatRequire";				String _text = "Secar Carne de Bisonte [12 Carne de Bisonte]"; }
+		{ String _name = "DriedBoarMeat";				String _text = "Carne de Jabalí Seca"; }
+		{ String _name = "DriedBoarMeatRequire";				String _text = "Secar Carne de Jabalí [12 Carne de Jabalí]"; }
+		{ String _name = "DriedChickenMeat";				String _text = "Carne de Pollo Seca"; }
+		{ String _name = "DriedChickenMeatRequire";				String _text = "Secar Carne de Pollo [12 Pollo]"; }
+		{ String _name = "DriedDuckMeat";				String _text = "Carne de Pato Seca"; }
+		{ String _name = "DriedDuckMeatRequire";				String _text = "Secar Carne de Pato [12 Carne de Pato]"; }
+		{ String _name = "DriedGoatMeat";				String _text = "Carne de Cabra Seca"; }
+		{ String _name = "DriedGoatMeatRequire";				String _text = "Secar Carne de Cabra [12 Carne de Cabra]"; }
+		{ String _name = "DriedGooseMeat";				String _text = "Carne de Ganso Seca"; }
+		{ String _name = "DriedGooseMeatRequire";				String _text = "Secar Carne de Ganso [12 Carne de Ganso]"; }
+		{ String _name = "DriedLambMeat";				String _text = "Carne de Cordero Seca"; }
+		{ String _name = "DriedLambMeatRequire";				String _text = "Secar Carne de Cordero [12 Carnero]"; }
+		{ String _name = "DriedMushroom";				String _text = "Champiñón Seco"; }
+		{ String _name = "DriedMushroomRequire";				String _text = "Secar Champiñón [12 Champiñón]"; }
+		{ String _name = "DriedPheasantMeat";				String _text = "Carne de Faisán Seca"; }
+		{ String _name = "DriedPheasantMeatRequire";				String _text = "Secar Carne de Faisán [12 Carne de Faisán]"; }
+		{ String _name = "DriedPorkMeat";				String _text = "Carne de Cerdo Seca"; }
+		{ String _name = "DriedPorkMeatRequire";				String _text = "Secar Carne de Cerdo [12 Cerdo]"; }
+		{ String _name = "DriedVenisonMeat";				String _text = "Carne de Venado Seca"; }
+		{ String _name = "DriedVenisonMeatRequire";				String _text = "Secar Carne de Venado [12 Venado]"; }
+		{ String _name = "Firewood";				String _text = "Leña"; }
+		{ String _name = "Fish";				String _text = "Pescado"; }
+		{ String _name = "FlourBarleyRequire";				String _text = "Hacer 24-32 Harina [16 Cebada]"; }
+		{ String _name = "FlourCornRequire";				String _text = "Hacer 24-32 Harina [16 Maíz]"; }
+		{ String _name = "FlourOatRequire";				String _text = "Hacer 24-32 Harina [16 Avena]"; }
+		{ String _name = "FlourRiceRequire";				String _text = "Hacer 24-32 Harina [16 Arroz]"; }
+		{ String _name = "FlourRyeRequire";				String _text = "Hacer 24-32 Harina [16 Centeno]"; }
+		{ String _name = "FlourSorghumRequire";				String _text = "Hacer 24-32 Harina [16 Sorgo]"; }
+		{ String _name = "FlourWheatRequire";				String _text = "Hacer 24-32 Harina [16 Trigo]"; }
+		{ String _name = "Fuel";				String _text = "Leña"; }
+		{ String _name = "GoatMeatCutsRequire";				String _text = "Hacer Cortes de Cabra [12 Carne de Cabra]"; }
+		{ String _name = "GoldOre";				String _text = "Mineral de Oro"; }
+		{ String _name = "GrainSilo";				String _text = "Silo de Grano"; }
+		{ String _name = "GrainSiloLwr";				String _text = "silo de grano"; }
+		{ String _name = "GrainSiloTip";				String _text = "El Silo de Grano es una instalación de almacenamiento que solo guarda granos, con una capacidad mayor. Tamaño: 6x8. Costo: 48 madera y 12 piedras. Capacidad: 50000 de peso. Consejos: Los cosechadores deben ir a este almacén si es el más cercano a su lugar de trabajo. Colócalo en consecuencia."; }
+		{ String _name = "Gunpowder";				String _text = "Pólvora"; }
+		{ String _name = "GunpowderHouse";				String _text = "Casa de Pólvora"; }
+		{ String _name = "GunpowderHouseLwr";				String _text = "casa de pólvora"; }
+		{ String _name = "GunpowderHouseTip";				String _text = "Casa de Pólvora. El Alquimista está especializado en crear pólvora y sus componentes. También puede extraer Azufre del mineral de azufre. Tamaño: 7x6 casillas. Costo: 48 madera, 32 piedra, 24 hierro y 18 cristalería. Toma Salitre, Azufre, Carbón y un Barril para crear pólvora. Consejos: Se usa principalmente para crear armas de armero."; }
+		{ String _name = "GunpowderRequire";				String _text = "Pólvora [4Salitre+2Carbón+1Azufre+1Barril]"; }
+		{ String _name = "GunsmithMaker";				String _text = "Artillería del Armero"; }
+		{ String _name = "GunsmithMakerLwr";				String _text = "artillería del armero"; }
+		{ String _name = "GunsmithMakerTip";				String _text = "Artillería del Armero. El armero crea algunas armas de pólvora. Tamaño: 8x9 casillas. Costo: 54 madera, 36 piedra y 18 hierro. Toma Pólvora, Hierro y a veces Madera para crear: Bomba de Trueno, Pistola, Mosquete y Cañón. Consejos: Los objetos que crea el armero son solo para la venta de recursos."; }
+		{ String _name = "HandGun";				String _text = "Pistola"; }
+		{ String _name = "HandGunRequire";				String _text = "Pistola [1 madera +2 hierro +1 pólvora]"; }
+		{ String _name = "Herb";				String _text = "Hierba"; }
+		{ String _name = "Iron";				String _text = "Hierro"; }
+		{ String _name = "IronTool";				String _text = "Herramienta de Hierro"; }
+		{ String _name = "KippersFish";				String _text = "Pescado Kippers"; }
+		{ String _name = "KippersFishRequire";				String _text = "Hacer Pescado Kippers [12 Pescado +1 Carbón]"; }
+		{ String _name = "LambChop";				String _text = "Chuleta de Cordero"; }
+		{ String _name = "LambChopRequire";				String _text = "Hacer Chuleta de Cordero [12 Carnero]"; }
+		{ String _name = "Leather";				String _text = "Cuero"; }
+		{ String _name = "LittleHouse02";				String _text = "Casita Colorida 2"; }
+		{ String _name = "LittleHouse02Lwr";				String _text = "casita colorida 2"; }
+		{ String _name = "LittleHouse02Tip";				String _text = "Una Casita Colorida 2 se usa para alojar a tus ciudadanos. Tamaño: 3x5 casillas. Costo: 24 madera, 6 piedra. Residencia: 5 ciudadanos. Efic. de Calor%: 80. Modelos: 1. Colores: 12 alternativas. Consejos: Presiona F para cambiar el color."; }
+		{ String _name = "LittleHouse02floor2";				String _text = "Casita Colorida 2 - 2do Piso"; }
+		{ String _name = "LittleHouse02floor2Lwr";				String _text = "casita colorida 2 - 2do piso"; }
+		{ String _name = "LittleHouse02floor2Tip";				String _text = "Un conjunto de 2do piso Colorido 2 se usa para alojar a una segunda familia. Tamaño: 1x5 casillas. Costo: 32 madera, 6 piedra. Residencia: 6 ciudadanos. Efic. de Calor%: 90. Modelos: 1. Colores: 12 alternativas. Consejos: Va justo a la derecha del primer piso; asegúrate de alinear las chimeneas en la parte trasera. Debe encajar perfectamente sobre el 1er piso. Presiona F para cambiar el color."; }
+		{ String _name = "LittleHouseToolba2rTip";				String _text = "Abre esta barra de herramientas para obtener las opciones de Casita Colorida. Consejos: Este es un conjunto que contiene un primer piso y un 2do piso especial para colocar encima del primer piso, para una segunda familia. Tendrán 5 ocupantes y una Efic. de Calor% de 80. 12 colores diferentes. Presiona F para cambiar el color."; }
+		{ String _name = "LittleHouseToolbar2";				String _text = "Barra de Herramientas de Casita Colorida 2"; }
+		{ String _name = "LittleHouseToolbar2Lwr";				String _text = "barra de herramientas de casita colorida 2"; }
+		{ String _name = "Log";				String _text = "Tronco"; }
+		{ String _name = "MetalBronze";				String _text = "Barra de Bronce"; }
+		{ String _name = "Musket";				String _text = "Mosquete"; }
+		{ String _name = "MusketRequire";				String _text = "Mosquete [1 madera +3 hierro +2 pólvora]"; }
+		{ String _name = "Mutton";				String _text = "Carnero"; }
+		{ String _name = "NMTLH2color10ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color10ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color10ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color11ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color11ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color11ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color12ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color12ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color12ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color1ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color1ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color1ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color2ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color2ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color2ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color3ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color3ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color3ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color4ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color4ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color4ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color5ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color5ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color5ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color6ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color6ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color6ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color7ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color7ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color7ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color8ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color8ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color8ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLH2color9ALL";				String _text = "Casita NMT"; }
+		{ String _name = "NMTLH2color9ALLLwr";				String _text = "casita nmt"; }
+		{ String _name = "NMTLH2color9ALLTip";				String _text = "Una casita NMT se usa para alojar a tus ciudadanos. 4x5. Costo 24 Madera, 8 Piedras. Efic. de Calor% 80."; }
+		{ String _name = "NMTLittleHousing2Toolbar";				String _text = "Barra de Herramientas de Casita NMT 2"; }
+		{ String _name = "NMTLittleHousing2ToolbarLwr";				String _text = "barra de herramientas de casita nmt 2"; }
+		{ String _name = "NMTLittleHousing2ToolbarTip";				String _text = "Barra de Herramientas de Casita NMT 2. Abre esta barra de herramientas para obtener las opciones de Casita NMT 2."; }
+		{ String _name = "NMTLittleHousingToolbar2";				String _text = "Barra de Herramientas 2 de Casita NMT"; }
+		{ String _name = "NMTLittleHousingToolbar2Lwr";				String _text = "barra de herramientas 2 de casita nmt"; }
+		{ String _name = "NMTLittleHousingToolbar2Tip";				String _text = "Abre esta barra de herramientas para las opciones de Casita NMT 2. Consejos: Este es un conjunto que contiene solo un primer piso con 8 colores/texturas y 6 modelos cada uno. Su última fila de casillas en la parte trasera puede estar sobre el agua. Tendrán 5 ocupantes y una Efic. de Calor% de 70 a 98. Presiona F para cambiar de modelo."; }
+		{ String _name = "Niveau2UpgradeButtonTip";				String _text = "Mejora tu Centro Tecnológico al nivel 2 - Edad de Bronce - para poder aprender nueva tecnología y construir edificios más avanzados."; }
+		{ String _name = "Niveau3UpgradeButtonTip";				String _text = "Mejora tu Centro Tecnológico al nivel 3 - Edad de Hierro - para poder aprender nueva tecnología y construir edificios más avanzados."; }
+		{ String _name = "Niveau4UpgradeButtonTip";				String _text = "Mejora tu Centro Tecnológico al nivel 4 - Edad Medieval - para poder aprender nueva tecnología y construir edificios más avanzados."; }
+		{ String _name = "OmeletteRequire";				String _text = "Hacer Tortilla [8Huevos +2Cebollas +6Champiñones]"; }
+		{ String _name = "Parchment";				String _text = "Pergamino"; }
+		{ String _name = "ParchmentMakers";				String _text = "Casa del Escriba"; }
+		{ String _name = "ParchmentMakersLwr";				String _text = "casa del escriba"; }
+		{ String _name = "ParchmentMakersTip";				String _text = "Casa del Escriba. El Escriba toma Juncos para hacer pergaminos. Tamaño: 7x5. Costo: 32 troncos, 12 piedra. Puede hacer: 2-3 Pergaminos con 4 juncos. Empleo: 1-2 escribas. Consejos: Por ahora solo para la venta; los Pergaminos se usarán en una futura expansión."; }
+		{ String _name = "ParchmentRequire";				String _text = "Crear Pergamino [4 Juncos]"; }
+		{ String _name = "PecanPieRequire";				String _text = "Hacer Pastel de Nuez Pecana [Harina +Miel +Nuez Pecana]"; }
+		{ String _name = "Pork";				String _text = "Cerdo"; }
+		{ String _name = "PorkChopRequire";				String _text = "Hacer Chuleta de Cerdo [12 Cerdo]"; }
+		{ String _name = "ProfessionAlchemist";				String _text = "Alquimista"; }
+		{ String _name = "ProfessionAlchemistDeath";				String _text = "se hizo explotar con pólvora."; }
+		{ String _name = "ProfessionAlchemistTip";				String _text = "Un Alquimista usa algunos ingredientes y fabrica pólvora."; }
+		{ String _name = "ProfessionCooper";				String _text = "Tonelero"; }
+		{ String _name = "ProfessionCooperDeath";				String _text = "murió de tétanos."; }
+		{ String _name = "ProfessionCooperTip";				String _text = "Un Tonelero fabrica barriles y cajas."; }
+		{ String _name = "ProfessionGunsmith";				String _text = "Armero"; }
+		{ String _name = "ProfessionGunsmithDeath";				String _text = "desafortunadamente se disparó en la cara."; }
+		{ String _name = "ProfessionGunsmithTip";				String _text = "Un Armero fabrica armas de pólvora."; }
+		{ String _name = "ProfessionScribe";				String _text = "Escriba"; }
+		{ String _name = "ProfessionScribeDeath";				String _text = "se volvió confundido y loco, y murió."; }
+		{ String _name = "ProfessionScribeTip";				String _text = "Un escriba hace pergaminos a partir de juncos."; }
+		{ String _name = "QuicheRequire";				String _text = "Hacer Quiche [8 Huevos +4 Harina + 4 Queso]"; }
+		{ String _name = "RKdecorations";				String _text = "Decoraciones RK"; }
+		{ String _name = "RKdecorationsLwr";				String _text = "Decoraciones RK"; }
+		{ String _name = "RKdecorationsTip";				String _text = "Barra de herramientas de decoraciones de RedKetchup."; }
+		{ String _name = "Reeds";				String _text = "Juncos"; }
+		{ String _name = "ResourcePlusTip";				String _text = "Barra de Herramientas de Recursos Avanzados. Abre esta barra de herramientas para obtener las opciones de Edificios de Recursos Avanzados."; }
+		{ String _name = "RoastChickenRequire";				String _text = "Asar Pollo [12 Pollo +1 Carbón]"; }
+		{ String _name = "RoastDuckRequire";				String _text = "Asar Pato [12 Carne de Pato +1 Carbón]"; }
+		{ String _name = "RoastGooseRequire";				String _text = "Asar Ganso [12 Carne de Ganso +1 Carbón]"; }
+		{ String _name = "RoastPheasantRequire";				String _text = "Asar Faisán [12 Carne de Faisán +1 Carbón]"; }
+		{ String _name = "Saltpeter";				String _text = "Salitre"; }
+		{ String _name = "SaltpeterRequire";				String _text = "Salitre"; }
+		{ String _name = "SilverOre";				String _text = "Mineral de Plata"; }
+		{ String _name = "SmokedBearMeat";				String _text = "Carne de Oso Ahumada"; }
+		{ String _name = "SmokedBearMeatRequire";				String _text = "Ahumar Carne de Oso [12 Carne de Oso +1 Carbón]"; }
+		{ String _name = "SmokedBeefMeat";				String _text = "Carne de Res Ahumada"; }
+		{ String _name = "SmokedBeefMeatRequire";				String _text = "Ahumar Carne de Res [12 Res +1 Carbón]"; }
+		{ String _name = "SmokedBisonMeat";				String _text = "Carne de Bisonte Ahumada"; }
+		{ String _name = "SmokedBisonMeatRequire";				String _text = "Ahumar Carne de Bisonte [12 Carne de Bisonte +1 Carbón]"; }
+		{ String _name = "SmokedBoarMeat";				String _text = "Carne de Jabalí Ahumada"; }
+		{ String _name = "SmokedBoarMeatRequire";				String _text = "Ahumar Carne de Jabalí [12 Carne de Jabalí +1 Carbón]"; }
+		{ String _name = "SmokedGoatMeat";				String _text = "Carne de Cabra Ahumada"; }
+		{ String _name = "SmokedGoatMeatRequire";				String _text = "Ahumar Carne de Cabra [12 Carne de Cabra +1 Carbón]"; }
+		{ String _name = "SmokedLambMeat";				String _text = "Carne de Cordero Ahumada"; }
+		{ String _name = "SmokedLambMeatRequire";				String _text = "Ahumar Carne de Cordero [12 Carnero +1 Carbón]"; }
+		{ String _name = "SmokedPorkMeat";				String _text = "Carne de Cerdo Ahumada"; }
+		{ String _name = "SmokedPorkMeatRequire";				String _text = "Ahumar Carne de Cerdo [12 Cerdo +1 Carbón]"; }
+		{ String _name = "SmokedVenisonMeat";				String _text = "Carne de Venado Ahumada"; }
+		{ String _name = "SmokedVenisonMeatRequire";				String _text = "Ahumar Carne de Venado [12 Venado +1 Carbón]"; }
+		{ String _name = "Stockfish";				String _text = "Pescado Seco"; }
+		{ String _name = "StockfishRequire";				String _text = "Hacer Pescado Seco [12 Pescado]"; }
+		{ String _name = "Stone";				String _text = "Piedra"; }
+		{ String _name = "Sulfur";				String _text = "Azufre"; }
+		{ String _name = "SulfurOre";				String _text = "Mineral de Azufre"; }
+		{ String _name = "SulfurRequire";				String _text = "Extraer Azufre [1 Mineral de Azufre]"; }
+		{ String _name = "TechNiv1paper";				String _text = "Certificado Tecnológico Niv1"; }
+		{ String _name = "TechNiv1paperRequire";				String _text = "Certificado Tecnológico Niv1 [1 Pergamino]"; }
+		{ String _name = "TechNiv2paper";				String _text = "Certificado Tecnológico Niv2"; }
+		{ String _name = "TechNiv2paperRequire";				String _text = "Certificado Tecnológico Niv2 [1 Pergamino]"; }
+		{ String _name = "TechNiv3paper";				String _text = "Certificado Tecnológico Niv3"; }
+		{ String _name = "TechNiv3paperRequire";				String _text = "Certificado Tecnológico Niv3 [1 Pergamino]"; }
+		{ String _name = "TechnologyCenterNiv1";				String _text = "Centro Tecnológico Niv1"; }
+		{ String _name = "TechnologyCenterNiv1Lwr";				String _text = "centro tecnológico niv1"; }
+		{ String _name = "TechnologyCenterNiv1Tip";				String _text = "Centro Tecnológico Niv1 - Edad de Piedra - investiga tecnología y permite que tu sociedad evolucione al nivel 2. Tamaño: 6x8."; }
+		{ String _name = "TechnologyCenterNiv2";				String _text = "Centro Tecnológico Niv2"; }
+		{ String _name = "TechnologyCenterNiv2Lwr";				String _text = "centro tecnológico niv2"; }
+		{ String _name = "TechnologyCenterNiv2Tip";				String _text = "Centro Tecnológico Niv2 - Edad de Bronce - investiga tecnología y permite que tu sociedad evolucione al nivel 3. Tamaño: 6x8."; }
+		{ String _name = "TechnologyCenterNiv3";				String _text = "Centro Tecnológico Niv3"; }
+		{ String _name = "TechnologyCenterNiv3Lwr";				String _text = "centro tecnológico niv3"; }
+		{ String _name = "TechnologyCenterNiv3Tip";				String _text = "Centro Tecnológico Niv3 - Edad de Hierro - investiga tecnología y permite que tu sociedad evolucione al nivel 4. Tamaño: 6x8."; }
+		{ String _name = "ThunderBomb";				String _text = "Bomba de Trueno"; }
+		{ String _name = "ThunderBombRequire";				String _text = "Bomba de Trueno [2 hierro +5 pólvora]"; }
+		{ String _name = "TinOre";				String _text = "Mineral de Estaño"; }
+		{ String _name = "TinRequire";				String _text = "Mineral de estaño"; }
+		{ String _name = "ToolHugeMap";				String _text = "Mapa Enorme"; }
+		{ String _name = "ToolHugeMapLwr";				String _text = "mapa enorme"; }
+		{ String _name = "ToolHugeMapTip";				String _text = "El Mapa Enorme es la nueva vista de mapa más grande."; }
+		{ String _name = "ToolLargerMap";				String _text = "Mapa Más Grande"; }
+		{ String _name = "ToolLargerMapLwr";				String _text = "mapa más grande"; }
+		{ String _name = "ToolLargerMapTip";				String _text = "El Mapa Más Grande es una nueva vista de mapa más grande."; }
+		{ String _name = "ToolMap";				String _text = "Mapa"; }
+		{ String _name = "ToolMapLwr";				String _text = "mapa"; }
+		{ String _name = "ToolMapTip";				String _text = "El Mapa es una vista ligeramente más grande que la original. solo un poco."; }
+		{ String _name = "ToolbarAdvancedStorage";				String _text = "Barra de Herramientas de Almacenamiento Avanzado"; }
+		{ String _name = "ToolbarAdvancedStorageLwr";				String _text = "barra de herramientas de almacenamiento avanzado"; }
+		{ String _name = "ToolbarResourcePlus";				String _text = "Barra de Herramientas de Recursos Avanzados"; }
+		{ String _name = "ToolbarResourcePlusLwr";				String _text = "barra de herramientas de recursos avanzados"; }
+		{ String _name = "Venison";				String _text = "Venado"; }
+		{ String _name = "WinterCoat";				String _text = "Abrigo de Invierno"; }
+		{ String _name = "Wood";				String _text = "Tronco"; }
+		{ String _name = "Wool";				String _text = "Lana"; }
 
 	]
 }

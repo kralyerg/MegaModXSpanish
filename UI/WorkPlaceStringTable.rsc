@@ -437,5 +437,11 @@ StringTable resource
 		{ String _name = "buttonSizeTownHallTip";		String _text = "Minimiza la ventana de tu ayuntamiento."; }
 		{ String _name = "buttonSizeTraderTip";			String _text = "Minimiza la ventana de tu comerciante"; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "RemoveWPFence";				String _text = "[WPS] Quitar cerca"; }
+		{ String _name = "RemoveWPFenceLwr";				String _text = "[wps] quitar cerca"; }
+		{ String _name = "RemoveWPFenceTip";				String _text = "[WPS] Quitar cerca"; }
+
 	]
 }

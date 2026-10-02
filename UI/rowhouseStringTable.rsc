@@ -269,5 +269,11 @@ StringTable resource
 		{ String _name = "AleWheatRequire";			String _text = "Cerveza Ale [Trigo]"; }
 
 		{ String _name = "buttonSizeTip";			String _text = "Minimiza la ventana de tu Ayuntamiento"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "rhm4";				String _text = "[rh] Mercado de pueblo pequeño"; }
+		{ String _name = "rhm4Lwr";				String _text = "[rh] mercado de pueblo pequeño"; }
+		{ String _name = "rhm4Tip";				String _text = "[rh] Mercado de pueblo pequeño"; }
+
 	]
 }

@@ -142,6 +142,157 @@ StringTable resource
 		{ String _name = "Brick";					String _text = "Ladrillo"; }
 		{ String _name = "RoofTile";					String _text = "Teja"; }
 		{ String _name = "Glass";					String _text = "Vidrio"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "HostelF1C1T1";				String _text = "Albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T1Lwr";				String _text = "albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T1Tip";				String _text = "Un albergue (1ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:92"; }
+		{ String _name = "HostelF1C1T2";				String _text = "Albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T2Lwr";				String _text = "albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T2Tip";				String _text = "Un albergue (1ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:92"; }
+		{ String _name = "HostelF1C1T3";				String _text = "Albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T3Lwr";				String _text = "albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T3Tip";				String _text = "Un albergue (1ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:106"; }
+		{ String _name = "HostelF1C1T4";				String _text = "Albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T4Lwr";				String _text = "albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T4Tip";				String _text = "Un albergue (1ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:106"; }
+		{ String _name = "HostelF1C1T5";				String _text = "Albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T5Lwr";				String _text = "albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T5Tip";				String _text = "Un albergue (1ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:100"; }
+		{ String _name = "HostelF1C1T6";				String _text = "Albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T6Lwr";				String _text = "albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T6Tip";				String _text = "Un albergue (1ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:98"; }
+		{ String _name = "HostelF1C1T7";				String _text = "Albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T7Lwr";				String _text = "albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T7Tip";				String _text = "Un albergue (1ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:98"; }
+		{ String _name = "HostelF1C1T8";				String _text = "Albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T8Lwr";				String _text = "albergue - 1ª planta"; }
+		{ String _name = "HostelF1C1T8Tip";				String _text = "Un albergue (1ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:72"; }
+		{ String _name = "HostelF2C1T1";				String _text = "Albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T1Lwr";				String _text = "albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T1Tip";				String _text = "Un albergue (2ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:96"; }
+		{ String _name = "HostelF2C1T2";				String _text = "Albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T2Lwr";				String _text = "albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T2Tip";				String _text = "Un albergue (2ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:96"; }
+		{ String _name = "HostelF2C1T3";				String _text = "Albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T3Tip";				String _text = "Un albergue (2ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:110"; }
+		{ String _name = "HostelF2C1T4";				String _text = "Albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T4Lwr";				String _text = "albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T4Tip";				String _text = "Un albergue (2ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:110"; }
+		{ String _name = "HostelF2C1T5";				String _text = "Albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T5Lwr";				String _text = "albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T5Tip";				String _text = "Un albergue (2ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:104"; }
+		{ String _name = "HostelF2C1T6";				String _text = "Albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T6Lwr";				String _text = "albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T6Tip";				String _text = "Un albergue (2ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:102"; }
+		{ String _name = "HostelF2C1T7";				String _text = "Albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T7Lwr";				String _text = "albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T7Tip";				String _text = "Un albergue (2ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:102"; }
+		{ String _name = "HostelF2C1T8";				String _text = "Albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T8Lwr";				String _text = "albergue - 2ª planta"; }
+		{ String _name = "HostelF2C1T8Tip";				String _text = "Un albergue (2ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:76"; }
+		{ String _name = "HostelF2vT3Lwr";				String _text = "albergue - 2ª planta"; }
+		{ String _name = "HostelF3C1T1";				String _text = "Albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T1Lwr";				String _text = "albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T1Tip";				String _text = "Un albergue (3ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:100"; }
+		{ String _name = "HostelF3C1T2";				String _text = "Albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T2Lwr";				String _text = "albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T2Tip";				String _text = "Un albergue (3ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:100"; }
+		{ String _name = "HostelF3C1T3";				String _text = "Albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T3Lwr";				String _text = "albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T3Tip";				String _text = "Un albergue (3ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:114"; }
+		{ String _name = "HostelF3C1T4";				String _text = "Albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T4Lwr";				String _text = "albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T4Tip";				String _text = "Un albergue (3ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:114"; }
+		{ String _name = "HostelF3C1T5";				String _text = "Albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T5Lwr";				String _text = "albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T5Tip";				String _text = "Un albergue (3ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:108"; }
+		{ String _name = "HostelF3C1T6";				String _text = "Albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T6Lwr";				String _text = "albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T6Tip";				String _text = "Un albergue (3ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:106"; }
+		{ String _name = "HostelF3C1T7";				String _text = "Albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T7Lwr";				String _text = "albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T7Tip";				String _text = "Un albergue (3ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:106"; }
+		{ String _name = "HostelF3C1T8";				String _text = "Albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T8Lwr";				String _text = "albergue - 3ª planta"; }
+		{ String _name = "HostelF3C1T8Tip";				String _text = "Un albergue (3ª planta) se usa para alojar a tus ciudadanos cuando no tienen casa propia. Combustible por Recurso:80"; }
+		{ String _name = "HostelToolbar";				String _text = "Barra de herramientas: Albergue de esquina"; }
+		{ String _name = "HostelToolbarLwr";				String _text = "barra de herramientas: albergue de esquina"; }
+		{ String _name = "HostelToolbarTip";				String _text = "Barra de herramientas: Albergue de esquina. Abre esta barra de herramientas para obtener las opciones del Albergue de esquina."; }
+		{ String _name = "Lumber";				String _text = "Madera"; }
+		{ String _name = "NMT3F1C1T1";				String _text = "Edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T1Lwr";				String _text = "edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T1Tip";				String _text = "Una casa NMT de varios pisos (1ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:92"; }
+		{ String _name = "NMT3F1C1T2";				String _text = "Edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T2Lwr";				String _text = "edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T2Tip";				String _text = "Una casa NMT de varios pisos (1ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:92"; }
+		{ String _name = "NMT3F1C1T3";				String _text = "Edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T3Lwr";				String _text = "edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T3Tip";				String _text = "Una casa NMT de varios pisos (1ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:106"; }
+		{ String _name = "NMT3F1C1T4";				String _text = "Edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T4Lwr";				String _text = "edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T4Tip";				String _text = "Una casa NMT de varios pisos (1ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:106"; }
+		{ String _name = "NMT3F1C1T5";				String _text = "Edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T5Lwr";				String _text = "edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T5Tip";				String _text = "Una casa NMT de varios pisos (1ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:100"; }
+		{ String _name = "NMT3F1C1T6";				String _text = "Edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T6Lwr";				String _text = "edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T6Tip";				String _text = "Una casa NMT de varios pisos (1ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:98"; }
+		{ String _name = "NMT3F1C1T7";				String _text = "Edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T7Lwr";				String _text = "edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T7Tip";				String _text = "Una casa NMT de varios pisos (1ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:98"; }
+		{ String _name = "NMT3F1C1T8";				String _text = "Edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T8Lwr";				String _text = "edificio de varios pisos - 1ª planta"; }
+		{ String _name = "NMT3F1C1T8Tip";				String _text = "Una casa NMT de varios pisos (1ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:72"; }
+		{ String _name = "NMT3F2C1T1";				String _text = "Edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T1Lwr";				String _text = "edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T1Tip";				String _text = "Una casa NMT de varios pisos (2ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:96"; }
+		{ String _name = "NMT3F2C1T2";				String _text = "Edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T2Lwr";				String _text = "edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T2Tip";				String _text = "Una casa NMT de varios pisos (2ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:96"; }
+		{ String _name = "NMT3F2C1T3";				String _text = "Edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T3Tip";				String _text = "Una casa NMT de varios pisos (2ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:110"; }
+		{ String _name = "NMT3F2C1T4";				String _text = "Edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T4Lwr";				String _text = "edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T4Tip";				String _text = "Una casa NMT de varios pisos (2ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:110"; }
+		{ String _name = "NMT3F2C1T5";				String _text = "Edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T5Lwr";				String _text = "edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T5Tip";				String _text = "Una casa NMT de varios pisos (2ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:104"; }
+		{ String _name = "NMT3F2C1T6";				String _text = "Edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T6Lwr";				String _text = "edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T6Tip";				String _text = "Una casa NMT de varios pisos (2ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:102"; }
+		{ String _name = "NMT3F2C1T7";				String _text = "Edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T7Lwr";				String _text = "edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T7Tip";				String _text = "Una casa NMT de varios pisos (2ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:102"; }
+		{ String _name = "NMT3F2C1T8";				String _text = "Edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T8Lwr";				String _text = "edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F2C1T8Tip";				String _text = "Una casa NMT de varios pisos (2ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:76"; }
+		{ String _name = "NMT3F2vT3Lwr";				String _text = "edificio de varios pisos - 2ª planta"; }
+		{ String _name = "NMT3F3C1T1";				String _text = "Edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T1Lwr";				String _text = "edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T1Tip";				String _text = "Una casa NMT de varios pisos (3ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:100"; }
+		{ String _name = "NMT3F3C1T2";				String _text = "Edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T2Lwr";				String _text = "edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T2Tip";				String _text = "Una casa NMT de varios pisos (3ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:100"; }
+		{ String _name = "NMT3F3C1T3";				String _text = "Edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T3Lwr";				String _text = "edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T3Tip";				String _text = "Una casa NMT de varios pisos (3ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:114"; }
+		{ String _name = "NMT3F3C1T4";				String _text = "Edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T4Lwr";				String _text = "edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T4Tip";				String _text = "Una casa NMT de varios pisos (3ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:114"; }
+		{ String _name = "NMT3F3C1T5";				String _text = "Edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T5Lwr";				String _text = "edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T5Tip";				String _text = "Una casa NMT de varios pisos (3ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:108"; }
+		{ String _name = "NMT3F3C1T6";				String _text = "Edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T6Lwr";				String _text = "edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T6Tip";				String _text = "Una casa NMT de varios pisos (3ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:106"; }
+		{ String _name = "NMT3F3C1T7";				String _text = "Edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T7Lwr";				String _text = "edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T7Tip";				String _text = "Una casa NMT de varios pisos (3ª planta) se usa para alojar a tus ciudadanos Combustible por Recurso:106."; }
+		{ String _name = "NMT3F3C1T8";				String _text = "Edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T8Lwr";				String _text = "edificio de varios pisos - 3ª planta"; }
+		{ String _name = "NMT3F3C1T8Tip";				String _text = "Una casa NMT de varios pisos (3ª planta) se usa para alojar a tus ciudadanos. Combustible por Recurso:80"; }
+
 	]
 }
 

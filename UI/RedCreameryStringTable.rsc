@@ -28,6 +28,13 @@ StringTable resource
 		{ String _name = "ProfessionDairymanTip";		String _text = "Un lechero lleva leche a una lechería y hace yogur, crema y queso."; }
 		{ String _name = "ProfessionDairymanDeath";		String _text = "bebio leche en mal estado y murió."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "MilkyCows";				String _text = "Vacas lecheras"; }
+		{ String _name = "RedCreamery";				String _text = "[RC] Lechería Red"; }
+		{ String _name = "RedCreameryLwr";				String _text = "[rc] lechería red"; }
+		{ String _name = "RedCreameryTip";				String _text = "La Lechería Red puede elaborar queso, nata, mantequilla y yogur. Consume 48 de madera y 12 de piedra."; }
+
 	]
 }
 

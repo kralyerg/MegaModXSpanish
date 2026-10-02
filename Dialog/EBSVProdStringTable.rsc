@@ -134,5 +134,26 @@ StringTable resource
 		{ String _name = "SeedOilPecanRequire";							String _text = "Aceite de Semillas [25 Pacana + 1 Ánfora]"; }
 		{ String _name = "SeedOilWalnutRequire";						String _text = "Aceite de Semillas [25 Nuez + 1 Ánfora]"; }
 		{ String _name = "VegetableOilSunflowerRequire";				String _text = "Aceite Vegetal [25 Granos + 1 Ánfora]"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Brick";				String _text = "Ladrillo"; }
+		{ String _name = "Charcoal";				String _text = "Carbón Vegetal"; }
+		{ String _name = "Custom5Limit";				String _text = "Límite de Construcción"; }
+		{ String _name = "Custom5LimitShort";				String _text = "Construcción"; }
+		{ String _name = "Custom5LimitTip";				String _text = "Controla la cantidad de materiales de construcción almacenados. Una vez alcanzado este límite, la producción cesará."; }
+		{ String _name = "EBSVBrickCharCoalRequire";				String _text = "Ladrillo [10 Arcilla + 3 Carbón Vegetal]"; }
+		{ String _name = "EBSVBrickCoalRequire";				String _text = "Ladrillo [10 Arcilla + 3 Carbón]"; }
+		{ String _name = "EBSVGlassCharCoalRequire";				String _text = "Vidrio [23 Arena + 3 Carbón Vegetal]"; }
+		{ String _name = "EBSVGlassCoalRequire";				String _text = "Vidrio [23 Arena + 3 Carbón]"; }
+		{ String _name = "EBSVLumberRequire";				String _text = "Madera [4 Troncos]"; }
+		{ String _name = "EBSVWorkShop";				String _text = "Taller del Pueblo"; }
+		{ String _name = "EBSVWorkShopLwr";				String _text = "taller del pueblo"; }
+		{ String _name = "EBSVWorkShopTip";				String _text = "El Taller del Pueblo produce Ladrillos, Vidrio y Madera. Se pueden emplear hasta 2 Artesanos para producir de 6 a 8 Ladrillos a partir de 10 Arcilla y 3 Carbón o 3 Carbón Vegetal. De 7 a 8 Vidrio a partir de 23 Arena y 3 Carbón o 3 Carbón Vegetal. De 4 a 5 Madera a partir de 4 troncos. Ciclos de Construcción: 94. 2 Variaciones de Color con Tecla F."; }
+		{ String _name = "Glass";				String _text = "Vidrio"; }
+		{ String _name = "Lumber";				String _text = "Madera"; }
+		{ String _name = "ProfessionCraftsman";				String _text = "Artesano"; }
+		{ String _name = "ProfessionCraftsmanDeath";				String _text = "fue aplastado por una pila de ladrillos que se derrumbó."; }
+		{ String _name = "ProfessionCraftsmanTip";				String _text = "El Artesano produce Vidrio, Ladrillos y Madera en el Taller."; }
+
 	]
 }		

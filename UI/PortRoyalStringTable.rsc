@@ -230,9 +230,9 @@ StringTable resource
 
 	// #### Materials ####
 
-		{ String _name = "Charcoal";					String _text = "Carbon Vegetal"; }
+		{ String _name = "Charcoal";					String _text = "Carbón Vegetal"; }
 		{ String _name = "IronOre";					String _text = "Mineral de Hierro"; }
-		{ String _name = "Firewood";					String _text = "Lena"; }
+		{ String _name = "Firewood";					String _text = "Leña"; }
 		{ String _name = "Lumber";					String _text = "Madera Aserrada"; }
 		{ String _name = "PineBough";					String _text = "Rama de Pino"; }
 		{ String _name = "PinePitch";					String _text = "Brea de Pino"; }

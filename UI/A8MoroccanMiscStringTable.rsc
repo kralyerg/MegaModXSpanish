@@ -30,8 +30,8 @@ StringTable resource
 		{ String _name = "CasablancaMosqueLwr";				String _text = "Mezquita de Casablanca"; }
 		{ String _name = "CasablancaMosqueTip";				String _text = "Una mezquita elegante que requiere mucho para construirse. Proporciona felicidad"; }
 
-		{ String _name = "ProfessionPriest";				String _text = "Clerigo"; }
-		{ String _name = "ProfessionPriestTip";				String _text = "Los Clerigos mantienen los edificios religiosos y traen felicidad a los ciudadanos."; }
+		{ String _name = "ProfessionPriest";				String _text = "Clérigo"; }
+		{ String _name = "ProfessionPriestTip";				String _text = "Los Clérigos mantienen los edificios religiosos y traen felicidad a los ciudadanos."; }
 		{ String _name = "ProfessionPriestDeath";			String _text = "fue alcanzado por un rayo."; }
 
 		{ String _name = "ChefchaouenSynagogue";			String _text = "Sinagoga de Chefchaouen"; }

@@ -29,7 +29,7 @@ StringTable resource
 
 		{ String _name = "ABPWoodCutter";		String _text = "Lenador"; }
 		{ String _name = "ABPWoodCutterLwr";		String _text = "lenador"; }
-		{ String _name = "ABPWoodCutterTip";		String _text = "Produce lena."; }
+		{ String _name = "ABPWoodCutterTip";		String _text = "Produce leña."; }
 
 		{ String _name = "ABPAnimalPen";		String _text = "Corral de Animales"; }
 		{ String _name = "ABPAnimalPenLwr";		String _text = "corral de animales"; }

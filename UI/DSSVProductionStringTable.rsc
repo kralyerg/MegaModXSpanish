@@ -365,6 +365,24 @@ StringTable graphTypes
 		{ String _name = "Type20";			String _text = "Varios"; }
 		{ String _name = "Type21";			String _text = "Reservado"; }
 		{ String _name = "Type22";			String _text = "Reservado"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "CandlesBeeswaxRequire";				String _text = "4-5 Velas (3 Cera de Abeja + 1 Leña)"; }
+		{ String _name = "CandlesTallowRequire";				String _text = "4-5 Velas (3 Sebo + 1 Leña)"; }
+		{ String _name = "CopperToolRequire";				String _text = "1-2 Herramientas de Cobre (1 Cobre + 1 Tronco)"; }
+		{ String _name = "DSSVBannock1Require";				String _text = "18-20 Bannocks (17 Trigo + 1 Agua)"; }
+		{ String _name = "DSSVBannock2Require";				String _text = "18-20 Bannocks (17 Maíz + 1 Agua)"; }
+		{ String _name = "DSSVPasture1";				String _text = "Pastizal de Aldea, valla de troncos"; }
+		{ String _name = "DSSVPasture1Lwr";				String _text = "pastizal de aldea con valla de troncos"; }
+		{ String _name = "DSSVPasture1Tip";				String _text = "Un Pastizal cercado con troncos para el ganado. Una textura de suelo semitransparente. Tamaño de parcela = 7x7 mín - 34x34 máx. 1 Tronco + 1 de trabajo para construir por parcela."; }
+		{ String _name = "DSSVProdRemoveButton";				String _text = "Eliminar"; }
+		{ String _name = "DSSVProdRemoveButtonLwr";				String _text = "eliminar"; }
+		{ String _name = "DSSVProdRemoveButtonTip";				String _text = "Eliminar"; }
+		{ String _name = "FishingGearRequireCopper";				String _text = "7-8 Herramientas:Pescador (1 Cobre + 3 Troncos)"; }
+		{ String _name = "HuntingGearRequireCopper";				String _text = "7-8 Herramientas:Cazador (1 Cobre + 3 Troncos)"; }
+		{ String _name = "ToolStonecutterRequire";				String _text = "5-8 Herramientas:Cantero (1 Hierro + 1 Carbón Vegetal + 1 Tronco)"; }
+		{ String _name = "WagonPartsRequire";				String _text = "1-2 Piezas de Carreta (5 Troncos + 2 Hierro)"; }
+
 	]
 }
 

@@ -225,5 +225,47 @@ StringTable resource
 		{ String _name = "MerchantSVIndustry";			String _text = "Mercader Industrial"; }		//All construction and materials.
 		
 		
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ClearCopper";				String _text = "Recolectar Mineral de Cobre"; }
+		{ String _name = "ClearCopperLwr";				String _text = "recolectar mineral de cobre"; }
+		{ String _name = "ClearCopperTip";				String _text = "Recolecta todo el mineral de cobre en el área seleccionada."; }
+		{ String _name = "Copper";				String _text = "Cobre"; }
+		{ String _name = "CopperOre";				String _text = "Mineral de Cobre"; }
+		{ String _name = "CopperOreRequire";				String _text = "Mineral de Cobre"; }
+		{ String _name = "Custom5Limit";				String _text = "Límite de Construcción"; }
+		{ String _name = "Custom5LimitShort";				String _text = "construcciont"; }
+		{ String _name = "Custom5LimitTip";				String _text = "Controla la cantidad de Materiales de Construcción almacenados. Una vez alcanzado este límite, la producción cesará."; }
+		{ String _name = "EBSVHousing4x4Dark";				String _text = "Barra de herramientas de Casas de Madera Oscura 4x4"; }
+		{ String _name = "EBSVHousing4x4DarkLwr";				String _text = "barra de herramientas de casas de madera oscura 4x4"; }
+		{ String _name = "EBSVHousing4x4DarkTip";				String _text = "Barra de herramientas de Casas de Madera del Pueblo 4x4 de Color Oscuro."; }
+		{ String _name = "EBSVHousing4x4Light";				String _text = "Barra de herramientas de Casas de Madera Clara 4x4"; }
+		{ String _name = "EBSVHousing4x4LightLwr";				String _text = "barra de herramientas de casas de madera clara 4x4"; }
+		{ String _name = "EBSVHousing4x4LightTip";				String _text = "Barra de herramientas de Casas de Madera del Pueblo 4x4 de Color Claro."; }
+		{ String _name = "EBSVHousing4x4Warm";				String _text = "Barra de herramientas de Casas de Madera Media 4x4"; }
+		{ String _name = "EBSVHousing4x4WarmLwr";				String _text = "barra de herramientas de casas de madera media 4x4"; }
+		{ String _name = "EBSVHousing4x4WarmTip";				String _text = "Barra de herramientas de Casas de Madera del Pueblo 4x4 de Color Medio."; }
+		{ String _name = "EBSVHousingDark3x4A";				String _text = "Casa de Madera Oscura 3x4"; }
+		{ String _name = "EBSVHousingDark3x4ALwr";				String _text = "casa de madera oscura 3x4"; }
+		{ String _name = "EBSVHousingDark3x4ATip";				String _text = "La Casa de Madera del Pueblo 3x4 de Color Oscuro brinda un lugar para que los ciudadanos vivan, coman, almacenen alimentos y se mantengan abrigados. Hasta 4 personas pueden vivir en la Casa de Madera. Almacenamiento: 900. Ciclos de Construcción: 24. 5 Variantes de Techo de Paja con Tecla F."; }
+		{ String _name = "EBSVHousingLight3x4A";				String _text = "Casa de Madera Clara 3x4"; }
+		{ String _name = "EBSVHousingLight3x4ALwr";				String _text = "casa de madera clara 3x4"; }
+		{ String _name = "EBSVHousingLight3x4ATip";				String _text = "La Casa de Madera del Pueblo 3x4 de Color Claro brinda un lugar para que los ciudadanos vivan, coman, almacenen alimentos y se mantengan abrigados. Hasta 4 personas pueden vivir en la Casa de Madera. Almacenamiento: 900. Ciclos de Construcción: 24. 5 Variantes de Techo de Paja con Tecla F."; }
+		{ String _name = "EBSVHousingWarm3x4A";				String _text = "Casa de Madera Media 3x4"; }
+		{ String _name = "EBSVHousingWarm3x4ALwr";				String _text = "casa de madera media 3x4"; }
+		{ String _name = "EBSVHousingWarm3x4ATip";				String _text = "La Casa de Madera del Pueblo 3x4 de Color Medio brinda un lugar para que los ciudadanos vivan, coman, almacenen alimentos y se mantengan abrigados. Hasta 4 personas pueden vivir en la Casa de Madera. Almacenamiento: 900. Ciclos de Construcción: 24. 5 Variantes de Techo de Paja con Tecla F."; }
+		{ String _name = "SVOreToCopperCharcoalRequire";				String _text = "Cobre [2 Mineral de Cobre + 1 Carbón Vegetal]"; }
+		{ String _name = "SVOreToCopperCoalRequire";				String _text = "Cobre [2 Mineral de Cobre + 1 Carbón]"; }
+		{ String _name = "SVOreToCopperFirewoodRequire";				String _text = "Cobre [2 Mineral de Cobre + 2 Leña]"; }
+		{ String _name = "ToolbarEBSVHousing3x4Dark";				String _text = "Barra de herramientas de Casas de Madera Oscura 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4DarkLwr";				String _text = "barra de herramientas de casas de madera oscura 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4DarkTip";				String _text = "Barra de herramientas de Casas de Madera del Pueblo 3x4 de Color Oscuro 3x4."; }
+		{ String _name = "ToolbarEBSVHousing3x4Light";				String _text = "Barra de herramientas de Casas de Madera Clara 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4LightLwr";				String _text = "barra de herramientas de casas de madera clara 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4LightTip";				String _text = "Barra de herramientas de Casas de Madera del Pueblo 3x4 de Color Claro."; }
+		{ String _name = "ToolbarEBSVHousing3x4Warm";				String _text = "Barra de herramientas de Casas de Madera Media 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4WarmLwr";				String _text = "barra de herramientas de casas de madera media 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4WarmTip";				String _text = "Barra de herramientas de Casas de Madera del Pueblo 3x4 de Color Medio 3x4."; }
+
 	]
 }

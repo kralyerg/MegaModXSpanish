@@ -13,5 +13,9 @@ StringTable resource
 		{ String _name = "RemoveItemLwr";				String _text = "Quitar Elemento"; }
 		{ String _name = "RemoveItemTip";				String _text = "Elimina este elemento"; }
 		{ String _name = "RemoveItemUpgradeTip";			String _text = "Elimina este elemento"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Tea";				String _text = "Té"; }
+
 	]
 }

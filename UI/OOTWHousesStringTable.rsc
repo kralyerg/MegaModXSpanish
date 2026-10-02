@@ -92,7 +92,7 @@ StringTable resource
 		{ String _name = "OOTWGreenhouseTip";		String _text = "Cultivo en capsula hidroponica."; }
 		{ String _name = "OOTWBeanRequire";		String _text = "Frijol"; }
 		{ String _name = "OOTWCabbageRequire";		String _text = "Repollo"; }
-		{ String _name = "OOTWCornRequire";		String _text = "Maiz"; }
+		{ String _name = "OOTWCornRequire";		String _text = "Maíz"; }
 		{ String _name = "OOTWPepperRequire";		String _text = "Pimiento"; }
 		{ String _name = "OOTWPotatoRequire";		String _text = "Papa"; }
 		{ String _name = "OOTWPumpkinRequire";		String _text = "Calabaza"; }

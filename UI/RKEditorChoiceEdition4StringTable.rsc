@@ -403,6 +403,14 @@ StringTable resource
 
 // -------------------------------------------------------------------------------------------------------------
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "NMTReedsFarm";				String _text = "Granja de Juncos"; }
+		{ String _name = "NMTReedsFarmLwr";				String _text = "granja de juncos"; }
+		{ String _name = "NMTReedsFarmRequire";				String _text = "Juncos"; }
+		{ String _name = "NMTReedsFarmTip";				String _text = "Granja de Juncos de Muelle NMT: un lugar de trabajo donde se pueden cultivar juncos en tu zona de Muelles. Tamaño: 6x7. Costo: 36 troncos. Emplea 1-3 Granjeros. Consejos: No requiere semillas. Por favor, mantén libre el frente de este edificio para sus sacos de comida y no lo uses como muelle de paso."; }
+		{ String _name = "Rice";				String _text = "Arroz"; }
+
 	]
 }
 

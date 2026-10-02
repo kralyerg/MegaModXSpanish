@@ -188,7 +188,7 @@ StringTable resource
 		{ String _name = "MFPatchFlaxTip";			String _text = "Construye una parcela de lino con riego."; }
 
 		{ String _name = "NMWater";				String _text = "Agua"; }
-		{ String _name = "Corn";				String _text = "Maiz"; }
+		{ String _name = "Corn";				String _text = "Maíz"; }
 		{ String _name = "Pepper";				String _text = "Pimiento"; }
 		{ String _name = "Tomato";				String _text = "Tomate"; }
 		{ String _name = "Cotton";				String _text = "Algodon"; }

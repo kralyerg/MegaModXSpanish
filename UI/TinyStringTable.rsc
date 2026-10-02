@@ -557,6 +557,10 @@ StringTable resource
 		{ String _name = "ProfessionMiller";			String _text = "Molinero"; }
 		{ String _name = "ProfessionMillerTip";			String _text = "El molinero opera el molino y muele granos para hacer harina."; }
 		{ String _name = "ProfessionMillerDeath";		String _text = "cayó desde una gran altura."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "buttonSizeTip";				String _text = "Minimiza la ventana de tu pequeño ayuntamiento"; }
+
 	]
 }
 

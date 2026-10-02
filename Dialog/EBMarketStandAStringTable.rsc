@@ -37,5 +37,11 @@ StringTable resource
 		{ String _name = "EBFarmStand";						String _text = "Puesto de Granja"; }
 		{ String _name = "EBFarmStandLwr";					String _text = "puesto de granja"; }
 		{ String _name = "EBFarmStandTip";					String _text = "El Puesto de Granja se usa para proporcionar un área local donde los ciudadanos puedan recoger comida, combustible, herramientas, Textiles, Telas y ropa. Se pueden emplear hasta 2 Vendedores. Ciclo de Construcción: 32."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ToolbarMarkets";				String _text = "Barra de herramientas de Mercados"; }
+		{ String _name = "ToolbarMarketsLwr";				String _text = "barra de herramientas de mercados"; }
+		{ String _name = "ToolbarMarketsTip";				String _text = "Barra de herramientas de Mercados."; }
+
 	]
 }

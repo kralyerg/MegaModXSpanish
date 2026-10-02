@@ -173,5 +173,9 @@ StringTable merchant
 		{ String _name = "MerchantTSMaterials";			String _text = "Materiales TS"; }				//Wood Stone Iron Fuel Tool Health Custom3
 		{ String _name = "MerchantDSTradingCo";			String _text = "Cia. Comercial DS"; }				//Wood Stone Iron Fuel Tool Textile Clothing CoalFuel Custom0 Custom1 Custom2 Custom3 Custom4 Custom5 Custom7
 		{ String _name = "MerchantDSTradingCoGoods";	String _text = "Cia. Comercial de Bienes"; }			//Custom0 Custom1 Custom2 Textiles Tool Clothing
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "CoalBPMineRequire";				String _text = "24-32 Carbón"; }
+
 	]
 }

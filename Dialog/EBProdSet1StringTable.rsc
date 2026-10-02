@@ -88,5 +88,19 @@ StringTable resource
 		{ String _name = "Custom0Limit";							String _text = "Límite de Artesanías"; }
 		{ String _name = "Custom0LimitShort";						String _text = "Artesanías"; }
 		{ String _name = "Custom0LimitTip";							String _text = "Controla la cantidad de artículos artesanales almacenados. Una vez alcanzado este límite, la producción se detendrá."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Barley";				String _text = "Cebada"; }
+		{ String _name = "Bread";				String _text = "Pan"; }
+		{ String _name = "Cake";				String _text = "Pastel"; }
+		{ String _name = "Flour";				String _text = "Harina"; }
+		{ String _name = "LeatherCured";				String _text = "Cuero Curtido"; }
+		{ String _name = "NMWater";				String _text = "Agua"; }
+		{ String _name = "Pie";				String _text = "Tarta"; }
+		{ String _name = "Pouch";				String _text = "Bolsa"; }
+		{ String _name = "Saddle";				String _text = "Silla de Montar"; }
+		{ String _name = "Salt";				String _text = "Sal"; }
+		{ String _name = "Sorghum";				String _text = "Sorgo"; }
+
 	]
 }

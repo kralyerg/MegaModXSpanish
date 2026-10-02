@@ -160,5 +160,104 @@ StringTable resource
 		{ String _name = "DSThompsonTradeDecoBalePole";			String _text = "Bala de Heno"; }
 		{ String _name = "DSThompsonTradeDecoBalePoleLwr";		String _text = "muelle comercial thompson"; }
 		{ String _name = "DSThompsonTradeDecoBalePoleTip";		String _text = "Una bala de heno decorativa fantasma. Gratis de construir. Elimínalo desde el menú UI del objeto."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "AnimalsUpLeftTxt01";				String _text = "Opción de mejora"; }
+		{ String _name = "AnimalsUpLeftTxt02";				String _text = "mejora a un lugar de almacenamiento."; }
+		{ String _name = "AnimalsUpLeftTxt03";				String _text = "todos los alimentos y comestibles,"; }
+		{ String _name = "AnimalsUpLeftTxt04";				String _text = "(fruta, vegetal, grano, proteína),"; }
+		{ String _name = "AnimalsUpLeftTxt05";				String _text = "herramientas y ropa, vidrio,"; }
+		{ String _name = "AnimalsUpLeftTxt06";				String _text = "bienes artesanales y utensilios,"; }
+		{ String _name = "AnimalsUpLeftTxt07";				String _text = "hierbas y medicina, textiles y"; }
+		{ String _name = "AnimalsUpLeftTxt08";				String _text = "telas y bienes empaquetados."; }
+		{ String _name = "DSThompsonTradeDeco01Fish";				String _text = "muelle de pesca"; }
+		{ String _name = "DSThompsonTradeDeco01FishLwr";				String _text = "muelle comercial thompson"; }
+		{ String _name = "DSThompsonTradeDeco01FishTip";				String _text = "Se permite pescar en esta ubicación, mejora para permitir que 1-2 pescadores trabajen desde el muelle. Requiere 34 de trabajo para construir."; }
+		{ String _name = "DSThompsonTradeDecoGhost";				String _text = "muelle fantasma 1x1"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnr";				String _text = "muelle fantasma esquina"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnrLwr";				String _text = "muelle comercial thompson"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnrTip";				String _text = "un triángulo de esquina decorativo fantasma del muelle Thompson Trade. 1x1, variantes con tecla F. Gratis de construir. Elimínalo a través del menú UI del objeto."; }
+		{ String _name = "DSThompsonTradeDecoGhostLow";				String _text = "muelle fantasma 1x1 bajo"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnr";				String _text = "muelle fantasma esquina baja"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnrLwr";				String _text = "muelle comercial thompson"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnrTip";				String _text = "un triángulo de esquina decorativo fantasma del muelle Thompson Trade a nivel inferior. 1x1, variantes con tecla F. Gratis de construir. Elimínalo a través del menú UI del objeto."; }
+		{ String _name = "DSThompsonTradeDecoGhostLowLwr";				String _text = "muelle comercial thompson"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowTip";				String _text = "una pieza decorativa fantasma del muelle Thompson Trade a nivel inferior. 1x1. Gratis de construir. Elimínala a través del menú UI del objeto."; }
+		{ String _name = "DSThompsonTradeDecoGhostLwr";				String _text = "muelle comercial thompson"; }
+		{ String _name = "DSThompsonTradeDecoGhostMenu";				String _text = "Piezas decorativas fantasma del muelle"; }
+		{ String _name = "DSThompsonTradeDecoGhostTip";				String _text = "una pieza decorativa fantasma del muelle Thompson Trade. 1x1. Gratis de construir. Elimínala a través del menú UI del objeto."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorage";				String _text = "Almacenamiento: Alimentos y Bienes"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorageLwr";				String _text = "almacenamiento comercial thompson"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorageTip";				String _text = "Almacén del Mercader Thompson Trade. Almacena todos los alimentos y comestibles, herramientas, ropa, bienes artesanales y utensilios, vidrio, textiles y telas, hierbas y medicina, y bienes empaquetados. El edificio tiene una capacidad de 30.000 de peso. Huella de 10x8. Requiere 144 de trabajo para construir."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxt1";				String _text = "ganado domesticado, criado a mano,"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxt2";				String _text = "para los animales más sanos y productivos."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxtName";				String _text = "Muelle de Ganado"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUp";				String _text = "Almacenamiento: Alimentos y Bienes"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUpLwr";				String _text = "almacenamiento comercial thompson"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUpTip";				String _text = "mejora el comerciante a un lugar de almacenamiento. Almacena todos los alimentos y comestibles, herramientas, ropa, bienes artesanales y utensilios, vidrio, textiles y telas, hierbas y medicina, y bienes empaquetados. El edificio tiene una capacidad de 30.000 de peso. Huella de 10x8. Requiere 89 de trabajo para construir."; }
+		{ String _name = "DSThompsonTradeMerchantBSTxt1";				String _text = "troncos y madera, piedra, hierro y metales,"; }
+		{ String _name = "DSThompsonTradeMerchantBSTxt2";				String _text = "materiales de construcción y objetos forjados."; }
+		{ String _name = "DSThompsonTradeMerchantBSTxtName";				String _text = "Muelle de Suministros de Construcción"; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxt1";				String _text = "frutas, vegetales y granos."; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxt2";				String _text = "siempre frescos y entregas a tiempo."; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxtName";				String _text = "Muelle de Fruta, Vegetal y Grano"; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxt1";				String _text = "combustibles domésticos y metalúrgicos."; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxt2";				String _text = "entregas regulares, siempre a tiempo."; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxtName";				String _text = "Muelle de Combustibles"; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxt1";				String _text = "herramientas, ropa, textiles y telas,"; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxt2";				String _text = "salud, objetos artesanales y forjados."; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxtName";				String _text = "Muelle de Bienes y Artesanías"; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxt1";				String _text = "todos los minerales: menas y materiales,"; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxt2";				String _text = "mena de hierro, cal, arena y arcilla."; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxtName";				String _text = "Muelle de Menas y Materiales"; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxt1";				String _text = "los cortes más frescos de carne, aves,"; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxt2";				String _text = "frutos secos y otras proteínas."; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxtName";				String _text = "Muelle de Carnes y Frutos Secos"; }
+		{ String _name = "DSThompsonTradeMerchantRoad";				String _text = "Camino de Piedra del Mercader Thompson Trade"; }
+		{ String _name = "DSThompsonTradeMerchantRoad01";				String _text = "Camino de Piedra TTM N-S"; }
+		{ String _name = "DSThompsonTradeMerchantRoad01Tip";				String _text = "una textura de camino ideal Norte-Sur, 1 Piedra + 2 de trabajo para construir por parcela. Viaje más rápido para los ciudadanos."; }
+		{ String _name = "DSThompsonTradeMerchantRoad02";				String _text = "Camino de Piedra TTM NE-SO"; }
+		{ String _name = "DSThompsonTradeMerchantRoad02Tip";				String _text = "una textura de camino ideal Noreste-Suroeste, 1 Piedra + 2 de trabajo para construir por parcela. Viaje más rápido para los ciudadanos."; }
+		{ String _name = "DSThompsonTradeMerchantRoad03";				String _text = "Camino de Piedra TTM E-O"; }
+		{ String _name = "DSThompsonTradeMerchantRoad03Tip";				String _text = "una textura de camino ideal Este-Oeste, 1 Piedra + 2 de trabajo para construir por parcela. Viaje más rápido para los ciudadanos."; }
+		{ String _name = "DSThompsonTradeMerchantRoad04";				String _text = "TTM Camino de Piedra NO-SE"; }
+		{ String _name = "DSThompsonTradeMerchantRoad04Tip";				String _text = "una textura de camino ideal para Noroeste-Sureste, 1 Piedra + 2 Trabajo para construir por casilla. Viaje más rápido para los ciudadanos."; }
+		{ String _name = "DSThompsonTradeMerchantRoadLwr";				String _text = "camino de piedra del mercader comercial thompson"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxt1";				String _text = "las mejores semillas de cultivos y huertos,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxt2";				String _text = "pureza y germinación garantizadas."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxtName";				String _text = "Muelle de semillas"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1";				String _text = "Pequeño comerciante"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Tip";				String _text = "mejora al Pequeño Mercader Comercial Thompson, para importar todos los alimentos, combustibles domésticos, herramientas, hierbas y artículos de salud. Los comerciantes aceptarán la mayoría del inventario como pago. El edificio tiene una capacidad de peso de 12,000. Huella de 3x8. Emplea de 1 a 5 Comerciantes. Requiere 34 de trabajo para construir."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Txt1";				String _text = "fruta, verdura, grano, carne y frutos secos,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Txt2";				String _text = "combustible, herramientas, hierbas y artículos de salud."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1TxtName";				String _text = "Muelle de pequeño comercio"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2";				String _text = "Pequeño comerciante"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Tip";				String _text = "mejora al Pequeño Mercader Comercial Thompson, para importar todos los alimentos, combustibles domésticos, ropa, hierbas y artículos de salud. Los comerciantes aceptarán la mayoría del inventario como pago. El edificio tiene una capacidad de peso de 12,000. Huella de 3x8. Emplea de 1 a 5 Comerciantes. Requiere 34 de trabajo para construir."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Txt1";				String _text = "fruta, verdura, grano, carne y frutos secos,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Txt2";				String _text = "combustible, ropa, hierbas y artículos de salud."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2TxtName";				String _text = "Muelle de pequeño comercio"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt0";				String _text = "Mercader Comercial del Pueblo, importadores"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt1";				String _text = "de todo lo que necesita el pueblo: alimentos, herramientas,"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt2";				String _text = " ropa, combustible, medicina y más."; }
+		{ String _name = "DSThompsonTradeMerchantTownTxtName";				String _text = "Muelle de comestibles y bienes"; }
+		{ String _name = "DeleteButtonTip";				String _text = "Eliminar esta pieza del muelle"; }
+		{ String _name = "DisableFishWork";				String _text = "No pescando"; }
+		{ String _name = "EnableFishWork";				String _text = "Pescando ahora"; }
+		{ String _name = "FishingGear";				String _text = "Equipo de pesca"; }
+		{ String _name = "SeedUpLeftTxt01";				String _text = "Opción de mejora #1"; }
+		{ String _name = "SeedUpLeftTxt03";				String _text = "todos los alimentos y comestibles"; }
+		{ String _name = "SeedUpLeftTxt04";				String _text = "(fruta, verdura, grano, proteína),"; }
+		{ String _name = "SeedUpLeftTxt05";				String _text = "combustibles domésticos, herramientas y"; }
+		{ String _name = "SeedUpLeftTxt06";				String _text = "hierbas y artículos de salud. "; }
+		{ String _name = "SeedUpRightTxt01";				String _text = "Opción de mejora #2"; }
+		{ String _name = "SeedUpRightTxt03";				String _text = "todos los alimentos y comestibles"; }
+		{ String _name = "SeedUpRightTxt04";				String _text = "(fruta, verdura, grano, proteína),"; }
+		{ String _name = "SeedUpRightTxt05";				String _text = "combustibles domésticos, ropa y"; }
+		{ String _name = "SeedUpRightTxt06";				String _text = "hierbas y artículos de salud. "; }
+		{ String _name = "SeedUpTxt02";				String _text = "el mercader importará:"; }
+		{ String _name = "TotalAnimalBuy";				String _text = "Comprar ganado del comerciante -- Costo total:"; }
+		{ String _name = "TotalSeedBuy";				String _text = "Comprar semillas del comerciante -- Costo total:"; }
+		{ String _name = "Upgrade";				String _text = "Mejorar"; }
+
 	]
 }

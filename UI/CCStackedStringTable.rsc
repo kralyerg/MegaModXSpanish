@@ -150,7 +150,7 @@ StringTable resource
 		{ String _name = "ToolRequire";				String _text = "Herramienta de Hierro [1 Tronco + 1 Hierro]"; }
 		{ String _name = "SteelToolRequire";			String _text = "Herramienta de Acero [1 Tronco + 1 Hierro + 1 Carbon]"; }
 
-		{ String _name = "FirewoodRequire";			String _text = "Lena [1 Tronco]"; }
+		{ String _name = "FirewoodRequire";			String _text = "Leña [1 Tronco]"; }
 
 
 	]

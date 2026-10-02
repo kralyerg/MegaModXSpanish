@@ -23,5 +23,9 @@ StringTable resource
 		{ String _name = "MaritimesToolShedLwr";				String _text = "cobertizo de herramientas"; }
 		{ String _name = "MaritimesToolShedTip";				String _text = "Un cobertizo de herramientas, 5 variantes F, capacidad de 200 unidades. Almacena herramientas."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Lumber";				String _text = "Madera"; }
+
 	]	
 }
