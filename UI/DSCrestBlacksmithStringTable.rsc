@@ -15,5 +15,11 @@ StringTable resource
 		
 		
 		
+	
+		{ String _name = "FishingGear";	String _text = "Equipo de Pesca"; }
+		{ String _name = "FishingGearRequire";	String _text = "8 Equipo de Pesca [3 Troncos + 1 Hierro]"; }
+		{ String _name = "Custom0Limit";	String _text = "Límite de Fabricación"; }
+		{ String _name = "Custom0LimitShort";	String _text = "Fabricado"; }
+		{ String _name = "Custom0LimitTip";	String _text = "Controla la cantidad de artículos fabricados almacenados. Una vez alcanzado este límite, la producción se detendrá."; }
 	]
 }

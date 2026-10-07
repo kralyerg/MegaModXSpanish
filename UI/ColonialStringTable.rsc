@@ -779,6 +779,7 @@ StringTable resource
 	//Wood house is here
 
 		{ String _name = "Tinyhouse";					String _text = "Casa Diminuta"; }
+		{ String _name = "TinyhouseLwr";					String _text = "casa diminuta"; }
 		{ String _name = "TinyshackLwr";				String _text = "casa diminuta"; }
 		{ String _name = "TinyhouseTip";				String _text = "Una vivienda pequeña y basica que permite a nuevas familias crecer hasta un maximo de 4 personas. Sin embargo, una familia existente de cualquier tamaño puede mudarse aqui si es reubicada. Más calida y comoda que una choza diminuta."; }
 		

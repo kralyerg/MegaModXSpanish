@@ -166,6 +166,7 @@ StringTable resource
 		{ String _name = "TinyshackTip";					String _text = "Una vivienda pequeña y básica que permitirá a las nuevas familias crecer hasta un máximo de 3 personas. Sin embargo, una familia existente de cualquier tamaño puede mudarse aquí si está siendo reubicada."; }
 		
 		{ String _name = "Tinyhouse";						String _text = "Casa Diminuta"; }
+		{ String _name = "TinyhouseLwr";						String _text = "casa diminuta"; }
 		{ String _name = "TinyshackLwr";					String _text = "casa diminuta"; }
 		{ String _name = "TinyhouseTip";					String _text = "Una vivienda pequeña y básica que permitirá a las nuevas familias crecer hasta un máximo de 4 personas. Sin embargo, una familia existente de cualquier tamaño puede mudarse aquí si está siendo reubicada. Más cálida y cómoda que una choza diminuta."; }
 		
@@ -363,6 +364,7 @@ StringTable resource
 		{ String _name = "IronMineDeepTip";					String _text = "Una mina profunda para continuar la extracción de recursos. Útil para mejorar cuando tu mina actual está casi vacía."; }
 
 		{ String _name = "IronMineDeeper";					String _text = "Mina Profunda"; }
+		{ String _name = "IronMineDeeperTip";					String _text = "Una mina aún más profunda para continuar la extracción de recursos. Útil para mejorar cuando tu mina actual está casi vacía."; }
 		{ String _name = "IronMineDeeperLwr";					String _text = "mina profunda"; }
 		{ String _name = "IronMineDeepTip";					String _text = "Una mina aún más profunda para continuar la extracción de recursos. Útil para mejorar cuando tu mina actual está casi vacía."; }
 
@@ -371,6 +373,7 @@ StringTable resource
 		{ String _name = "QuarryDeepTip";					String _text = "Una cantera profunda para continuar la extracción de recursos. Útil para mejorar cuando tu cantera actual está casi vacía."; }
 
 		{ String _name = "QuarryDeeper";					String _text = "Cantera Más Profunda"; }
+		{ String _name = "QuarryDeeperTip";					String _text = "Una cantera aún más profunda para continuar la extracción de recursos. Útil para mejorar cuando tu cantera actual está casi vacía."; }
 		{ String _name = "QuarryDeeperLwr";					String _text = "cantera más profunda"; }
 		{ String _name = "QuarryDeepTip";					String _text = "Una cantera aún más profunda para continuar la extracción de recursos. Útil para mejorar cuando tu cantera actual está casi vacía."; }
 

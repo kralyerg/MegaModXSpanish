@@ -941,6 +941,7 @@ StringTable resource
 		{ String _name = "NMT3F2C1T2Tip";		String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residencia: 5 ciudadanos. Efic. de Calor%: 96. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1."; }
 
 		{ String _name = "NMT3F2C1T3";			String _text = "Piso Multinivel 2"; }
+		{ String _name = "NMT3F2C1T3Lwr";			String _text = "piso multinivel 2"; }
 		{ String _name = "NMT3F2vT3Lwr";		String _text = "piso multinivel 2"; }
 		{ String _name = "NMT3F2C1T3Tip";		String _text = "El Piso Multinivel 2 se usa para alojar a tus ciudadanos. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residencia: 5 ciudadanos. Efic. de Calor%: 110. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Piso Multinivel 1."; }
 
@@ -1044,6 +1045,7 @@ StringTable resource
 		{ String _name = "HostelF2C1T2Tip";			String _text = "El Hostal 2do piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 16 madera, 28 piedra, 4 hierro, 10 vidrio, 18 troncos. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 96. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Hostal 1er piso."; }
 
 		{ String _name = "HostelF2C1T3";			String _text = "Hostal 2do piso"; }
+		{ String _name = "HostelF2C1T3Lwr";			String _text = "hostal 2do piso"; }
 		{ String _name = "HostelF2vT3Lwr";			String _text = "hostal 2do piso"; }
 		{ String _name = "HostelF2C1T3Tip";			String _text = "El Hostal 2do piso se usa para alojar a tus ciudadanos cuando no tienen casa propia. Tamano: 1x5 casillas. Costo: 16 madera, 28 ladrillo, 4 piedra, 10 vidrio, 18 teja. Residencia: 3 familias de 5 ciudadanos. Efic. de Calor%: 110. Modelos: 1. Color: 1. Consejos: Estan pensados para colocarse justo a la derecha del Hostal 1er piso."; }
 

@@ -334,6 +334,34 @@ StringTable resource
 		{ String _name = "WildHoney";			String _text = "Miel Silvestre"; }
 		
 		
+	
+		{ String _name = "DSSVFlags1TEST";	String _text = "Bandera Triangular PRUEBA"; }
+		{ String _name = "FishBass";	String _text = "Lubina"; }
+		{ String _name = "FishBream";	String _text = "Brema"; }
+		{ String _name = "FishCarp";	String _text = "Carpa"; }
+		{ String _name = "FishCod";	String _text = "Bacalao"; }
+		{ String _name = "FishEel";	String _text = "Anguila"; }
+		{ String _name = "FishMullet";	String _text = "Mújol"; }
+		{ String _name = "FishPerch";	String _text = "Perca"; }
+		{ String _name = "FishPike";	String _text = "Lucio"; }
+		{ String _name = "FishSalmon";	String _text = "Salmón"; }
+		{ String _name = "FishTench";	String _text = "Tenca"; }
+		{ String _name = "FishTrout";	String _text = "Trucha"; }
+		{ String _name = "MolluscClam";	String _text = "Almeja"; }
+		{ String _name = "MolluscMussel";	String _text = "Mejillón"; }
+		{ String _name = "MolluscSnail";	String _text = "Caracol"; }
+		{ String _name = "CanvasCoatRequireFM";	String _text = "1-2 Abrigos de Lona [1 Lona] lento"; }
+		{ String _name = "DSSVFishermansCatchRequire2";	String _text = "Captura del Pescador [Perca + Mújol + Almeja + Leña]"; }
+		{ String _name = "DSSVFishermansCatchRequire3";	String _text = "Captura del Pescador [Lubina + Lucio + Anguila + Leña]"; }
+		{ String _name = "DSSVFishermansCatchRequire4";	String _text = "Captura del Pescador [Salmón + Tenca + Caracol + Leña]"; }
+		{ String _name = "BoiledBream";	String _text = "Brema Hervida"; }
+		{ String _name = "DSSVBoiledBreamRequire";	String _text = "Brema Hervida [Brema + Hierba + Agua + Leña]"; }
+		{ String _name = "ProfessionBeekeeper";	String _text = "Apicultor"; }
+		{ String _name = "ProfessionBeekeeperTip";	String _text = "Un apicultor cuida de las abejas."; }
+		{ String _name = "ProfessionBeekeeperDeath";	String _text = "fue picado por una Abeja Reina y murió."; }
+		{ String _name = "ProfessionCook";	String _text = "Cocinero"; }
+		{ String _name = "ProfessionCookTip";	String _text = "Un cocinero preparará comidas para tus ciudadanos."; }
+		{ String _name = "ProfessionCookDeath";	String _text = "murió por consumir carne podrida."; }
 	]
 }
 

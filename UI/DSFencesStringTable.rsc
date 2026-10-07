@@ -395,5 +395,14 @@ StringTable resource
 		{ String _name = "DSCornerStorageUpgradeTip";		String _text = "Mejora esto para obtener una capacidad de almacenamiento de 500, almacena Verduras, Frutas y Granos."; }
 		
 
+	
+		{ String _name = "ToolbarDSFencesTip";	String _text = "DS Fences. Una colección de componentes de cercas modulares."; }
+		{ String _name = "DSCountryStoneWall5wideLwr";	String _text = "muro de piedra rústico"; }
+		{ String _name = "MenuDSModularFencesTip";	String _text = "Componentes de Cerca Modular - Decorativos, ligados a caminos, tecla F para variantes."; }
+		{ String _name = "MenuDSStoneWallsTip";	String _text = "Muro de Piedra de Pueblo - 2 estilos de color, variantes con tecla F."; }
+		{ String _name = "MenuDSFencesDecoTip";	String _text = "Decoraciones - tecla F para variantes."; }
+		{ String _name = "MenuDSFencesDecoLanternsTip";	String _text = "Faroles"; }
+		{ String _name = "DSFenceClearBuildings";	String _text = "Eliminar Estructuras"; }
+		{ String _name = "DSFenceClearBuildingsTip";	String _text = "Elimina estructuras en el área seleccionada. NOTA: algunas cercas/portones pueden requerir su eliminación mediante mejora o el botón Eliminar del cuadro de la interfaz."; }
 	]
 }

@@ -83,6 +83,10 @@ StringTable resource
 		{ String _name = "RawMaterialNMCake2Require";			String _text = "16-20 Pasteles (8 Harina + 4 Miel + 1 Huevo)"; }
 		{ String _name = "RawMaterialNMCake3Require";			String _text = "16-20 Pasteles (8 Harina + 4 Bayas + 1 Agua)"; }
 		{ String _name = "RawMaterialNMCake4Require";			String _text = "16-20 Pasteles (8 Harina + 4 Bayas + 1 Huevo)"; }
+		{ String _name = "RawMaterialCake1Require";			String _text = "16-20 Pasteles (8 Harina + 4 Miel + 1 Agua)"; }
+		{ String _name = "RawMaterialCake2Require";			String _text = "16-20 Pasteles (8 Harina + 4 Miel + 1 Huevo)"; }
+		{ String _name = "RawMaterialCake3Require";			String _text = "16-20 Pasteles (8 Harina + 4 Bayas + 1 Agua)"; }
+		{ String _name = "RawMaterialCake4Require";			String _text = "16-20 Pasteles (8 Harina + 4 Bayas + 1 Huevo)"; }
 		{ String _name = "RawMaterialMeatPieVenisonRequire";	String _text = "9-13 Pasteles de Carne (4 Harina + 1 Agua + 1 Venado)"; }
 		{ String _name = "RawMaterialMeatPieBeefRequire";		String _text = "9-13 Pasteles de Carne (4 Harina + 1 Agua + 1 Res)"; }
 		{ String _name = "RawMaterialMeatPieMuttonRequire";		String _text = "9-13 Pasteles de Carne (4 Harina + 1 Agua + 1 Cordero)"; }

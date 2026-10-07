@@ -116,5 +116,14 @@ StringTable resource
 		{ String _name = "WorkButton";				String _text = "Elaborando"; }
 		{ String _name = "WorkButtonStop";				String _text = "cerrado"; }
 
+	
+		{ String _name = "Mead";	String _text = "Hidromiel"; }
+		{ String _name = "Honey";	String _text = "Miel"; }
+		{ String _name = "WildHoney";	String _text = "Miel Silvestre"; }
+		{ String _name = "BrewRequireLentils";	String _text = "7-10 Cerveza [100 Lentejas]"; }
+		{ String _name = "BrewRequireHoney";	String _text = "7-10 Cerveza [60 Miel]"; }
+		{ String _name = "BrewRequireWildHoney";	String _text = "7-10 Cerveza [60 Miel Silvestre]"; }
+		{ String _name = "MeadRequire";	String _text = "7-10 Hidromiel [60 Miel]"; }
+		{ String _name = "MeadWildHoneyRequire";	String _text = "7-10 Hidromiel [60 Miel Silvestre]"; }
 	]
 }

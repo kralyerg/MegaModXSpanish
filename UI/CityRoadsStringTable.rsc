@@ -409,6 +409,13 @@ StringTable resource
 		{ String _name = "CityRoads3T5x5Sidewalk";			String _text = "Caminos Urbanos 5x5 Acera"; }
 		{ String _name = "CityRoads3T5x5SidewalkLwr";			String _text = "caminos urbanos 5x5 acera"; }
 		{ String _name = "CityRoads3T5x5SidewalkTip";			String _text = "Caminos Urbanos 5x5 Acera. Coloca una acera de 5 de ancho X 5 de profundidad (Fantasma)."; }
+	
+		{ String _name = "CityRoadsToolbar1X";	String _text = "Barra de Herramientas de Calles Urbanas 1X"; }
+		{ String _name = "CityRoadsToolbar1XLwr";	String _text = "barra de herramientas de calles urbanas 1X"; }
+		{ String _name = "CityRoadsToolbar1XTip";	String _text = "Barra de Herramientas de Calles Urbanas 1X. Abre esta barra de herramientas para obtener las opciones de ancho de 1 casilla."; }
+		{ String _name = "CityRoadsToolbar2T1X";	String _text = "Barra de Herramientas de Calles Urbanas 1X"; }
+		{ String _name = "CityRoadsToolbar2T1XLwr";	String _text = "barra de herramientas de calles urbanas 1X"; }
+		{ String _name = "CityRoadsToolbar2T1XTip";	String _text = "Barra de Herramientas de Calles Urbanas 1X. Abre esta barra de herramientas para obtener las opciones de ancho de 1 casilla."; }
 	]
 }
 
